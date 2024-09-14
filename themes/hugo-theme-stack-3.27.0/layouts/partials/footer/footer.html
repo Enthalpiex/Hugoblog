@@ -1,0 +1,8 @@
+{{- $ThemeVersion := "3.27.0" -}}
+<footer class="site-footer">
+    {{- partial "footer/components/languages.html" . -}}
+    
+    <section class="copyright">
+        &copy; {{ now.Format "2024" }} {{ .Site.Title }}
+    </section>
+</footer>

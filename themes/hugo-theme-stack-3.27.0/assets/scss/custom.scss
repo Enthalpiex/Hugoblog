@@ -1,0 +1,207 @@
+/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+
+/* 现有的自定义样式（如果有的话） */
+
+/* 新添加的时间轴样式 */
+.widget-archive--timeline {
+    position: relative;
+    padding-left: 40px;
+    max-height: none; // 移除最大高度限制
+    height: 100%; // 使用所有可用空间
+    overflow-y: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.widget-archive--timeline::-webkit-scrollbar {
+    display: none;
+}
+
+.widget-archive--timeline::-webkit-scrollbar-track {
+    background: var(--card-background);
+}
+
+.widget-archive--timeline::-webkit-scrollbar-thumb {
+    background-color: var(--accent-color);
+    border-radius: 20px;
+    border: 3px solid var(--card-background);
+}
+
+.timeline-item {
+    position: relative;
+    margin-bottom: 50px; // 增加行间距
+}
+
+.timeline-marker {
+    position: absolute;
+    left: -40px;
+    width: 12px; // 缩小圆点
+    height: 12px; // 缩小圆点
+    border-radius: 50%;
+    background-color: var(--accent-color);
+    top: 7px; // 调整位置以对齐文本
+    z-index: 2;
+}
+
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -31px; // 调整线的位置
+    width: 2px;
+    height: calc(100% + 40px);
+    background-color: var(--accent-color-opacity);
+    top: 5px;
+}
+
+.timeline-item:last-child::before {
+    display: none;
+}
+
+.timeline-content {
+    padding-left: 25px; // 增加内容与线的距离
+}
+
+.timeline-title {
+    margin-bottom: 20px; // 增加标题与月份列表的间距
+    font-size: 1.3em;
+}
+
+.timeline-title a {
+    color: var(--body-text-color);
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.timeline-title a:hover {
+    color: var(--accent-color);
+}
+
+.timeline-title .count {
+    font-size: 0.8em;
+    color: var(--card-text-color-secondary);
+    margin-left: 5px;
+}
+
+.timeline-months {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 10px;
+}
+
+.timeline-months li {
+    margin-bottom: 15px; // 增加月份之间的间距
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.timeline-months a {
+    color: var(--card-text-color-secondary);
+    text-decoration: none;
+    transition: color 0.3s;
+    font-size: 1em;
+}
+
+.timeline-months a:hover {
+    color: var(--accent-color);
+}
+
+/* 时间轴当前日期样式 */
+.timeline-current-date {
+    /* 注释掉以下样式以隐藏当前日期横杠 */
+    /*
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background-color: #ffffff;  // Obsidian紫色
+    z-index: 3;
+    */
+}
+
+.timeline-current-date::after {
+    /* 注释掉以下样式以隐藏当前日期文本 */
+    /*
+    content: attr(data-date);
+    position: absolute;
+    right: 0;
+    top: -20px;
+    font-size: 0.9em;
+    color: var(--card-text-color-secondary);
+    background-color: var(--card-background);
+    padding: 2px 5px;
+    border-radius: 3px;
+    */
+}
+
+.timeline-back-button {
+    display: none;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    padding: 5px 10px;
+    background-color: var(--accent-color);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.timeline-back-button:hover {
+    background-color: var(--accent-color-darker);
+}
+
+body {
+  position: relative;
+  background-color: rgba(128, 128, 128, 0.7); /* 增加不透明度 */
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(128, 128, 128, 0.1); /* 保持低不透明度 */
+  backdrop-filter: blur(3px); /* 减少模糊效果 */
+  -webkit-backdrop-filter: blur(2px); /* 为 Safari 添加前缀 */
+  z-index: -1;
+}
+
+.parallax-bg {
+    position: fixed;
+    top: -5%;  // 稍微扩大背景尺寸
+    left: -5%;
+    right: -5%;
+    bottom: -5%;
+    z-index: -2;
+    background-image: url('../images/2k.png');
+    background-size: 110% 110%;  // 稍微放大背景
+    background-position: center;
+    background-repeat: no-repeat;
+    pointer-events: none; // 防止干扰页面交互
+    transition: transform 0.1s ease-out;  // 添加平滑过渡效果
+}
+
+// 添加新的类来控制视差效果
+.parallax-bg {
+    position: fixed;
+    top: -5%;  // 稍微扩大背景尺寸
+    left: -5%;
+    right: -5%;
+    bottom: -5%;
+    z-index: -2;
+    background-image: url('../images/2k.png');
+    background-size: 110% 110%;  // 稍微放大背景
+    background-position: center;
+    background-repeat: no-repeat;
+    pointer-events: none; // 防止干扰页面交互
+    transition: transform 0.1s ease-out;  // 添加平滑过渡效果
+}
+
+// 当按钮被隐藏时，确保不会留下空白
+#theme-toggle:not(:visible) {
+    display: none !important;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}" dir="{{ default `ltr` .Language.LanguageDirection }}">
+    <head>
+        {{- partial "head/head.html" . -}}
+        {{- block "head" . -}}{{ end }}
+    </head>
+    <body class="{{ block `body-class` . }}{{ end }}">
+        {{- partial "head/colorScheme" . -}}
+
+        {{/* The container is wider when there's any activated widget */}}
+        {{- $hasWidget := false -}}
+        {{- range .Site.Params.widgets -}}
+            {{- if gt (len .) 0 -}}
+                {{- $hasWidget = true -}}
+            {{- end -}}
+        {{- end -}}
+        <div class="container main-container flex on-phone--column {{ if $hasWidget }}extended{{ else }}compact{{ end }}">
+            {{- block "left-sidebar" . -}}
+                {{ partial "sidebar/left.html" . }}
+            {{- end -}}
+            {{- block "right-sidebar" . -}}{{ end }}
+            <main class="main full-width">
+                {{- block "main" . }}{{- end }}
+            </main>
+        </div>
+        {{ partial "footer/include.html" . }}
+        <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const e = document.createElement("div");
+            e.className = "parallax-bg",
+            document.body.insertBefore(e, document.body.firstChild);
+            let t = !1;
+            function n(n, s) {
+                const o = (n - window.innerWidth / 2) * 0.03,  
+                      i = (s - window.innerHeight / 2) * 0.03; 
+                e.style.transform = `translate(${o}px, ${i}px)`,
+                t = !1
+            }
+            document.addEventListener("mousemove", function(e) {
+                t || (window.requestAnimationFrame(function() {
+                    n(e.clientX, e.clientY)
+                }),
+                t = !0)
+            })
+        });
+        </script>
+    </body>
+</html>

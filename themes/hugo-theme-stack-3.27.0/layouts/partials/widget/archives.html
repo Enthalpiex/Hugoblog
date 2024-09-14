@@ -1,0 +1,47 @@
+{{- $query := first 1 (where .Context.Site.Pages "Layout" "==" "archives") -}}
+{{- $context := .Context -}}
+{{- $limit := default 20 .Params.limit -}}
+{{- if $query -}}
+    {{- $archivesPage := index $query 0 -}}
+    <section class="widget archives">
+        <div class="widget-icon">
+            {{ partial "helper/icon" "infinity" }}
+        </div>
+        <h2 class="widget-title section-title">{{ T "widget.archives.title" }}</h2>
+
+        {{ $pages := where $context.Site.RegularPages "Type" "in" $context.Site.Params.mainSections }}
+        {{ $notHidden := where $context.Site.RegularPages "Params.hidden" "!=" true }}
+        {{ $filtered := ($pages | intersect $notHidden) }}
+        {{ $archives := $filtered.GroupByDate "2006" }}
+        
+        <div class="widget-archive--timeline">
+            <div class="timeline-current-date"></div>
+            {{ range $index, $item := first $limit ($archives) }}
+                {{- $id := lower (replace $item.Key " " "-") -}}
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">
+                            <a href="{{ $archivesPage.RelPermalink }}#{{ $id }}">
+                                {{ .Key }}
+                                <span class="count">({{ len $item.Pages }})</span>
+                            </a>
+                        </h3>
+                        <ul class="timeline-months">
+                            {{ range first 5 $item.Pages }}
+                                <li>
+                                    <a href="{{ .RelPermalink }}">
+                                        {{ .Date.Format "01-02" }} {{ .Title | truncate 30 "..." }}
+                                    </a>
+                                </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+        <button class="timeline-back-button" style="display: none;">Back to Current</button>
+    </section>
+{{- else -}}
+    {{- warnf "Archives page not found. Create a page with layout: archives." -}}
+{{- end -}}
