@@ -1,0 +1,37 @@
+<!-- Debug info -->
+<p>Total pages: {{ len .Site.RegularPages }}</p>
+<p>Main sections: {{ .Site.Params.mainSections }}</p>
+<!-- End debug info -->
+
+<section class="widget blog-stats">
+    <h2 class="widget-title">博客统计</h2>
+    <div class="blog-stats-container">
+        {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+        {{ $totalPosts := len $pages }}
+        <div class="stats-item">
+            <span class="stats-value">{{ $totalPosts }}</span>
+            <span class="stats-label">总文章数</span>
+        </div>
+        {{ $latestPost := index $pages 0 }}
+        {{ $daysSinceLastPost := div (sub now.Unix $latestPost.Date.Unix) 86400 }}
+        <div class="stats-item">
+            <span class="stats-value">{{ $daysSinceLastPost }}</span>
+            <span class="stats-label">距上次更新（天）</span>
+        </div>
+        {{ $postsLastYear := where $pages "Date.Unix" ">" (sub now.Unix 31536000) }}
+        <div class="stats-item">
+            <span class="stats-value">{{ len $postsLastYear }}</span>
+            <span class="stats-label">过去一年的文章</span>
+        </div>
+        <div class="stats-graph">
+            {{ range $i := (seq 0 51) }}
+                {{ $weekStart := (sub now.Unix (mul (add $i 1) 604800)) }}
+                {{ $weekEnd := (sub now.Unix (mul $i 604800)) }}
+                {{ $postsThisWeek := where $pages "Date.Unix" ">" $weekStart }}
+                {{ $postsThisWeek := where $postsThisWeek "Date.Unix" "<=" $weekEnd }}
+                {{ $count := len $postsThisWeek }}
+                <div class="graph-item" style="opacity: {{ div $count 5.0 }};" title="{{ $count }} posts"></div>
+            {{ end }}
+        </div>
+    </div>
+</section>
