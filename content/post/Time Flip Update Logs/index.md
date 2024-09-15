@@ -2,7 +2,7 @@
 title: Time Flip Update Logs
 author: Entropiex
 description: Updates Records
-date: 2024-01-26
+date: 2024-09-15
 image: Updates.png
 categories: Efficiency Project
 math: true
