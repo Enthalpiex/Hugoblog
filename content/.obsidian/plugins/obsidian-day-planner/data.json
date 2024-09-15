@@ -1,0 +1,63 @@
+{
+  "snapStepMinutes": 5,
+  "progressIndicator": "none",
+  "showTaskNotification": true,
+  "zoomLevel": 2,
+  "timelineIcon": "calendar-with-checkmark",
+  "endLabel": "All done",
+  "startHour": 5,
+  "timelineDateFormat": "YYYY-MM-DD",
+  "centerNeedle": true,
+  "plannerHeading": "Day planner",
+  "plannerHeadingLevel": 2,
+  "timelineColored": true,
+  "timelineStartColor": "#006466",
+  "timelineEndColor": "#4d194d",
+  "timestampFormat": "HH:mm",
+  "hourFormat": "H",
+  "dataviewSource": "",
+  "extendDurationUntilNext": false,
+  "defaultDurationMinutes": 30,
+  "showTimestampInTaskBlock": true,
+  "showUncheduledTasks": true,
+  "showUnscheduledNestedTasks": true,
+  "showNow": true,
+  "showNext": true,
+  "pluginVersion": "0.20.4",
+  "showCompletedTasks": true,
+  "showSubtasksInTaskBlocks": true,
+  "icals": [],
+  "colorOverrides": [
+    {
+      "text": "#Unfinished ",
+      "darkModeColor": "#881111",
+      "color": "#cd0e0e"
+    },
+    {
+      "text": "#LessTime",
+      "darkModeColor": "#884b11",
+      "color": "#cd6a0e"
+    },
+    {
+      "text": "#OverTime",
+      "darkModeColor": "#118880",
+      "color": "#0ecdb7"
+    }
+  ],
+  "editMode": "simple",
+  "copyOnDrag": false,
+  "releaseNotes": true,
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "notePath": "Daily/Day Planner模板A.md",
+      "date": "Sat Aug 05 2023"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": false,
+  "timelineZoomLevel": 4
+}
