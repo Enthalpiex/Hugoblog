@@ -25,10 +25,10 @@ jobs:
           run: hugo -D
 
         - name: Deploy Web
-          uses: peaceiris/actions-gh-pages@v3
+          uses: peaceiris/actions-gh-pages@v4
           with:
-              personal_token: ${{ secrets.TKEN }}
-              external_repository: Enthalpiex/enthalpiex.github.io
-              publish_branch: main
-              publish_dir: ./public
+              PERSONAL_TOKEN: ${{ secrets.TKEN }}
+              EXTERNAL_REPOSITORY: Enthalpiex/enthalpiex.github.io
+              PUBLISH_BRANCH: main
+              PUBLISH_DIR: ./public
               commit_message: auto deploy
