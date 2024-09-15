@@ -16,11 +16,11 @@ hasCJKLanguage: true
 languages:
     en:
         languageName: English
-        title: Your English Title
+        title: Entropiex
         weight: 1
     zh-cn:
         languageName: 中文
-        title: 你的中文标题
+        title: Entropiex
         weight: 2
 
 services:
@@ -46,8 +46,8 @@ params:
     favicon: /avatar-modified.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2024  
-        customText:
+        since: 2024
+        customText: Owned by Entropiex
 
     dateFormat:
         published: 2006-01-02 

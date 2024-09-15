@@ -16,6 +16,7 @@ menu:
             icon: link
 
 comments: false
+math: true
 ---
 
 To use this feature, add `links` section to frontmatter.
