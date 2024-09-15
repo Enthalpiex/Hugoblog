@@ -177,30 +177,13 @@ body::before {
     right: -5%;
     bottom: -5%;
     z-index: -2;
-    background-image: url('../images/2k.png');
+    background-image: url('https://images.cubox.pro/2y2hvx/file/2024091508204954542/2k.png'); // 替换为实际的网络图片URL
     background-size: 110% 110%;  // 稍微放大背景
     background-position: center;
     background-repeat: no-repeat;
     pointer-events: none; // 防止干扰页面交互
     transition: transform 0.1s ease-out;  // 添加平滑过渡效果
 }
-
-// 添加新的类来控制视差效果
-.parallax-bg {
-    position: fixed;
-    top: -5%;  // 稍微扩大背景尺寸
-    left: -5%;
-    right: -5%;
-    bottom: -5%;
-    z-index: -2;
-    background-image: url('../images/2k.png');
-    background-size: 110% 110%;  // 稍微放大背景
-    background-position: center;
-    background-repeat: no-repeat;
-    pointer-events: none; // 防止干扰页面交互
-    transition: transform 0.1s ease-out;  // 添加平滑过渡效果
-}
-
 // 当按钮被隐藏时，确保不会留下空白
 #theme-toggle:not(:visible) {
     display: none !important;
