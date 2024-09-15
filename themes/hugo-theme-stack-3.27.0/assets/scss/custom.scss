@@ -5,52 +5,53 @@
 /* 新添加的时间轴样式 */
 .widget-archive--timeline {
     position: relative;
-    padding-left: 40px;
-    max-height: none; // 移除最大高度限制
-    height: 100%; // 使用所有可用空间
+    padding-left: 30px;
+    padding-right: 10px;  // 添加右侧内边距
+    max-height: 600px; // 或者你想要的任何高度
     overflow-y: auto;
-    scrollbar-width: none;
-    -ms-overflow-style: none;
+    scrollbar-width: none; // 对 Firefox 隐藏滚动条
+    -ms-overflow-style: none; // 对 IE 和 Edge 隐藏滚动条
 }
 
 .widget-archive--timeline::-webkit-scrollbar {
-    display: none;
+    width: 0;
+    background: transparent; // 对 Chrome, Safari 和 Opera 隐藏滚动条
 }
 
 .widget-archive--timeline::-webkit-scrollbar-track {
-    background: var(--card-background);
+    background: transparent;
 }
 
 .widget-archive--timeline::-webkit-scrollbar-thumb {
-    background-color: var(--accent-color);
-    border-radius: 20px;
-    border: 3px solid var(--card-background);
+    background-color: rgba(155, 155, 155, 0.5);
+    border-radius: 3px;
 }
 
 .timeline-item {
     position: relative;
-    margin-bottom: 50px; // 增加行间距
+    margin-bottom: 30px;  // 增加项目之间的间距
+    transition: all 0.3s ease;
 }
 
 .timeline-marker {
     position: absolute;
-    left: -40px;
-    width: 12px; // 缩小圆点
-    height: 12px; // 缩小圆点
+    left: -30px;
+    width: 10px;
+    height: 10px;
     border-radius: 50%;
     background-color: var(--accent-color);
-    top: 7px; // 调整位置以对齐文本
+    top: 7px;
     z-index: 2;
 }
 
 .timeline-item::before {
     content: '';
     position: absolute;
-    left: -31px; // 调整线的位置
+    left: -26px;
     width: 2px;
-    height: calc(100% + 40px);
+    height: calc(100% + 30px);
     background-color: var(--accent-color-opacity);
-    top: 5px;
+    top: 7px;
 }
 
 .timeline-item:last-child::before {
@@ -58,12 +59,12 @@
 }
 
 .timeline-content {
-    padding-left: 25px; // 增加内容与线的距离
+    padding-left: 15px;
 }
 
 .timeline-title {
-    margin-bottom: 20px; // 增加标题与月份列表的间距
-    font-size: 1.3em;
+    margin-bottom: 15px;  // 增加标题和内容之间的间距
+    font-size: 1.2em;
 }
 
 .timeline-title a {
@@ -89,7 +90,8 @@
 }
 
 .timeline-months li {
-    margin-bottom: 15px; // 增加月份之间的间距
+    margin-bottom: 10px;  // 增加月份项目之间的间距
+    line-height: 1.5;  // 增加行高
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -99,46 +101,42 @@
     color: var(--card-text-color-secondary);
     text-decoration: none;
     transition: color 0.3s;
-    font-size: 1em;
+    font-size: 0.95em;
 }
 
 .timeline-months a:hover {
     color: var(--accent-color);
 }
 
-/* 时间轴当前日期样式 */
 .timeline-current-date {
-    /* 注释掉以下样式以隐藏当前日期横杠 */
-    /*
     position: absolute;
     left: 0;
     right: 0;
     height: 2px;
-    background-color: #ffffff;  // Obsidian紫色
+    background-color: #a0a0a0;
     z-index: 3;
-    */
 }
 
 .timeline-current-date::after {
-    /* 注释掉以下样式以隐藏当前日期文本 */
-    /*
     content: attr(data-date);
     position: absolute;
     right: 0;
     top: -20px;
     font-size: 0.9em;
-    color: var(--card-text-color-secondary);
+    color: #a0a0a0;
     background-color: var(--card-background);
     padding: 2px 5px;
     border-radius: 3px;
-    */
 }
 
+// 移除 .timeline-zoom-wheel 相关样式，因为我们不再需要它
+
+// 确保 Back 按钮在滚动时可见
 .timeline-back-button {
-    display: none;
-    position: absolute;
+    position: sticky;
     bottom: 10px;
     right: 10px;
+    float: right;
     padding: 5px 10px;
     background-color: var(--accent-color);
     color: white;
@@ -154,7 +152,6 @@
 
 body {
   position: relative;
-  background-color: rgba(128, 128, 128, 0.7); /* 增加不透明度 */
 }
 
 body::before {
@@ -164,9 +161,12 @@ body::before {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(128, 128, 128, 0.1); /* 保持低不透明度 */
-  backdrop-filter: blur(3px); /* 减少模糊效果 */
-  -webkit-backdrop-filter: blur(2px); /* 为 Safari 添加前缀 */
+  background-color: rgba(89, 89, 89, 0.25); // 灰色半透明背景
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: rgba(14, 14, 14, 0.19) 0px 6px 15px 0px;
+  -webkit-box-shadow: rgba(14, 14, 14, 0.19) 0px 6px 15px 0px;
   z-index: -1;
 }
 
@@ -177,7 +177,8 @@ body::before {
     right: -5%;
     bottom: -5%;
     z-index: -2;
-    background-image: url('https://images.cubox.pro/2y2hvx/file/2024091508204954542/2k.png'); // 替换为实际的网络图片URL
+    //background-image: url('https://images.cubox.pro/2y2hvx/file/2024091508204954542/2k.png');
+    background-image: url('/2k.png');
     background-size: 110% 110%;  // 稍微放大背景
     background-position: center;
     background-repeat: no-repeat;
@@ -187,4 +188,79 @@ body::before {
 // 当按钮被隐藏时，确保不会留下空白
 #theme-toggle:not(:visible) {
     display: none !important;
+}
+
+// 通用搜索框样式
+.search-form {
+    position: relative;
+    width: 100%;
+    margin: 10px 0;
+    transition: all 0.3s ease;
+
+    p {
+        position: relative;
+        margin: 0;
+    }
+
+    input {
+        width: 100%;
+        padding: 12px 40px 12px 15px;
+        border: 2px solid var(--card-text-color-secondary);
+        border-radius: 20px;
+        background-color: transparent;
+        color: var(--card-text-color-main);
+        font-size: 16px;
+        line-height: 1.5;
+        transition: all 0.3s ease;
+
+        &::placeholder {
+            color: var(--card-text-color-secondary);
+            opacity: 0.7;
+        }
+
+        &:focus {
+            outline: none;
+            border-color: var(--accent-color);
+            background-color: rgba(var(--card-background-color), 0.1);
+        }
+    }
+
+    button {
+        position: absolute;
+        right: 15px;
+        top: 50%;
+        transform: translateY(-50%);
+        background: none;
+        border: none;
+        color: var(--card-text-color-secondary);
+        cursor: pointer;
+        transition: all 0.3s ease;
+        font-size: 20px;
+
+        &:hover {
+            color: var(--accent-color);
+        }
+    }
+
+    &:hover input,
+    input:focus {
+        background-color: rgba(var(--card-background-color), 0.1);
+    }
+}
+
+// 确保搜索框与其他部件对齐
+.widget.search {
+    padding: 0;  // 移除内边距以对齐
+}
+
+// 调整archives部件的样式以保持一致性
+.widget.archives {
+    margin-top: 20px;  // 增加与搜索框的间距
+}
+
+// 主页和搜索页面搜索框样式保持一致
+.homepage .search-form,
+.template-search .search-form {
+    margin: 0;
+    width: 100%;
 }

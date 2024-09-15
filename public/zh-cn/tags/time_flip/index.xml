@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Time_Flip on Entropiex</title>
+        <link>http://localhost:1313/zh-cn/tags/time_flip/</link>
+        <description>Recent content in Time_Flip on Entropiex</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Entropiex</copyright>
+        <lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/time_flip/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Obsidian is not ENOUGH</title>
+        <link>http://localhost:1313/zh-cn/p/obsidian-is-not-enough/</link>
+        <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/zh-cn/p/obsidian-is-not-enough/</guid>
+        <description>&lt;p&gt;可以说这是最糟糕的一个月。尽管DSα最初还不错，但是表格的复杂性和计算的繁琐使花在这个“效率系统”的时间上过多，浪费了大量时间却没有实际成果。自动计算时间的程序并没有什么实际作用，我也没有找到合适的方法总结和处理每天产生的大量数据。&lt;/p&gt;
+&lt;p&gt;在Obsidian上重新构建DSα的确简化了许多内容，但是依然无法解决根本上的问题，即不够直观。表格的局限性和Obsidian思维导图软件的令人唏嘘的功能让我不得不选择其它软件构建这套系统。&lt;/p&gt;
+&lt;p&gt;目前，我正在将其迁移到Simplemind Pro，一款评分不错的思维导图软件。完全自由的构型和节点可以让原先的内容从表格里解放出来，因为最好的选择就是“在一个巨大的平面上显示一切”，所见即所得。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Brand New - Time Flip</title>
+        <link>http://localhost:1313/zh-cn/p/brand-new-time-flip/</link>
+        <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/zh-cn/p/brand-new-time-flip/</guid>
+        <description>&lt;p&gt;Directivity system α 已经完成最终版本并封存。Timeflip将所有先前内容重制更新。&lt;/p&gt;
+&lt;p&gt;Directivity system α 是根据最新理论成果进行时间管理的首次尝试，收获了许多数据和经验。Timeflip 是D.s. α 的重置更新版本，以解决其存在的诸多问题，扩大了管理范围，并且在繁琐程度上进行大幅度优化。&lt;/p&gt;
+&lt;h2 id=&#34;theoretical-basis&#34;&gt;Theoretical basis
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Timeflp将延续D.s. α的特点，将成果系统化，使用Result list替换Todo list&lt;/li&gt;
+&lt;li&gt;和D.s. α不同的是，目标设定将不会受到排斥，同时使用Timeline解决直观性问题&lt;/li&gt;
+&lt;li&gt;引入时间框架概念，预习&amp;amp;&lt;strong&gt;复习&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;取消Bar 概念&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;m1-life&#34;&gt;M1-Life
+&lt;/h2&gt;&lt;h4 id=&#34;health&#34;&gt;Health
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;体育活动，每周不少于1.5小时&lt;/li&gt;
+&lt;li&gt;晚餐时准时吃药&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;rest&#34;&gt;Rest
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;冥想&lt;/li&gt;
+&lt;li&gt;准时作息，22:30睡觉，6:30前起床&lt;/li&gt;
+&lt;li&gt;准时洗漱，22:10洗漱，6:40前洗漱&lt;/li&gt;
+&lt;li&gt;准时饮食，7:40早餐，12:30中餐，18:00晚餐&lt;/li&gt;
+&lt;li&gt;适量饮水，每日1600ml&lt;/li&gt;
+&lt;li&gt;休闲活动，每周≥1.5小时&lt;/li&gt;
+&lt;li&gt;视频娱乐，每周≤1小时&lt;/li&gt;
+&lt;li&gt;电子游戏，每周≤4小时&lt;/li&gt;
+&lt;li&gt;音乐时间，每周≥2小时&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;learn&#34;&gt;Learn
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;阅读，每周≥5小时&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;m2-study&#34;&gt;M2-Study
+&lt;/h2&gt;&lt;h3 id=&#34;primary&#34;&gt;PRIMARY
+&lt;/h3&gt;&lt;h4 id=&#34;language-400h&#34;&gt;Language (400H)
+&lt;/h4&gt;&lt;h4 id=&#34;math&#34;&gt;Math
+&lt;/h4&gt;&lt;h5 id=&#34;math-10-30h&#34;&gt;Math 10 (30H)
+&lt;/h5&gt;&lt;h5 id=&#34;amc-10-500h&#34;&gt;AMC 10 (500H)
+&lt;/h5&gt;&lt;h5 id=&#34;calculus-80h&#34;&gt;Calculus (80H)
+&lt;/h5&gt;&lt;h4 id=&#34;coding-100h&#34;&gt;Coding (100H)
+&lt;/h4&gt;&lt;h3 id=&#34;secondary&#34;&gt;SECONDARY
+&lt;/h3&gt;&lt;h4 id=&#34;hardware-dev-50h&#34;&gt;Hardware Dev (50H)
+&lt;/h4&gt;&lt;h4 id=&#34;davinci-100h&#34;&gt;DaVinci (100H)
+&lt;/h4&gt;&lt;h4 id=&#34;molding-50h&#34;&gt;Molding (50H)
+&lt;/h4&gt;&lt;h2 id=&#34;time-table&#34;&gt;Time Table
+&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;Monday-Thursday
+6:30-8:05
+15:20-22:00
+8.25H
+
+Friday
+6:30-8:05
+15:20-22:00
+9.16H
+
+Saturday
+7:00-22:00
+
+Sunday
+7:00-22:25
+15.42H&lt;/code&gt;&lt;/pre&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,1144 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="The first efficiency system">
+<title>Directivity System α</title>
+
+<link rel='canonical' href='http://localhost:1313/en/p/directivity-system-%CE%B1/'>
+
+<link rel="stylesheet" href="/scss/style.min.016e3f1be0bd4aeaeb6dce8d78ad5928fd359dea1d85c320ba20f99fa7f86104.css"><meta property='og:title' content="Directivity System α">
+<meta property='og:description' content="The first efficiency system">
+<meta property='og:url' content='http://localhost:1313/en/p/directivity-system-%CE%B1/'>
+<meta property='og:site_name' content='Entropiex'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='DSα' /><meta property='article:published_time' content='2024-01-02T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2024-01-02T00:00:00&#43;00:00'/>
+<meta name="twitter:title" content="Directivity System α">
+<meta name="twitter:description" content="The first efficiency system">
+    <link rel="shortcut icon" href="/avatar-modified.ico" />
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            localStorage.setItem(colorSchemeKey, "dark");
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/en/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar-modified_hu7660089923708862548.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/en">Entropiex</a></h1>
+            <h2 class="site-description">Personal BLOG</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='https://github.com/Enthalpiex'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://forum.obsidian.md/'
+                        target="_blank"
+                        title="Obsidian Forum"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-messages" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M21 14l-3 -3h-7a1 1 0 0 1 -1 -1v-6a1 1 0 0 1 1 -1h9a1 1 0 0 1 1 1v10" />
+  <path d="M14 15v2a1 1 0 0 1 -1 1h-7l-3 3v-10a1 1 0 0 1 1 -1h2" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='/index.xml'
+                        target="_blank"
+                        title="RSS"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-rss" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="5" cy="19" r="1" />
+  <path d="M4 4a16 16 0 0 1 16 16" />
+  <path d="M4 11a9 9 0 0 1 9 9" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/en/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/en/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>About</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/en/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/en/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/en/links/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Links</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    
+                        <li id="i18n-switch">  
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                            <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                                
+                                    <option value="http://localhost:1313/en/" selected>English</option>
+                                
+                                    <option value="http://localhost:1313/zh-cn/" >中文</option>
+                                
+                            </select>
+                        </li>
+                    
+                
+
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table of contents</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#directivity-system-α">Directivity System α</a></li>
+    <li><a href="#whats-new">What&rsquo;s NEW</a></li>
+    <li><a href="#main">Main</a>
+      <ol>
+        <li>
+          <ol>
+            <li><a href="#theoretical-basis">Theoretical basis:</a></li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+  </ol>
+
+  <ol>
+    <li><a href="#time-test">TIME TEST</a></li>
+    <li><a href="#progress-plan">Progress plan</a>
+      <ol>
+        <li><a href="#january">January</a></li>
+        <li><a href="#february">February</a></li>
+      </ol>
+    </li>
+  </ol>
+
+  <ol>
+    <li><a href="#extream-efficiency-test">EXTREAM EFFICIENCY TEST</a></li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/en/categories/efficiency-project/" >
+                Efficiency Project
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/en/p/directivity-system-%CE%B1/">Directivity System α</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            The first efficiency system
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2024-01-02</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+        <footer class="article-translations">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+            <div>
+                
+                    <a href="http://localhost:1313/zh-cn/p/directivity-system-%CE%B1/" class="link">中文</a>
+                
+            </div>
+        </footer>
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <p>It is necessary to do something new in the new year. The efficiency research in 2023 has not even made any progress on paper, and the low efficiency is amazing&hellip;</p>
+<p>I plan to combine the methods of summarizing and experimenting in 2022 and 2023 and the latest theoretical results into a system that can promote efficiency improvement.</p>
+<p>This is the Directivity system.</p>
+<p>It will be built on Obsidian and combined with a complete knowledge base to form an effective workflow.</p>
+<h2 id="overview">Overview
+</h2><p>Annual plan for 2024 is created based on [[Directivity system α]] and will be committed to providing goal orientation for the whole year.</p>
+<h2 id="directivity-system-α">Directivity System α
+</h2><ol>
+<li>
+<p><strong>Long-lasting plan</strong>
+<strong>Long-lasting plan</strong> is the overall plan, which is a long-term ideal plan and overall goal. <strong>Long-lasting plan</strong> plans take a certain amount of time to complete because of their long time span.</p>
+</li>
+<li>
+<p><strong>Annual plan</strong>
+<strong>Annual plan</strong> will provide an index for each year&rsquo;s goals and judge the work status of the whole year based on this.</p>
+</li>
+<li>
+<p><strong>Monthly plan/Weekly plan</strong>
+<strong>Monthly plan</strong> will refine the annual goal arrangement to get monthly and weekly goals.</p>
+</li>
+<li>
+<p><strong>Day results</strong>
+<strong>Day results</strong> As the most basic unit, it no longer uses the planning method, but directly counts the results, which is conducive to the visualization of the results and goal progress.</p>
+</li>
+</ol>
+<h2 id="whats-new">What&rsquo;s NEW
+</h2><ul>
+<li>
+<p>Annual plan for 2024 systematizes goals, plans, and results for the first time, making them measurable.</p>
+</li>
+<li>
+<p>Annual plan for 2024 will replace Todo list with <strong>Result list</strong>, <strong>Result list</strong> is the result of &ldquo;committed to production&rdquo;, while most Todo lists usually exist separately from the commitment to produce results.</p>
+</li>
+<li>
+<p>Annual plan for 2024 is also the first practice of Directivity system α. This will help you notice the most important results. Then focus on the upcoming time frame.</p>
+</li>
+</ul>
+<h2 id="main">Main
+</h2><h4 id="theoretical-basis">Theoretical basis:
+</h4><ul>
+<li>
+<p><strong>Extremely Efficiency</strong> : After a year of research on work efficiency, Paramount efficiency theory has been proven to be the key to efficient work completion. In 2024, <strong>Extremely Efficiency</strong> will inherit this and use it as a basis for rapid iteration and practice of various theories.</p>
+</li>
+<li>
+<p><strong>Endorphins and long-termism</strong>: Increase endorphins and reduce dopamine through <strong>long-termism</strong> and sustainable actions. Physical and mental health is the basis for achieving goals, and long-term persistence in action and maintaining high efficiency can lead to better results and endorphin income.</p>
+</li>
+<li>
+<p><strong>Result oriented</strong>: One of the biggest changes in 2024 is to change from plan-oriented to result-oriented. Results are evaluated directly by goals, rather than by whether the plan is completed. Result orientation pays more attention to the direct connection between the completed content and the goal, so as to know where you are.</p>
+</li>
+<li>
+<p><strong>Rapid iteration and experimentalism</strong>: <strong>Rapid iteration</strong> can quickly improve the unreasonable aspects of theory or practice, and quickly improve through continuous trial and error to achieve the final results. <strong>experimentalism</strong> is the biggest helper when facing unknown theories or events. Many theories are not universal, so it is necessary to build methods and systems that belong only to you.</p>
+</li>
+<li>
+<p><strong>First principles</strong> : First principles thinking helps to find the root of the problem and avoid useless work and superficial solutions.</p>
+</li>
+<li>
+<p><strong>Feynman</strong> : The Feynman learning method aims to repeat facts and principle knowledge to discover and determine whether the content has been mastered.</p>
+</li>
+<li>
+<p><strong>Time Boxing</strong> : The <strong>Time Boxing</strong> working method aims to divide time into small enough bars for allocation and planning</p>
+</li>
+</ul>
+<h1 id="build-version">Build version
+</h1><h2 id="time-test">TIME TEST
+</h2><ul>
+<li>
+<p>Wash10min</p>
+</li>
+<li>
+<p>Breakfirst15min</p>
+</li>
+<li>
+<p>Lunch20min</p>
+</li>
+<li>
+<p>dinner30min</p>
+</li>
+<li>
+<p>Wash10min</p>
+<p><strong>600-730 (1.50H (18bar))</strong>
+<strong>755-1225 (4.50H (54bar))</strong>
+<strong>1245-1800 (5.92H (71bar))</strong>
+<strong>1830-2200 (3.50H (42bar))</strong>
+<strong>15.42H (185bar)</strong></p>
+<p><strong>600-730 (1.50H (18bar))</strong>
+<strong>1510-1800 (2.83H (34bar))</strong>
+<strong>1830-2200 (3.50H (42bar))</strong>
+<strong>7.83H (94bar)</strong></p>
+</li>
+</ul>
+<h2 id="progress-plan">Progress plan
+</h2><ul>
+<li>
+<p>January
+<strong>8 Holidays×15.42H (8×185bar)</strong>
+<strong>16 Schooldays×7.83H (16×94bar)</strong>
+<strong>AvailableTime: 248.64H (2984bar)</strong></p>
+</li>
+<li>
+<p>February
+<strong>10 Holidays×15.42H (10×185bar)</strong>
+<strong>19 Schooldays×7.83H (19×94bar)</strong>
+<strong>AvailableTime: 302.97H (3636bar)</strong></p>
+</li>
+<li>
+<p>Martch
+<strong>20 Holidays×15.42H (20×185bar)</strong>
+<strong>11 Schooldays×7.83H (11×94bar)</strong>
+<strong>AvailableTime: 394.53H (4737bar)</strong></p>
+</li>
+<li>
+<p>April
+<strong>10 Holidays×15.42H (10×185bar)</strong>
+<strong>20 Schooldays×7.83H (20×94bar)</strong>
+<strong>AvailableTime: 310.8H (3730bar)</strong></p>
+</li>
+<li>
+<p>May
+<strong>11 Holidays×15.42H (11×185bar)</strong>
+<strong>20 Schooldays×7.83H (20×94bar)</strong>
+<strong>AvailableTime: 326.22H (3915bar)</strong></p>
+</li>
+<li>
+<p>June
+<strong>7 Holidays×15.42H (7×185bar)</strong>
+<em>9 Holidays×15.42H (9×185bar)</em>
+<strong>14 Schooldays×7.83H (14×94bar)</strong>
+<strong>AvailableTime: 217.56H (2611bar)</strong>
+<em>AvailableTime: 248.4H (2981bar)</em></p>
+</li>
+<li>
+<p><strong>All: 1831.56H (21983bar)</strong></p>
+</li>
+</ul>
+<h3 id="january">January
+</h3><div class="table-wrapper"><table>
+  <thead>
+      <tr>
+          <th style="text-align: left"><strong>Month</strong></th>
+          <th style="text-align: left"><strong>Things</strong></th>
+          <th style="text-align: left"><strong>Time</strong></th>
+          <th style="text-align: left"><strong>Completion Degree</strong></th>
+          <th style="text-align: left"><strong>Real Time</strong></th>
+          <th style="text-align: left"><strong>Real CD</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Jan.</strong></td>
+          <td style="text-align: left">Course</td>
+          <td style="text-align: left">44.76H (537.12bar)</td>
+          <td style="text-align: left">18% of total</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">DIS</td>
+          <td style="text-align: left">15H (180bar)</td>
+          <td style="text-align: left">5%</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">Maths 10</td>
+          <td style="text-align: left">10H (120bar)</td>
+          <td style="text-align: left">100%</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">IELTS 7.5</td>
+          <td style="text-align: left">115H (1380bar)</td>
+          <td style="text-align: left">29%</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">C#</td>
+          <td style="text-align: left">40H (480bar)</td>
+          <td style="text-align: left">17%</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">Exercise</td>
+          <td style="text-align: left">12H (144bar)</td>
+          <td style="text-align: left">/</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">Violin</td>
+          <td style="text-align: left">8H (96bar)</td>
+          <td style="text-align: left">8.33%</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">GOS</td>
+          <td style="text-align: left">4H (48bar)</td>
+          <td style="text-align: left">/</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">ALL</td>
+          <td style="text-align: left">248.76H (2985.2bar)</td>
+          <td style="text-align: left">100.00%</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+  </tbody>
+</table></div>
+<h3 id="february">February
+</h3><div class="table-wrapper"><table>
+  <thead>
+      <tr>
+          <th style="text-align: left"><strong>Month</strong></th>
+          <th style="text-align: left"><strong>Things</strong></th>
+          <th style="text-align: left"><strong>Completion Degree</strong></th>
+          <th style="text-align: left"><strong>Time</strong></th>
+          <th style="text-align: left"><strong>Real CD</strong></th>
+          <th style="text-align: left"><strong>Real Time</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Feb.</strong></td>
+          <td style="text-align: left">Course</td>
+          <td style="text-align: left">15% of total</td>
+          <td style="text-align: left">45.45H (545.34bar)</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">DIS</td>
+          <td style="text-align: left">5%</td>
+          <td style="text-align: left">15H (180bar)</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">Maths 10</td>
+          <td style="text-align: left">8%</td>
+          <td style="text-align: left">24H (288bar)</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">IELTS 7.5</td>
+          <td style="text-align: left">30%</td>
+          <td style="text-align: left">90H (1080bar)</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">C#</td>
+          <td style="text-align: left">10%</td>
+          <td style="text-align: left">30H (360bar)</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">Modeling</td>
+          <td style="text-align: left">3%</td>
+          <td style="text-align: left">10H (120bar)</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">AMC</td>
+          <td style="text-align: left">13%</td>
+          <td style="text-align: left">40H (480bar)</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">Exercise</td>
+          <td style="text-align: left">8%</td>
+          <td style="text-align: left">24H (288bar)</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">Violin</td>
+          <td style="text-align: left">3%</td>
+          <td style="text-align: left">8H (96bar)</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">Gaming</td>
+          <td style="text-align: left">5%</td>
+          <td style="text-align: left">16H (192bar)</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">ALL</td>
+          <td style="text-align: left">100%</td>
+          <td style="text-align: left">302.45H (3629.4bar)</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+  </tbody>
+</table></div>
+<div class="table-wrapper"><table>
+  <thead>
+      <tr>
+          <th style="text-align: left"><strong>Month</strong></th>
+          <th style="text-align: left"><strong>Things</strong></th>
+          <th style="text-align: left"><strong>Time</strong></th>
+          <th style="text-align: left"><strong>Completion Degree</strong></th>
+          <th style="text-align: left"><strong>Real Time</strong></th>
+          <th style="text-align: left"><strong>Real CD</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Feb.</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Mar.</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Apr.</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>May.</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Jun.</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Jul.</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Aug.</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Sep.</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Oct.</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Nov.</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Dec.</strong></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+  </tbody>
+</table></div>
+<h1 id="directivity-sys-testing-lab-dstl">Directivity sys testing lab (DSTL)
+</h1><h2 id="extream-efficiency-test">EXTREAM EFFICIENCY TEST
+</h2><p><strong>Aims to explore the limits of efficiency</strong></p>
+<div class="table-wrapper"><table>
+  <thead>
+      <tr>
+          <th style="text-align: left"><strong>Test items</strong></th>
+          <th style="text-align: left"><strong>Independent variables</strong></th>
+          <th style="text-align: left"><strong>Dependent variables</strong></th>
+          <th style="text-align: left"><strong>Test cycle</strong></th>
+          <th style="text-align: left"><strong>Record</strong></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Sleep</strong></td>
+          <td style="text-align: left">Time to go to bed<br>Do you take a shower before going to bed<br>Do you take a bath before going to bed<br>Do you read before going to bed<br>Do you recite words before going to bed<br>Do you drink milk before going to bed<br>Time to get up<br>Do you close the curtains at night<br>Do you go out directly after getting up<br>Do you wash directly after getting up<br>Do you take a shower after getting up<br><del>Do you watch electronic products directly after getting up</del><br>Do you recite words after getting up</td>
+          <td style="text-align: left">Sleep quality<br>Do you get enough sleep<br>Do you wake up during sleep<br>Do you have enough energy<br>Is efficiency higher<br></td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Rest</strong></td>
+          <td style="text-align: left">Break time<br>Do you go out during break<br>Do you go to the park during break<br>Do you wash your face during break</td>
+          <td style="text-align: left">Do you feel tired<br>Do you feel better<br>Is your state improved<br>Is it conducive to concentration on the next task<br>Is a long break necessary<br>Is a break necessary</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Entertainment</strong></td>
+          <td style="text-align: left">Does social media affect efficiency<br>Does video affect efficiency</td>
+          <td style="text-align: left">Is it more focused<br>Is it easier to enter the Flow state<br>Is it faster for computing tasks<br>Is it conducive to GPU processing tasks</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Work</strong></td>
+          <td style="text-align: left">The time limit for focused work<br>Entering and maintaining the Flow state</td>
+          <td style="text-align: left">The limit of concentration</td>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+  </tbody>
+</table></div>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/en/tags/ds%CE%B1/">DSα</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+        <link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css"integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI&#43;WdtXRGWt2kTvGFasHpSy3SV"crossorigin="anonymous"
+            ><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"integrity="sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG&#43;vnGctmUb0ZY0l8"crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"integrity="sha384-&#43;VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4&#43;/RRE05"crossorigin="anonymous"
+                defer
+                >
+            </script><script>
+    window.addEventListener("DOMContentLoaded", () => {
+        renderMathInElement(document.body, {
+            delimiters: [
+                { left: "$$", right: "$$", display: true },
+                { left: "$", right: "$", display: false },
+                { left: "\\(", right: "\\)", display: false },
+                { left: "\\[", right: "\\]", display: true }
+            ],
+            ignoredClasses: ["gist"]
+        });})
+</script>
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/en/p/obsidian-is-not-enough/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Obsidian is not ENOUGH</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="">
+    <a href="/en/p/brand-new-time-flip/">
+        
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Brand New - Time Flip</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    
+
+    <footer class="site-footer"><section class="copyright">
+        &copy; 151522 Entropiex
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const timeline = document.querySelector('.widget-archive--timeline');
+    const backButton = document.querySelector('.timeline-back-button');
+    let currentPosition = 0;
+
+    if (timeline && backButton) {
+        const currentDate = new Date();
+        const currentYear = currentDate.getFullYear();
+
+        const yearItems = timeline.querySelectorAll('.timeline-item');
+        let currentYearItem;
+        yearItems.forEach(item => {
+            const year = parseInt(item.dataset.year);
+            if (year === currentYear) {
+                currentYearItem = item;
+            }
+        });
+
+        if (currentYearItem) {
+            currentPosition = currentYearItem.offsetTop - timeline.offsetHeight / 2;
+            timeline.scrollTop = currentPosition;
+        }
+
+        timeline.addEventListener('scroll', function() {
+            if (Math.abs(timeline.scrollTop - currentPosition) > timeline.offsetHeight) {
+                backButton.style.display = 'block';
+            } else {
+                backButton.style.display = 'none';
+            }
+        });
+
+        backButton.addEventListener('click', function() {
+            timeline.scrollTo({
+                top: currentPosition,
+                behavior: 'smooth'
+            });
+        });
+    }
+});
+</script>
+
+        <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const e = document.createElement("div");
+            e.className = "parallax-bg",
+            document.body.insertBefore(e, document.body.firstChild);
+            let t = !1;
+            function n(n, s) {
+                const o = (n - window.innerWidth / 2) * 0.03,  
+                      i = (s - window.innerHeight / 2) * 0.03; 
+                e.style.transform = `translate(${o}px, ${i}px)`,
+                t = !1
+            }
+            document.addEventListener("mousemove", function(e) {
+                t || (window.requestAnimationFrame(function() {
+                    n(e.clientX, e.clientY)
+                }),
+                t = !0)
+            })
+        });
+        </script>
+    </body>
+</html>

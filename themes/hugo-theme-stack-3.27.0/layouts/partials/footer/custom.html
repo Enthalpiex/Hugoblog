@@ -7,29 +7,18 @@ document.addEventListener('DOMContentLoaded', function() {
     if (timeline && backButton) {
         const currentDate = new Date();
         const currentYear = currentDate.getFullYear();
-        const currentMonth = currentDate.getMonth() + 1;
-        const currentDay = currentDate.getDate();
 
         const yearItems = timeline.querySelectorAll('.timeline-item');
         let currentYearItem;
         yearItems.forEach(item => {
-            const yearText = item.querySelector('.timeline-title').textContent;
-            const year = parseInt(yearText);
+            const year = parseInt(item.dataset.year);
             if (year === currentYear) {
                 currentYearItem = item;
             }
         });
 
         if (currentYearItem) {
-            const currentDateMarker = document.createElement('div');
-            currentDateMarker.className = 'timeline-current-date';
-            currentDateMarker.setAttribute('data-date', `${currentYear}-${currentMonth.toString().padStart(2, '0')}-${currentDay.toString().padStart(2, '0')}`);
-            
-            const markerPosition = currentYearItem.offsetTop + (currentYearItem.offsetHeight * (currentMonth - 1) / 12);
-            currentDateMarker.style.top = `${markerPosition}px`;
-            
-            timeline.appendChild(currentDateMarker);
-            currentPosition = markerPosition - timeline.offsetHeight / 2;
+            currentPosition = currentYearItem.offsetTop - timeline.offsetHeight / 2;
             timeline.scrollTop = currentPosition;
         }
 

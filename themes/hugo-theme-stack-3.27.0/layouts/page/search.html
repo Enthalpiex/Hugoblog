@@ -7,13 +7,11 @@
 {{ define "main" }}
 <form action="{{ .RelPermalink }}" class="search-form"{{ with .OutputFormats.Get "json" -}} data-json="{{ .RelPermalink }}"{{- end }}>
     <p>
-        <label>{{ T "search.title" }}</label>
-        <input name="keyword" placeholder="{{ T `search.placeholder` }}" />
+        <input name="keyword" required placeholder="{{ T `search.placeholder` }}" />
+        <button title="{{ T `search.title` }}">
+            {{ partial "helper/icon" "search" }}
+        </button>
     </p>
-
-    <button title="{{ T `search.title` }}">
-        {{ partial "helper/icon" "search" }}
-    </button>
 </form>
 
 <div class="search-result">

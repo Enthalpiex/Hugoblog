@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="zh-cn" dir="ltr">
-    <head><meta charset='utf-8'>
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="To use this feature, add links section to frontmatter.\nThis page&rsquo;s frontmatter:\n1 2 3 4 5 6 7 8 9 links: - title: GitHub description: GitHub is the world&#39;s largest software development platform. website: https://github.com image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png - title: TypeScript description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. website: https://www.typescriptlang.org image: ts-logo-128.jpg image field accepts both local and external images.\n">
 <title>链接</title>
 
-<link rel='canonical' href='https://enthalpiex.github.io/zh-cn/%E9%93%BE%E6%8E%A5/'>
+<link rel='canonical' href='http://localhost:1313/zh-cn/%E9%93%BE%E6%8E%A5/'>
 
-<link rel="stylesheet" href="/scss/style.min.20c9af10bd4fc4f344ab52163b06cb2ff6434ecc65f5998b780d249f7ccf2a68.css"><meta property='og:title' content="链接">
+<link rel="stylesheet" href="/scss/style.min.016e3f1be0bd4aeaeb6dce8d78ad5928fd359dea1d85c320ba20f99fa7f86104.css"><meta property='og:title' content="链接">
 <meta property='og:description' content="To use this feature, add links section to frontmatter.\nThis page&rsquo;s frontmatter:\n1 2 3 4 5 6 7 8 9 links: - title: GitHub description: GitHub is the world&#39;s largest software development platform. website: https://github.com image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png - title: TypeScript description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. website: https://www.typescriptlang.org image: ts-logo-128.jpg image field accepts both local and external images.\n">
-<meta property='og:url' content='https://enthalpiex.github.io/zh-cn/%E9%93%BE%E6%8E%A5/'>
-<meta property='og:site_name' content='你的中文标题'>
+<meta property='og:url' content='http://localhost:1313/zh-cn/%E9%93%BE%E6%8E%A5/'>
+<meta property='og:site_name' content='Entropiex'>
 <meta property='og:type' content='article'><meta property='article:section' content='Page' />
 <meta name="twitter:title" content="链接">
 <meta name="twitter:description" content="To use this feature, add links section to frontmatter.\nThis page&rsquo;s frontmatter:\n1 2 3 4 5 6 7 8 9 links: - title: GitHub description: GitHub is the world&#39;s largest software development platform. website: https://github.com image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png - title: TypeScript description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. website: https://www.typescriptlang.org image: ts-logo-128.jpg image field accepts both local and external images.\n">
@@ -67,7 +67,7 @@
         
         
         <div class="site-meta">
-            <h1 class="site-name"><a href="/zh-cn">你的中文标题</a></h1>
+            <h1 class="site-name"><a href="/zh-cn">Entropiex</a></h1>
             <h2 class="site-description">Personal BLOG</h2>
         </div>
     </header><ol class="menu-social">
@@ -252,9 +252,9 @@
 
                             <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
                                 
-                                    <option value="https://enthalpiex.github.io/en/" >English</option>
+                                    <option value="http://localhost:1313/en/" >English</option>
                                 
-                                    <option value="https://enthalpiex.github.io/zh-cn/" selected>中文</option>
+                                    <option value="http://localhost:1313/zh-cn/" selected>中文</option>
                                 
                             </select>
                         </li>
@@ -304,7 +304,7 @@
 
             <div>
                 
-                    <a href="https://enthalpiex.github.io/en/links/" class="link">English</a>
+                    <a href="http://localhost:1313/en/links/" class="link">English</a>
                 
             </div>
         </footer>
@@ -436,7 +436,7 @@
     
 
     <footer class="site-footer"><section class="copyright">
-        &copy; 141424 你的中文标题
+        &copy; 151522 Entropiex
     </section>
 </footer>
 
@@ -546,29 +546,18 @@ document.addEventListener('DOMContentLoaded', function() {
     if (timeline && backButton) {
         const currentDate = new Date();
         const currentYear = currentDate.getFullYear();
-        const currentMonth = currentDate.getMonth() + 1;
-        const currentDay = currentDate.getDate();
 
         const yearItems = timeline.querySelectorAll('.timeline-item');
         let currentYearItem;
         yearItems.forEach(item => {
-            const yearText = item.querySelector('.timeline-title').textContent;
-            const year = parseInt(yearText);
+            const year = parseInt(item.dataset.year);
             if (year === currentYear) {
                 currentYearItem = item;
             }
         });
 
         if (currentYearItem) {
-            const currentDateMarker = document.createElement('div');
-            currentDateMarker.className = 'timeline-current-date';
-            currentDateMarker.setAttribute('data-date', `${currentYear}-${currentMonth.toString().padStart(2, '0')}-${currentDay.toString().padStart(2, '0')}`);
-            
-            const markerPosition = currentYearItem.offsetTop + (currentYearItem.offsetHeight * (currentMonth - 1) / 12);
-            currentDateMarker.style.top = `${markerPosition}px`;
-            
-            timeline.appendChild(currentDateMarker);
-            currentPosition = markerPosition - timeline.offsetHeight / 2;
+            currentPosition = currentYearItem.offsetTop - timeline.offsetHeight / 2;
             timeline.scrollTop = currentPosition;
         }
 
