@@ -1,18 +1,15 @@
 ---
 title: About
 description: Post-KSPS
-date: '2024-09-14'
-aliases:
-  - about-us
-  - about-hugo
-  - contact
+date: 2024-09-14
+aliases: []
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: 2020-10-09
 menu:
-    main: 
-        weight: -90
-        params:
-            icon: user
+  main:
+    weight: -90
+    params:
+      icon: user
 math: true
 ---
 
