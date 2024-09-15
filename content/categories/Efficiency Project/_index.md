@@ -1,7 +1,7 @@
 ---
 title: "Efficiency Project"
 description: "Push to limit"
-slug: "Efficiency Project"
+slug: "Effp"
 image: "CDZ.jpg"
 style:
     background: "#2a9d8f"
