@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/From KSPS/index.zh-cn.md",
+                "file": "post/From KSPS/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,15 +179,15 @@
   },
   "active": "9df5bf604f6dd9ac",
   "lastOpenFiles": [
-    "post/From KSPS/index.md",
+    "page/about/index.md",
+    "page/about/index.zh-cn.md",
     "post/From KSPS/index.zh-cn.md",
+    "post/From KSPS/index.md",
     "post/From KSPS/KSPS_on_Internet_Achieve.png",
     "post/From KSPS/pbfymkz6.png",
     "Examplesposts/chinese-test/index.zh-cn.md",
     "Examplesposts/chinese-test/helena-hertz-wWZzXlDpMog-unsplash.jpg",
     "Examplesposts/chinese-test/florian-klauer-nptLmg6jqDo-unsplash.jpg",
-    "page/about/index.zh-cn.md",
-    "page/about/index.md",
     "page/archives/index.zh-cn.md",
     "page/archives/index.md",
     "page/links/index.md",

@@ -14,7 +14,9 @@ We can never know when an accident will happen.
 
 Today I learned that the KSPS, which has been running for 3 years, was deleted not long ago and there is no backup.
 
-[![KSPS_on_Internet_Achieve](KSPS_on_Internet_Achieve.png "Shiprock")](https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/ ){: .align-right width="300px"}
+<a href="https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/" style="float: right; width: 300px;">
+  <img src="KSPS_on_Internet_Achieve.png" alt="Shiprock" style="width: 100%;">
+</a>
 
 # The KSPS
 
