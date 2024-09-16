@@ -11,9 +11,11 @@
             "id": "9df5bf604f6dd9ac",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "categories/Eridanus Aviation Industry/ERIDANUS_4K_V4.png"
+                "file": "categories/Daily/_index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -177,13 +179,15 @@
   },
   "active": "84e3e3d4b465d4b7",
   "lastOpenFiles": [
-    "categories/Eridanus Aviation Industry/_index.md",
-    "categories/Eridanus Aviation Industry/ERIDANUS_4K_V4.png",
+    "post/未命名",
     "categories/Efficiency Project/_index.md",
+    "categories/Daily/_index.md",
+    "categories/Daily/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg",
+    "categories/Eridanus Aviation Industry/ERIDANUS_4K_V4.png",
+    "categories/Eridanus Aviation Industry/_index.md",
     "categories/About site/_index.md",
     "categories/Eridanus Aviation Industry",
     "categories/About site/avatar.jpg",
-    "categories/Daily/_index.md",
     "post/STOP SYNC/index.md",
     "categories/About site",
     "post/STOP SYNC/index.zh-cn.md",
@@ -221,7 +225,6 @@
     "categories/Test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg",
     "Examplesposts/chinese-test/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg",
     "Examplesposts/chinese-test/luca-bravo-alS7ewQ41M8-unsplash.jpg",
-    "Examplesposts/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
