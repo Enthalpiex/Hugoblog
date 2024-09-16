@@ -7,7 +7,208 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Time Flip Update Logs</title>
+        <link>http://localhost:1313/zh-cn/p/time-flip-update-logs/</link>
+        <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/zh-cn/p/time-flip-update-logs/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/time-flip-update-logs/Updates.png" alt="Featured image of post Time Flip Update Logs" /&gt;&lt;h2 id=&#34;20240125-v001&#34;&gt;2024.01.25-v0.0.1
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;D.s. α 迁移至Timeflip&lt;/li&gt;
+&lt;li&gt;Obsidian初稿&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;20240126-v002&#34;&gt;2024.01.26-v0.0.2
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Timeflip 迁移至SimpleMind&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-02-29-v010&#34;&gt;2024-02-29-v0.1.0
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Timeflip 主体迁移完成&lt;/li&gt;
+&lt;li&gt;Obsidian 版封存&lt;/li&gt;
+&lt;li&gt;可读性&amp;amp;显示结构改良&lt;/li&gt;
+&lt;li&gt;Obsidian 配色改良&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-03-01-v011&#34;&gt;2024-03-01-v0.1.1
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;向Theoretical basis 添加了校内完成作业事项&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-03-16-v012&#34;&gt;2024-03-16-v0.1.2
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;新增DeepFocus 栏目&lt;/li&gt;
+&lt;li&gt;新增早晨散步&lt;/li&gt;
+&lt;li&gt;将冥想移至DeepFocus 栏目中&lt;/li&gt;
+&lt;li&gt;新增部分项目注解&lt;/li&gt;
+&lt;li&gt;修改Hardware Dev 部分内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-03-17-v013&#34;&gt;2024-03-17-v0.1.3
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;缩小字体优化拖动流畅度&lt;/li&gt;
+&lt;li&gt;修正部分字体格式错误&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-03-28-v014&#34;&gt;2024-03-28-v0.1.4
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;新增总时间线&lt;/li&gt;
+&lt;li&gt;Start Using English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-03-29-v100&#34;&gt;2024-03-29-v1.0.0
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;时间线颜色&amp;amp;排布优化&lt;/li&gt;
+&lt;li&gt;更改部分任务优先级&lt;/li&gt;
+&lt;li&gt;重新启用Obsidian时间管理&lt;/li&gt;
+&lt;li&gt;取消SimpleMind单日规划&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-01-v101&#34;&gt;2024-04-01-v1.0.1
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;配置Obsidian计划云同步&lt;/li&gt;
+&lt;li&gt;未完成计划配色改良&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-02-v110-pre-1&#34;&gt;2024-04-02-v1.1.0-pre-1
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;新增 意义&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-02-v110-pre-2&#34;&gt;2024-04-02-v1.1.0-pre-2
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;启用Boosted进行时间统计&lt;/li&gt;
+&lt;li&gt;删除大部分日规划历史文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-04-v110-pre-3&#34;&gt;2024-04-04-v1.1.0-pre-3
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;新增标签颜色&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-06-v110-pre-4&#34;&gt;2024-04-06-v1.1.0-pre-4
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;取消进度显示以防分心&lt;/li&gt;
+&lt;li&gt;调整洗漱策略&lt;/li&gt;
+&lt;li&gt;增加单个Block时长&lt;/li&gt;
+&lt;li&gt;减少单日事件数量&lt;/li&gt;
+&lt;li&gt;增加恢复时间以保持专注&lt;/li&gt;
+&lt;li&gt;单日目标变更&lt;/li&gt;
+&lt;li&gt;配色及布局改良&lt;/li&gt;
+&lt;li&gt;新增进度色&lt;/li&gt;
+&lt;li&gt;添加EE至DeepFocus&lt;/li&gt;
+&lt;li&gt;删除所有日规划历史文件&lt;/li&gt;
+&lt;li&gt;英文翻译&amp;amp;更新&lt;/li&gt;
+&lt;li&gt;新增计划至8月&lt;/li&gt;
+&lt;li&gt;新增时间具体分配&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-07-v110-pre-5&#34;&gt;2024-04-07-v1.1.0-pre-5
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;细化4月时间轴内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-08-v110-pre-6&#34;&gt;2024-04-08-v1.1.0-pre-6
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;删除旧定义内容&lt;/li&gt;
+&lt;li&gt;迁移log位置&lt;/li&gt;
+&lt;li&gt;新目标主题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-09-v1101&#34;&gt;2024-04-09-v1.1.01
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Release——New Version!&lt;/li&gt;
+&lt;li&gt;Main拆解及结构化改良&lt;/li&gt;
+&lt;li&gt;配色改良&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-10-v1102&#34;&gt;2024-04-10-v1.1.02
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;迁移[Directivity system α]日志&lt;/li&gt;
+&lt;li&gt;新增独立日志Topic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-15-v1103&#34;&gt;2024-04-15-v1.1.03
+&lt;/h2&gt;&lt;p&gt;-新增DeepFocus栏目&lt;/p&gt;
+&lt;h2 id=&#34;2024-04-17-v1104&#34;&gt;2024-04-17-v1.1.04
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Exvelp α&amp;amp;β创建&lt;/li&gt;
+&lt;li&gt;Exvelp β增加复选框&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-17-v1105&#34;&gt;2024-04-17-v1.1.05
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Exvelp 添加到时间线&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-18-v1106&#34;&gt;2024-04-18-v1.1.06
+&lt;/h2&gt;&lt;p&gt;-Delete Math 10 (Finished)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add 2 tags in day plan&lt;/li&gt;
+&lt;li&gt;Add log for AMC&lt;/li&gt;
+&lt;li&gt;Translate Timelist, DeepFocus, life parts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-05-16-v200&#34;&gt;2024-05-16-v2.0.0
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Add Self Evaluation part&lt;/li&gt;
+&lt;li&gt;Simplified Time Table&lt;/li&gt;
+&lt;li&gt;Delete DeepFocus part&lt;/li&gt;
+&lt;li&gt;Delete Pictures&lt;/li&gt;
+&lt;li&gt;Color Optimization&lt;/li&gt;
+&lt;li&gt;Create folding mode&lt;/li&gt;
+&lt;li&gt;Combine Time Table, Self Evaluation, Exploration Day parts to Life&lt;/li&gt;
+&lt;li&gt;Fusion Exvelp into Study part&lt;/li&gt;
+&lt;li&gt;Add A-IS to provide execution&lt;/li&gt;
+&lt;li&gt;Timeline structure improvement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-05-16-v201&#34;&gt;2024-05-16-v2.0.1
+&lt;/h2&gt;&lt;p&gt;Focus!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add Work part&lt;/li&gt;
+&lt;li&gt;Move some parts to β&lt;/li&gt;
+&lt;li&gt;Period system for obsidian&lt;/li&gt;
+&lt;li&gt;Home page for obsidian&lt;/li&gt;
+&lt;li&gt;Period system for day plan&lt;/li&gt;
+&lt;li&gt;Add Recovery&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-06-09-v210-pre-0-noding-concept&#34;&gt;2024-06-09-v2.1.0-pre-0 NODING! (concept)
+&lt;/h2&gt;&lt;h2 id=&#34;2024-06-10-v202&#34;&gt;2024-06-10-v2.0.2
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Obsidian new theme&lt;/li&gt;
+&lt;li&gt;Obsidian better UI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-07-01-v210-pre-1-noding-concept&#34;&gt;2024-07-01-v2.1.0-pre-1 NODING! (concept)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Flow chart&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-07-12-v210-pre-2&#34;&gt;2024-07-12-v2.1.0-pre-2
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Isolation Program&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Time Slice, The beginning of everything</title>
+        <link>http://localhost:1313/zh-cn/p/time-slice-the-beginning-of-everything/</link>
+        <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/zh-cn/p/time-slice-the-beginning-of-everything/</guid>
+        <description>&lt;p&gt;&lt;code&gt;一些完美主义和远视主义的思索&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;生活在静好的岁月里，没有人再会去冒险了。&lt;/p&gt;
+&lt;p&gt;我意识到有时我们必须有一份承诺；
+让你不要在任何时候退却，放弃，无所适从；
+让它像激光一样拨开谜语，指引方向；
+永远无法得到过去的时间，因为历史被推着前进。&lt;/p&gt;
+&lt;p&gt;光阴轮转，但等到意识到轮转之时便是为之已晚。
+落叶归根，但南方的常青树并不会因为秋季落叶。
+世界的不完美是留给完美主义者最好的馈赠；
+陷入轮回之时，是承诺达成之日。&lt;/p&gt;
+&lt;p&gt;这是一篇故事，从今天开始写的故事；
+它将解释我的一切，在哪以及为什么这么做：
+让一切变得有趣，欢乐，充满意义。
+让回忆成为快乐的事，让体验成为唯一的佐证。
+当目标是极致的时候，你不得不将一切推向更高。&lt;/p&gt;
+&lt;p&gt;这是一个四维空间，我是生活在三位切片上的人类。
+无论对于文明还是个体，只有从高维思考才能解决那些无法想象，甚至无法提出的问题——但是它们客观存在，造成了不完美。
+这是时间切片。
+三维世界里可以轻易将立方体展开为1个面的平坦白纸，反之亦然；
+三维世界里可以轻易创造莫比乌斯带，将两个完全隔离的二位世界拼接。
+在四位世界里，三维的一切相形见绌，因此只要控制时间维度，所有问题都将迎刃而解，原本困难的问题变得轻而易举。&lt;/p&gt;
+&lt;p&gt;时间被设置成单向的，红移不会停止，熵增不会结束。
+锁死流向的时间大大减少了操作空间，但是它仅仅被锁死了方向，因此通过改变流速和效率依然可以一定上程度进行弥补。
+这是时间切片，一种全新的时间管理方式：
+它将真正描述这个四维空间。&lt;/p&gt;
+&lt;p&gt;让回忆成为享受，而不是遗憾。
+唯一的承诺，贯穿整个四维空间：
+一定要改变世界，让它变得更好。
+财富，知识，能力，让人类更加伟大。
+从现在开始，构建属于自己的White Room。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>From KSPS</title>
         <link>http://localhost:1313/zh-cn/p/from-ksps/</link>
         <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
@@ -17,10 +218,45 @@
 &lt;p&gt;我刚刚得知，持续运行了3年的KSPS不久前被删除了，没有备份。&lt;/p&gt;
 &lt;h1 id=&#34;什么是-ksps&#34;&gt;什么是 KSPS
 &lt;/h1&gt;&lt;a href=&#34;https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/&#34; style=&#34;float: right; width: 200px;&#34;&gt;
-  &lt;img src=&#34;pbfymkz6.png&#34; alt=&#34;Shiprock&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;img src=&#34;pbfymkz6.png&#34; alt=&#34;KSPS&#34; style=&#34;width: 100%;&#34;&gt;
 &lt;/a&gt;
-KSPS的全称是`Kerbal Space Program Stack`，其初衷是更好地交流KSP相关内容，包括但不限于作品，模组以及一些其它想法。通过美化组件支持，后来的KSPS成为了一个以KSP为主的资源分享平台，兼具聊天室功能。
+&lt;p&gt;KSPS的全称是&lt;code&gt;Kerbal Space Program Stack&lt;/code&gt;，其初衷是更好地交流KSP相关内容，包括但不限于作品，模组以及一些其它想法。通过美化组件支持，后来的KSPS成为了一个以KSP为主的资源分享平台，兼具聊天室功能。&lt;/p&gt;
 &lt;p&gt;虽然KSPS已经远去，但是BLOG会继承之前的一切，优化迭代，不断更新。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>STOP SYNC</title>
+        <link>http://localhost:1313/zh-cn/p/stop-sync/</link>
+        <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/zh-cn/p/stop-sync/</guid>
+        <description>&lt;p&gt;我决定结束中英文内容的同步更新。&lt;/p&gt;
+&lt;p&gt;最新的内容和修改仅会发布在英文页面，如果有空我才会考虑进行同步。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Starfield?</title>
+        <link>http://localhost:1313/zh-cn/p/starfield/</link>
+        <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/zh-cn/p/starfield/</guid>
+        <description>&lt;p&gt;在b站上看到一个有趣的评论，原文如下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果宇宙有其他比人类更发达的文明，我想他们的世界一定是城市整洁无比，建筑棱角分明，地貌改造有明显的人工特色并分出各种不同功能的区域，城市运行依靠强大的中心超算控制。外星人可能长相特别，但是身上会有很多辅助设备，思想会比人类更成熟，逻辑能力更强，并且情绪波动较小，相当于人类科幻世界里的人工智能生命体。或许，这些外星人是该星球的碳基文明消逝后留下的硅基文明遗产，让这些被创造出来服务碳基生物的智能机械成为了新的文明继承者。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;外星文明之所以能不断发展，一定是内耗较小，团队协作能力高，且观测世界手段多样化的种族。内耗小意味着他们的文明不会因为资源争夺而陷入崩溃，团队协作能力意味着生产效率高，观测世界手段多样意味着能更深入了解宇宙的物理规则，所以这才是外星文明比地球发达的原因。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;外星文明肯定不是荒诞怪异的城市，杂乱无序的建筑，落后野蛮的思想。这样的种群是无法走到发达文明的前列，而是在资源争夺中互相消耗掉，走向毁灭。野蛮的思想也意味着增加内耗的风险，成为了文明毁灭的导火索。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;还有一些更高级的文明可能跟他们的特殊环境有关，阳光充足，幅员辽阔，矿产资源丰富，还有特殊金属材料，意味着他们源获取方式更容易，更充足，可能外星人本身就能吸收并储存能源，可能会高效方式转化能量，达到几乎无损耗的程度。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不敢想象星球大战中，各文明祭出本星球最大杀器投放战场，各种外星人分工协作生产，防御，对抗，掠夺会有多激烈，利用各种战舰战术和科技结合，进行太空资源争夺战，也会跟相邻星系文明结盟开发资源，更有可能形成多方势力对抗的局面，战场上布满星环状的战舰残骸。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;虽然只是科幻电影和小说的再陈述，但还蛮有趣的 :D&lt;/p&gt;
 </description>
         </item>
         <item>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -15,8 +15,86 @@
                 href="http://localhost:1313/en/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/categories/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/categories/efficiency-project/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/categories/efficiency-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/efficiency-project/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/post/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/post/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/p/time-flip-update-logs/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/p/time-flip-update-logs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/p/time-flip-update-logs/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/time_flip/</loc>
+    <lastmod>2024-09-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/tags/time_flip/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/time_flip/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -29,7 +107,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -41,8 +119,47 @@
                 href="http://localhost:1313/en/page/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/categories/daily/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/categories/daily/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/daily/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/p/time-slice-the-beginning-of-everything/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/p/time-slice-the-beginning-of-everything/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/p/time-slice-the-beginning-of-everything/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/template/index-1/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/categories/about-site/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh-cn/categories/about-site/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/about-site/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/p/from-ksps/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
@@ -70,59 +187,33 @@
                 href="http://localhost:1313/en/tags/ksps/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/post/</loc>
+    <loc>http://localhost:1313/en/p/stop-sync/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/post/"
+                href="http://localhost:1313/zh-cn/p/stop-sync/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/post/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="http://localhost:1313/en/p/stop-sync/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/template/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/en/p/starfield/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/categories/"
+                href="http://localhost:1313/zh-cn/p/starfield/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/categories/efficiency-project/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/categories/efficiency-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/efficiency-project/"
+                href="http://localhost:1313/en/p/starfield/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/p/obsidian-is-not-enough/</loc>
@@ -136,19 +227,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en/p/obsidian-is-not-enough/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/time_flip/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh-cn/tags/time_flip/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/time_flip/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/p/brand-new-time-flip/</loc>
@@ -203,6 +281,8 @@
                 href="http://localhost:1313/en/archives/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/categories/eridanus-aviation-industry/</loc>
+  </url><url>
     <loc>http://localhost:1313/en/links/</loc>
     <xhtml:link
                 rel="alternate"
@@ -226,7 +306,5 @@
                 hreflang="en"
                 href="http://localhost:1313/en/search/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/en/categories/test/</loc>
   </url>
 </urlset>

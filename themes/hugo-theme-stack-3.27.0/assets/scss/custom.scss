@@ -6,11 +6,30 @@
 .widget-archive--timeline {
     position: relative;
     padding-left: 30px;
-    padding-right: 10px;  // 添加右侧内边距
-    max-height: 600px; // 或者你想要的任何高度
-    overflow-y: auto;
-    scrollbar-width: none; // 对 Firefox 隐藏滚动条
-    -ms-overflow-style: none; // 对 IE 和 Edge 隐藏滚动条
+    padding-right: 15px;  // 增加右侧内边距，为滚动条留出空间
+    max-height: calc(70vh - 40px);  // 减少最大高度，留出底部空间
+    overflow-y: auto;     // 允许垂直滚动
+    scrollbar-width: thin;  // 对 Firefox 设置细滚动条
+    margin-top: -20px;  // 向上移动整个时间轴
+    margin-bottom: 20px;  // 增加底部边距
+
+    // 自定义滚动条样式（针对WebKit浏览器，如Chrome和Safari）
+    &::-webkit-scrollbar {
+        width: 6px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background: var(--card-background);
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background-color: var(--accent-color);
+        border-radius: 3px;
+    }
+
+    &::-webkit-scrollbar-thumb:hover {
+        background-color: var(--accent-color-darker);
+    }
 }
 
 .widget-archive--timeline::-webkit-scrollbar {
@@ -44,14 +63,15 @@
     z-index: 2;
 }
 
+// 调整时间轴线条
 .timeline-item::before {
     content: '';
-    position: absolute;
-    left: -26px;
+    position: fixed;  // 改为 fixed
+    left: 4px;  // 调整位置以对齐时间轴
     width: 2px;
-    height: calc(100% + 30px);
+    height: calc(70vh - 60px);  // 调整高度以匹配新的可滚动区域
     background-color: var(--accent-color-opacity);
-    top: 7px;
+    z-index: 1;
 }
 
 .timeline-item:last-child::before {
@@ -256,6 +276,19 @@ body::before {
 // 调整archives部件的样式以保持一致性
 .widget.archives {
     margin-top: 20px;  // 增加与搜索框的间距
+    padding-bottom: 20px;  // 增加底部内边距
+
+    .widget-icon {
+        margin-top: -30px;  // 向上移动图标
+    }
+
+    .widget-title {
+        margin-top: -0px;  // 向上移动标题
+    }
+
+    .widget-archive--timeline {
+        margin-top: -0px;  // 稍微增加时间轴的上移距离
+    }
 }
 
 // 主页和搜索页面搜索框样式保持一致

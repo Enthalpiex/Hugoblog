@@ -19,3 +19,36 @@
         color: var(--card-text-color-secondary);
     }
 }
+
+// 文章页面上的 category 标签样式
+.article-category {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem; // 标签之间的间隔
+    margin-bottom: 1rem; // 与文章内容的间距
+
+    .category-link {
+        font-size: 0.9rem; // 减小字体大小
+        padding: 0.3rem 0.6rem; // 调整内边距
+        background-color: var(--card-background);
+        border-radius: 0.3rem;
+        color: var(--card-text-color-main);
+        transition: background-color 0.3s ease;
+        text-decoration: none; // 移除下划线
+        line-height: 1.5; // 调整行高
+
+        &:hover {
+            background-color: var(--card-background-selected);
+        }
+    }
+}
+
+// 确保文章内容与 category 标签之间有足够的间距
+.article-page .article-content {
+    margin-top: 1.5rem;
+}
+
+// 如果 category 标签在文章标题下方，调整它们之间的间距
+.article-page .article-header {
+    margin-bottom: 1rem;
+}

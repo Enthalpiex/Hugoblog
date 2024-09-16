@@ -7,7 +7,170 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/categories/efficiency-project/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/categories/efficiency-project/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Time Flip Update Logs</title>
+        <link>http://localhost:1313/zh-cn/p/time-flip-update-logs/</link>
+        <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/zh-cn/p/time-flip-update-logs/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/time-flip-update-logs/Updates.png" alt="Featured image of post Time Flip Update Logs" /&gt;&lt;h2 id=&#34;20240125-v001&#34;&gt;2024.01.25-v0.0.1
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;D.s. α 迁移至Timeflip&lt;/li&gt;
+&lt;li&gt;Obsidian初稿&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;20240126-v002&#34;&gt;2024.01.26-v0.0.2
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Timeflip 迁移至SimpleMind&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-02-29-v010&#34;&gt;2024-02-29-v0.1.0
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Timeflip 主体迁移完成&lt;/li&gt;
+&lt;li&gt;Obsidian 版封存&lt;/li&gt;
+&lt;li&gt;可读性&amp;amp;显示结构改良&lt;/li&gt;
+&lt;li&gt;Obsidian 配色改良&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-03-01-v011&#34;&gt;2024-03-01-v0.1.1
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;向Theoretical basis 添加了校内完成作业事项&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-03-16-v012&#34;&gt;2024-03-16-v0.1.2
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;新增DeepFocus 栏目&lt;/li&gt;
+&lt;li&gt;新增早晨散步&lt;/li&gt;
+&lt;li&gt;将冥想移至DeepFocus 栏目中&lt;/li&gt;
+&lt;li&gt;新增部分项目注解&lt;/li&gt;
+&lt;li&gt;修改Hardware Dev 部分内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-03-17-v013&#34;&gt;2024-03-17-v0.1.3
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;缩小字体优化拖动流畅度&lt;/li&gt;
+&lt;li&gt;修正部分字体格式错误&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-03-28-v014&#34;&gt;2024-03-28-v0.1.4
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;新增总时间线&lt;/li&gt;
+&lt;li&gt;Start Using English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-03-29-v100&#34;&gt;2024-03-29-v1.0.0
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;时间线颜色&amp;amp;排布优化&lt;/li&gt;
+&lt;li&gt;更改部分任务优先级&lt;/li&gt;
+&lt;li&gt;重新启用Obsidian时间管理&lt;/li&gt;
+&lt;li&gt;取消SimpleMind单日规划&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-01-v101&#34;&gt;2024-04-01-v1.0.1
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;配置Obsidian计划云同步&lt;/li&gt;
+&lt;li&gt;未完成计划配色改良&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-02-v110-pre-1&#34;&gt;2024-04-02-v1.1.0-pre-1
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;新增 意义&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-02-v110-pre-2&#34;&gt;2024-04-02-v1.1.0-pre-2
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;启用Boosted进行时间统计&lt;/li&gt;
+&lt;li&gt;删除大部分日规划历史文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-04-v110-pre-3&#34;&gt;2024-04-04-v1.1.0-pre-3
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;新增标签颜色&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-06-v110-pre-4&#34;&gt;2024-04-06-v1.1.0-pre-4
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;取消进度显示以防分心&lt;/li&gt;
+&lt;li&gt;调整洗漱策略&lt;/li&gt;
+&lt;li&gt;增加单个Block时长&lt;/li&gt;
+&lt;li&gt;减少单日事件数量&lt;/li&gt;
+&lt;li&gt;增加恢复时间以保持专注&lt;/li&gt;
+&lt;li&gt;单日目标变更&lt;/li&gt;
+&lt;li&gt;配色及布局改良&lt;/li&gt;
+&lt;li&gt;新增进度色&lt;/li&gt;
+&lt;li&gt;添加EE至DeepFocus&lt;/li&gt;
+&lt;li&gt;删除所有日规划历史文件&lt;/li&gt;
+&lt;li&gt;英文翻译&amp;amp;更新&lt;/li&gt;
+&lt;li&gt;新增计划至8月&lt;/li&gt;
+&lt;li&gt;新增时间具体分配&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-07-v110-pre-5&#34;&gt;2024-04-07-v1.1.0-pre-5
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;细化4月时间轴内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-08-v110-pre-6&#34;&gt;2024-04-08-v1.1.0-pre-6
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;删除旧定义内容&lt;/li&gt;
+&lt;li&gt;迁移log位置&lt;/li&gt;
+&lt;li&gt;新目标主题&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-09-v1101&#34;&gt;2024-04-09-v1.1.01
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Release——New Version!&lt;/li&gt;
+&lt;li&gt;Main拆解及结构化改良&lt;/li&gt;
+&lt;li&gt;配色改良&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-10-v1102&#34;&gt;2024-04-10-v1.1.02
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;迁移[Directivity system α]日志&lt;/li&gt;
+&lt;li&gt;新增独立日志Topic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-15-v1103&#34;&gt;2024-04-15-v1.1.03
+&lt;/h2&gt;&lt;p&gt;-新增DeepFocus栏目&lt;/p&gt;
+&lt;h2 id=&#34;2024-04-17-v1104&#34;&gt;2024-04-17-v1.1.04
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Exvelp α&amp;amp;β创建&lt;/li&gt;
+&lt;li&gt;Exvelp β增加复选框&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-17-v1105&#34;&gt;2024-04-17-v1.1.05
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Exvelp 添加到时间线&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-04-18-v1106&#34;&gt;2024-04-18-v1.1.06
+&lt;/h2&gt;&lt;p&gt;-Delete Math 10 (Finished)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add 2 tags in day plan&lt;/li&gt;
+&lt;li&gt;Add log for AMC&lt;/li&gt;
+&lt;li&gt;Translate Timelist, DeepFocus, life parts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-05-16-v200&#34;&gt;2024-05-16-v2.0.0
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Add Self Evaluation part&lt;/li&gt;
+&lt;li&gt;Simplified Time Table&lt;/li&gt;
+&lt;li&gt;Delete DeepFocus part&lt;/li&gt;
+&lt;li&gt;Delete Pictures&lt;/li&gt;
+&lt;li&gt;Color Optimization&lt;/li&gt;
+&lt;li&gt;Create folding mode&lt;/li&gt;
+&lt;li&gt;Combine Time Table, Self Evaluation, Exploration Day parts to Life&lt;/li&gt;
+&lt;li&gt;Fusion Exvelp into Study part&lt;/li&gt;
+&lt;li&gt;Add A-IS to provide execution&lt;/li&gt;
+&lt;li&gt;Timeline structure improvement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-05-16-v201&#34;&gt;2024-05-16-v2.0.1
+&lt;/h2&gt;&lt;p&gt;Focus!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add Work part&lt;/li&gt;
+&lt;li&gt;Move some parts to β&lt;/li&gt;
+&lt;li&gt;Period system for obsidian&lt;/li&gt;
+&lt;li&gt;Home page for obsidian&lt;/li&gt;
+&lt;li&gt;Period system for day plan&lt;/li&gt;
+&lt;li&gt;Add Recovery&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-06-09-v210-pre-0-noding-concept&#34;&gt;2024-06-09-v2.1.0-pre-0 NODING! (concept)
+&lt;/h2&gt;&lt;h2 id=&#34;2024-06-10-v202&#34;&gt;2024-06-10-v2.0.2
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Obsidian new theme&lt;/li&gt;
+&lt;li&gt;Obsidian better UI&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-07-01-v210-pre-1-noding-concept&#34;&gt;2024-07-01-v2.1.0-pre-1 NODING! (concept)
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Flow chart&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2024-07-12-v210-pre-2&#34;&gt;2024-07-12-v2.1.0-pre-2
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Isolation Program&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>Obsidian is not ENOUGH</title>
         <link>http://localhost:1313/zh-cn/p/obsidian-is-not-enough/</link>
         <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
