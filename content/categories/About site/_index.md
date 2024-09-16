@@ -1,6 +1,6 @@
 ---
 title: About site
-description: General BLOGs
+description: BLOG itself
 slug: Absite
 image: avatar.jpg
 style:

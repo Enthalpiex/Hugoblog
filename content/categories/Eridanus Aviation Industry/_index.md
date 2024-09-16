@@ -1,6 +1,6 @@
 ---
 title: Eridanus Aviation Industry
-description: Push to limit
+description: Fantastic Eridanus!
 slug: EAI
 image: ERIDANUS_4K_V4.png
 style:
