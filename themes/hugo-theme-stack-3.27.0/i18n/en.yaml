@@ -11,6 +11,7 @@ list:
 
     section:
         other: Section
+list:
 
     subsection:
         one: Subsection
