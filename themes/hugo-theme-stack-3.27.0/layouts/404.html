@@ -1,7 +1,24 @@
 {{ define "main" }}
-    <div class="not-found-card">
-        <h1 class="article-title">{{ T "notFound.title" }}</h1>
-        <h2 class="article-subtitle">{{ T "notFound.subtitle" }}</h2>
+    <div class="not-found-container">
+        <div class="not-found-card">
+            <div class="not-found-content">
+                <h1 class="not-found-title">404</h1>
+                <h2 class="not-found-subtitle">{{ T "notFound.title" }}</h2>
+                <p class="not-found-description">{{ T "notFound.subtitle" }}</p>
+                <div class="not-found-actions">
+                    <a href="{{ .Site.BaseURL }}" class="not-found-button">
+                        {{ T "notFound.goHome" }}
+                    </a>
+                    <button onclick="window.history.back()" class="not-found-button secondary">
+                        {{ T "notFound.goBack" }}
+                    </button>
+                </div>
+            </div>
+            <div class="not-found-image">
+                <!-- You can replace this with an actual image or icon -->
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="not-found-icon"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>
+            </div>
+        </div>
     </div>
     {{ partialCached "footer/footer" . }}
 {{ end }}
