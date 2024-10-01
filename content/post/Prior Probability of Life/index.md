@@ -4,8 +4,7 @@ author: Entropiex
 description: Review and recognize
 date: 2024-09-30
 image: 
-categories:
-  - Daily
+categories: Daily
 math: false
 tags:
 ---
