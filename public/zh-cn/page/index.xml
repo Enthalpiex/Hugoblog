@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Entropiex</title>
-        <link>http://localhost:1313/zh-cn/page/</link>
+        <link>https://enthalpiex.github.io/zh-cn/page/</link>
         <description>Recent content in Pages on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 14 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>关于</title>
-        <link>http://localhost:1313/zh-cn/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://enthalpiex.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/zh-cn/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://enthalpiex.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;&lt;code&gt;“为什么选择这个作为我们的目标？他们可能会问，为什么要攀登最高的山峰？为什么 35 年前要飞越大西洋？为什么赖斯要与德克萨斯队比赛？&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;我们选择登月。&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;我们选择在十年内登月并完成其他任务，不是因为它们很容易，而是因为它们很难，因为这个目标将有助于组织和衡量我们的最佳精力和技能，因为这个挑战是我们愿意接受的，是我们不愿推迟的，是我们打算赢得的，其他的也是如此。”&lt;/code&gt;&lt;/p&gt;
@@ -21,18 +21,18 @@
         </item>
         <item>
         <title>归档</title>
-        <link>http://localhost:1313/zh-cn/archives/</link>
+        <link>https://enthalpiex.github.io/zh-cn/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/zh-cn/archives/</guid>
+        <guid>https://enthalpiex.github.io/zh-cn/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>链接</title>
-        <link>http://localhost:1313/zh-cn/%E9%93%BE%E6%8E%A5/</link>
+        <link>https://enthalpiex.github.io/zh-cn/%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/zh-cn/%E9%93%BE%E6%8E%A5/</guid>
+        <guid>https://enthalpiex.github.io/zh-cn/%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -64,10 +64,10 @@
         </item>
         <item>
         <title>搜索</title>
-        <link>http://localhost:1313/zh-cn/search/</link>
+        <link>https://enthalpiex.github.io/zh-cn/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/zh-cn/search/</guid>
+        <guid>https://enthalpiex.github.io/zh-cn/search/</guid>
         <description></description>
         </item>
         

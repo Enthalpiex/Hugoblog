@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Entropiex</title>
-        <link>http://localhost:1313/en/categories/</link>
+        <link>https://enthalpiex.github.io/en/categories/</link>
         <description>Recent content in Categories on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Efficiency Project</title>
-        <link>http://localhost:1313/en/categories/efficiency-project/</link>
-        <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+        <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Daily</title>
+        <link>https://enthalpiex.github.io/en/categories/daily/</link>
+        <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/categories/efficiency-project/</guid>
-        <description>&lt;img src="http://localhost:1313/en/categories/efficiency-project/CDZ.png" alt="Featured image of post Efficiency Project" /&gt;</description>
+        <guid>https://enthalpiex.github.io/en/categories/daily/</guid>
+        <description>&lt;img src="https://enthalpiex.github.io/en/categories/daily/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Daily" /&gt;</description>
         </item>
         <item>
-        <title>Daily</title>
-        <link>http://localhost:1313/en/categories/daily/</link>
-        <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+        <title>Efficiency Project</title>
+        <link>https://enthalpiex.github.io/en/categories/efficiency-project/</link>
+        <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/categories/daily/</guid>
-        <description>&lt;img src="http://localhost:1313/en/categories/daily/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Daily" /&gt;</description>
+        <guid>https://enthalpiex.github.io/en/categories/efficiency-project/</guid>
+        <description>&lt;img src="https://enthalpiex.github.io/en/categories/efficiency-project/CDZ.png" alt="Featured image of post Efficiency Project" /&gt;</description>
         </item>
         <item>
         <title>About site</title>
-        <link>http://localhost:1313/en/categories/about-site/</link>
+        <link>https://enthalpiex.github.io/en/categories/about-site/</link>
         <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/categories/about-site/</guid>
-        <description>&lt;img src="http://localhost:1313/en/categories/about-site/avatar.jpg" alt="Featured image of post About site" /&gt;</description>
+        <guid>https://enthalpiex.github.io/en/categories/about-site/</guid>
+        <description>&lt;img src="https://enthalpiex.github.io/en/categories/about-site/avatar.jpg" alt="Featured image of post About site" /&gt;</description>
         </item>
         <item>
         <title>Eridanus Aviation Industry</title>
-        <link>http://localhost:1313/en/categories/eridanus-aviation-industry/</link>
+        <link>https://enthalpiex.github.io/en/categories/eridanus-aviation-industry/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/categories/eridanus-aviation-industry/</guid>
-        <description>&lt;img src="http://localhost:1313/en/categories/eridanus-aviation-industry/ERIDANUS_4K_V4.png" alt="Featured image of post Eridanus Aviation Industry" /&gt;</description>
+        <guid>https://enthalpiex.github.io/en/categories/eridanus-aviation-industry/</guid>
+        <description>&lt;img src="https://enthalpiex.github.io/en/categories/eridanus-aviation-industry/ERIDANUS_4K_V4.png" alt="Featured image of post Eridanus Aviation Industry" /&gt;</description>
         </item>
         
     </channel>

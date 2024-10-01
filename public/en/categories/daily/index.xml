@@ -2,17 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Daily on Entropiex</title>
-        <link>http://localhost:1313/en/categories/daily/</link>
+        <link>https://enthalpiex.github.io/en/categories/daily/</link>
         <description>Recent content in Daily on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Prior Probability of Life</title>
+        <link>https://enthalpiex.github.io/en/p/prior-probability-of-life/</link>
+        <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/en/p/prior-probability-of-life/</guid>
+        <description>&lt;p&gt;Today is the last day of September. Looking back, this month has passed very quickly and I have learned a lot. The most important thing is to establish the White Room system, and thinking about the life.&lt;/p&gt;
+&lt;p&gt;According to Bayesian theory, life should also consist of prior probability and posterior probability. Being alive and healthy constitutes the prior probability, while thoughts and actions constitute the posterior probability. When all conditions are met, it is the road to victory.&lt;/p&gt;
+&lt;p&gt;For the coming month, I decided to finish my high school physics content and improve my English, everything will be checked on my birthday.&lt;/p&gt;
+&lt;p&gt;Happy October!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>New things Todo</title>
+        <link>https://enthalpiex.github.io/en/p/new-things-todo/</link>
+        <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://enthalpiex.github.io/en/p/new-things-todo/</guid>
+        <description>&lt;p&gt;These are things to do next few days:&lt;/p&gt;
+&lt;h5 id=&#34;0-create-review-sheet-for-all-school-courses&#34;&gt;0. Create review sheet for all school courses
+&lt;/h5&gt;&lt;h5 id=&#34;1-update-time-flip-210&#34;&gt;1. Update Time Flip 2.1.0
+&lt;/h5&gt;&lt;h5 id=&#34;2-start-developing-time-slice-t-slice&#34;&gt;2. Start developing Time Slice (T-Slice)
+&lt;/h5&gt;&lt;h5 id=&#34;3-start-developing-hugo-poster-for-obsidian&#34;&gt;3. Start developing Hugo Poster for Obsidian
+&lt;/h5&gt;&lt;h5 id=&#34;4-start-developing-hugo-poster-for-obsidian&#34;&gt;4. Start developing Hugo Poster for Obsidian
+&lt;/h5&gt;&lt;h5 id=&#34;5-start-ap-courses&#34;&gt;5. Start AP courses
+&lt;/h5&gt;&lt;h5 id=&#34;6-restart-meditation&#34;&gt;6. Restart Meditation
+&lt;/h5&gt;&lt;p&gt;Hopefully they could be done perfectly.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Time Slice, The beginning of everything</title>
-        <link>http://localhost:1313/en/p/time-slice-the-beginning-of-everything/</link>
+        <link>https://enthalpiex.github.io/en/p/time-slice-the-beginning-of-everything/</link>
         <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/time-slice-the-beginning-of-everything/</guid>
+        <guid>https://enthalpiex.github.io/en/p/time-slice-the-beginning-of-everything/</guid>
         <description>&lt;p&gt;&lt;code&gt;一些完美主义和远视主义的思索&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;生活在静好的岁月里，没有人再会去冒险了。&lt;/p&gt;
 &lt;p&gt;我意识到有时我们必须有一份承诺；
@@ -47,10 +76,10 @@
         </item>
         <item>
         <title>Starfield?</title>
-        <link>http://localhost:1313/en/p/starfield/</link>
+        <link>https://enthalpiex.github.io/en/p/starfield/</link>
         <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/starfield/</guid>
+        <guid>https://enthalpiex.github.io/en/p/starfield/</guid>
         <description>&lt;p&gt;I just saw an interesting comment on bilibili, the original text is as follows:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;If there are other civilizations in the universe that are more developed than humans, I think their world must be extremely neat and tidy cities, with sharp buildings, obvious artificial features in landform transformation and various functional areas, and the operation of the city depends on powerful central supercomputer control. Aliens may look special, but they will have a lot of auxiliary equipment on their bodies, their thoughts will be more mature than humans, their logical ability will be stronger, and their emotions will fluctuate less, which is equivalent to the artificial intelligence life form in the human science fiction world. Perhaps these aliens are the silicon-based civilization heritage left behind after the disappearance of the carbon-based civilization of the planet, making these intelligent machines created to serve carbon-based creatures the new heirs of civilization.&lt;/p&gt;

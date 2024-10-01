@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Time_Flip on Entropiex</title>
-        <link>http://localhost:1313/en/tags/time_flip/</link>
+        <link>https://enthalpiex.github.io/en/tags/time_flip/</link>
         <description>Recent content in Time_Flip on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/time_flip/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/tags/time_flip/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Time Flip Update Logs</title>
-        <link>http://localhost:1313/en/p/time-flip-update-logs/</link>
+        <link>https://enthalpiex.github.io/en/p/time-flip-update-logs/</link>
         <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/time-flip-update-logs/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/time-flip-update-logs/Updates.png" alt="Featured image of post Time Flip Update Logs" /&gt;&lt;h2 id=&#34;20240125-v001&#34;&gt;2024.01.25-v0.0.1
+        <guid>https://enthalpiex.github.io/en/p/time-flip-update-logs/</guid>
+        <description>&lt;img src="https://enthalpiex.github.io/en/p/time-flip-update-logs/Updates.png" alt="Featured image of post Time Flip Update Logs" /&gt;&lt;h2 id=&#34;20240125-v001&#34;&gt;2024.01.25-v0.0.1
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;D.s. α 迁移至Timeflip&lt;/li&gt;
 &lt;li&gt;Obsidian初稿&lt;/li&gt;
@@ -172,10 +172,10 @@
         </item>
         <item>
         <title>Obsidian is not ENOUGH</title>
-        <link>http://localhost:1313/en/p/obsidian-is-not-enough/</link>
+        <link>https://enthalpiex.github.io/en/p/obsidian-is-not-enough/</link>
         <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/obsidian-is-not-enough/</guid>
+        <guid>https://enthalpiex.github.io/en/p/obsidian-is-not-enough/</guid>
         <description>&lt;p&gt;This can be said to be the worst month. Although DSα was good at first, the complexity of the table and the tediousness of the calculations made me spend too much time on this &amp;ldquo;efficiency system&amp;rdquo;, wasting a lot of time without any actual results. The program that automatically calculates time has no practical effect, and I have not found a suitable way to summarize and process the large amount of data generated every day.&lt;/p&gt;
 &lt;p&gt;Rebuilding DSα on Obsidian has indeed simplified a lot of content, but it still cannot solve the fundamental problem, that is, it is not intuitive enough. The limitations of the table and the disappointing functions of Obsidian mind mapping software forced me to choose other software to build this system.&lt;/p&gt;
 &lt;p&gt;Currently, I am migrating it to Simplemind Pro, a well-rated mind mapping software. The completely free configuration and nodes can free the original content from the table, because the best choice is &amp;ldquo;display everything on a huge plane&amp;rdquo;, what you see is what you get.&lt;/p&gt;
@@ -183,10 +183,10 @@
         </item>
         <item>
         <title>Brand New - Time Flip</title>
-        <link>http://localhost:1313/en/p/brand-new-time-flip/</link>
+        <link>https://enthalpiex.github.io/en/p/brand-new-time-flip/</link>
         <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/brand-new-time-flip/</guid>
+        <guid>https://enthalpiex.github.io/en/p/brand-new-time-flip/</guid>
         <description>&lt;p&gt;Directivity system α has been finalized and archived. Timeflip will remake and update all previous content.&lt;/p&gt;
 &lt;p&gt;Directivity system α is the first attempt to manage time based on the latest theoretical results, and has gained a lot of data and experience. Timeflip is a reset and updated version of D.s. α to solve many of its problems, expand the management scope, and greatly optimize the tediousness.&lt;/p&gt;
 &lt;h2 id=&#34;theoretical-basis&#34;&gt;Theoretical basis
