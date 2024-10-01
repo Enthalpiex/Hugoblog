@@ -4,7 +4,7 @@ description: Post-KSPS
 date: 2024-09-14
 aliases: []
 license: CC BY-NC-ND
-lastmod: 2024-09-16T13:01:00
+lastmod: 2024-09-16T13:01:00-05:00
 menu:
   main:
     weight: -90
