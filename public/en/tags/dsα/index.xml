@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>DSα on Entropiex</title>
-        <link>https://enthalpiex.github.io/en/tags/ds%CE%B1/</link>
+        <link>http://localhost:1313/en/tags/ds%CE%B1/</link>
         <description>Recent content in DSα on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://enthalpiex.github.io/en/tags/ds%CE%B1/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/ds%CE%B1/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Directivity System α</title>
-        <link>https://enthalpiex.github.io/en/p/directivity-system-%CE%B1/</link>
+        <link>http://localhost:1313/en/p/directivity-system-%CE%B1/</link>
         <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://enthalpiex.github.io/en/p/directivity-system-%CE%B1/</guid>
+        <guid>http://localhost:1313/en/p/directivity-system-%CE%B1/</guid>
         <description>&lt;p&gt;It is necessary to do something new in the new year. The efficiency research in 2023 has not even made any progress on paper, and the low efficiency is amazing&amp;hellip;&lt;/p&gt;
 &lt;p&gt;I plan to combine the methods of summarizing and experimenting in 2022 and 2023 and the latest theoretical results into a system that can promote efficiency improvement.&lt;/p&gt;
 &lt;p&gt;This is the Directivity system.&lt;/p&gt;
