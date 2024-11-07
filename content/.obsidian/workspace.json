@@ -243,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,11 +273,13 @@
       "media-extended:Open media": false
     }
   },
-  "active": "95df56adaca389df",
+  "active": "84e3e3d4b465d4b7",
   "lastOpenFiles": [
+    "post/Advance! Advance Regardless Any Cost and Consequences!/Kelvin Aerospace Laboratory.excalidraw.png",
+    "Pasted image 20241107173537.png",
+    "post/Advance! Advance Regardless Any Cost and Consequences!/index.md",
     "post/STOP SYNC/index.md",
     "post/Brand New - Time Flip/index.md",
-    "post/Advance! Advance Regardless Any Cost and Consequences!/index.md",
     "post/Brand New - Time Flip/index.zh-cn.md",
     "post/Advance! Advance Regardless Any Cost and Consequences!",
     "categories/Efficiency Project/CDZ.png",
@@ -308,7 +311,6 @@
     "categories/Eridanus Aviation Industry",
     "categories/About site",
     "post/STOP SYNC/index.zh-cn.md",
-    "post/Time Slice, The beginning of everything/index.zh-cn.md",
     "post/STOP SYNC",
     "post/Time Slice, The beginning of everything",
     "post/Time Flip Update Logs/未命名",
@@ -319,7 +321,6 @@
     "Examplesposts/chinese-test/helena-hertz-wWZzXlDpMog-unsplash.jpg",
     "Examplesposts/chinese-test/florian-klauer-nptLmg6jqDo-unsplash.jpg",
     "categories/Test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg",
-    "Examplesposts/chinese-test/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
