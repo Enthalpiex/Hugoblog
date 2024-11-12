@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/Advance! Advance Regardless Any Cost and Consequences!/index.md",
+                "file": "post/Applying and Learning/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -113,16 +113,6 @@
         "dimension": 74.02597402597402,
         "children": [
           {
-            "id": "ccca9f254639b909",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
-            }
-          },
-          {
             "id": "eb1745085fadb91c",
             "type": "leaf",
             "state": {
@@ -202,7 +192,7 @@
             }
           },
           {
-            "id": "9ef50ba2f83c0e95",
+            "id": "9fa215de189a8a18",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -210,19 +200,9 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "84dbcb6ea8c34ad1",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       },
       {
         "id": "982b514330d66ec0",
@@ -275,9 +255,12 @@
   },
   "active": "84e3e3d4b465d4b7",
   "lastOpenFiles": [
+    "categories/Eridanus Aviation Industry/_index.md",
+    "post/Applying and Learning/index.md",
     "post/Advance! Advance Regardless Any Cost and Consequences!/Kelvin Aerospace Laboratory.excalidraw.png",
-    "Pasted image 20241107173537.png",
+    "post/Applying and Learning",
     "post/Advance! Advance Regardless Any Cost and Consequences!/index.md",
+    "Pasted image 20241107173537.png",
     "post/STOP SYNC/index.md",
     "post/Brand New - Time Flip/index.md",
     "post/Brand New - Time Flip/index.zh-cn.md",
@@ -289,7 +272,6 @@
     "categories/About site/Drawing 2024-11-01 10.33.32.excalidraw.md",
     "categories/About site/avatar.jpg",
     "categories/About site/_index.md",
-    "categories/Eridanus Aviation Industry/_index.md",
     "categories/Eridanus Aviation Industry/ERIDANUS_4K_V4.png",
     "page/search/index.zh-cn.md",
     "page/search/index.md",
@@ -310,17 +292,14 @@
     "post/New things Todo",
     "categories/Eridanus Aviation Industry",
     "categories/About site",
-    "post/STOP SYNC/index.zh-cn.md",
     "post/STOP SYNC",
     "post/Time Slice, The beginning of everything",
     "post/Time Flip Update Logs/未命名",
     "post/Starfield",
-    "post/Starfield!",
     "post/From KSPS/KSPS_on_Internet_Achieve.png",
     "post/From KSPS/pbfymkz6.png",
     "Examplesposts/chinese-test/helena-hertz-wWZzXlDpMog-unsplash.jpg",
     "Examplesposts/chinese-test/florian-klauer-nptLmg6jqDo-unsplash.jpg",
-    "categories/Test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
