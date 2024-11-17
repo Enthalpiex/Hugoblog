@@ -263,7 +263,6 @@ $$
 $$
 ii\text{ }Homozygote(recessive)
 $$
----
 ## Part III - 1.3 Natural & Artificial Selection
 
 34. Mutation
