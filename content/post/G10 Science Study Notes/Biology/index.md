@@ -396,7 +396,7 @@ Similarities
 - **Transformation into host cell (bacteria)**
 - **Replication, produce protein from cloned gene**
 
-![[B-1.jpg](B-1.jpg)
+![[B-12.jpg](B-12.jpg)
 
 Explain - chromosomal DNA, vector DNA, recombinant DNA, plasmid, bacteria cell
 
