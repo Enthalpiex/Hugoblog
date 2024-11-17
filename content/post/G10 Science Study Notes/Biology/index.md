@@ -136,7 +136,7 @@ $$
 - **(PP) Dominant**
 - **(pp) Recessive**
 
-![[B-6.png]]()
+![B-6.png](B-6.png)
 
 - **Each plant had two factors that act as a set of instructions for each trait**
 - **Each parent donates one of these factors to the offspring**
@@ -156,7 +156,7 @@ $$
 **Traits controlled by the genes on the X chromosome**
 **Color Vision Deficiency - A person that sees red and green as shades of gray**
 
-![[B-7.png]]
+![B-7.png](B-7.png)
 
 23. Codominance
 
@@ -173,13 +173,13 @@ $$
 **Its caused by a specific form of the gene that directs the synthesis of hemoglobin** 
 **Hemoglobin is a protein in the development of red blood cells**
 
-![[B-5.png]]
+![[B-5.png](B-5.png)
 
 **Sickle Cell Anemia causes people to have shaped (sickled shaped) red blood cells. These blood cells do not transport oxygen efficiently. Causing blockages and tissue damage. They also don't fit through small blood vessels.**
 ‎ 
 25. Sickle all anemia and vessels 
 
-![[B-4.png]]
+![[B-4.png](B-4.png)
 ![[B-8.png]]
 
 26. Homozygous Chromosomes
@@ -229,9 +229,9 @@ $$
 **A way to represent the *inheritance* of traits in monohydrate crosses**
 **Shows the possible genotypes of offspring based on the genotype of their parents**
 
-![[B-3.png]]
+![[B-3.png](B-3.png)
 ![[B-9.png]]
-![[B-10.png]]
+![[B-10.png](B-10.png)
 
 #### Addition - Blood types
 **ln human a single gene determines a person' s ABO blood type. 3 Alleles are**
@@ -339,7 +339,7 @@ Environmental influence create **selective pressure** and these influence can ei
 **Human started artificially breeding plants 4000 years ago in *Europe and Asia***
 **We have created crops resistant to drought, disease resistant and pest resistant**
 
-![[B-2.jpg]]
+![[B-2.jpg](B-2.jpg)
 
 46. Negative Consequences
 
@@ -397,7 +397,7 @@ Similarities
 - **Transformation into host cell (bacteria)**
 - **Replication, produce protein from cloned gene**
 
-![[B-1.jpg]]
+![[B-1.jpg](B-1.jpg)
 
 Explain - chromosomal DNA, vector DNA, recombinant DNA, plasmid, bacteria cell
 
