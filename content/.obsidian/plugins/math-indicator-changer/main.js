@@ -101,3 +101,5 @@ var MathIndicatorChanger = class extends import_obsidian.Plugin {
     console.log("unloading Math Indicator Changer plugin");
   }
 };
+
+/* nosourcemap */

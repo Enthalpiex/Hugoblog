@@ -27,12 +27,19 @@ __export(main_exports, {
   default: () => ExtendedTaskListsPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian2 = require("obsidian");
+var import_obsidian3 = require("obsidian");
 
 // src/fileService.ts
+var import_obsidian = require("obsidian");
 var VaultFileService = class {
   constructor(vault) {
     this.vault = vault;
+  }
+  async getFileByPath(path) {
+    const file = this.vault.getAbstractFileByPath(path);
+    if (!(file instanceof import_obsidian.TFile))
+      return null;
+    return file;
   }
   async getFiles() {
     return this.vault.getMarkdownFiles();
@@ -49,7 +56,7 @@ var VaultFileService = class {
 };
 
 // src/settings.ts
-var import_obsidian = require("obsidian");
+var import_obsidian2 = require("obsidian");
 var DEFAULT_SETTINGS = {
   todoFilename: "TODO.md",
   excludeFilePattern: "<!-- exclude TODO -->",
@@ -60,7 +67,7 @@ var DEFAULT_SETTINGS = {
   includeWontDo: false,
   includeDone: false
 };
-var ExtendedTaskListsSettingTab = class extends import_obsidian.PluginSettingTab {
+var ExtendedTaskListsSettingTab = class extends import_obsidian2.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
@@ -69,35 +76,35 @@ var ExtendedTaskListsSettingTab = class extends import_obsidian.PluginSettingTab
     const { containerEl } = this;
     containerEl.empty();
     this.containerEl.createEl("h2", { text: "Generated TODO" });
-    new import_obsidian.Setting(containerEl).setName("TODO filename").addText((text) => text.setValue(this.plugin.settings.todoFilename).onChange(async (value) => {
+    new import_obsidian2.Setting(containerEl).setName("TODO filename").addText((text) => text.setValue(this.plugin.settings.todoFilename).onChange(async (value) => {
       this.plugin.settings.todoFilename = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian.Setting(containerEl).setName("Exclude file pattern").setDesc("A pattern that should be inserted anywhere in a Markdown file to exclude it from the generated TODO file.").addText((text) => text.setValue(this.plugin.settings.excludeFilePattern).onChange(async (value) => {
+    new import_obsidian2.Setting(containerEl).setName("Exclude file pattern").setDesc("A pattern that should be inserted anywhere in a Markdown file to exclude it from the generated TODO file.").addText((text) => text.setValue(this.plugin.settings.excludeFilePattern).onChange(async (value) => {
       this.plugin.settings.excludeFilePattern = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian.Setting(containerEl).setName("Exclude folder filename").setDesc('The filename to add to a folder to exclude all task lists in it from the generated TODO file. You may prefer to change the default value since dot files (files that start with a ".") do not show up within Obsidian.').addText((text) => text.setValue(this.plugin.settings.excludeFolderFilename).onChange(async (value) => {
+    new import_obsidian2.Setting(containerEl).setName("Exclude folder filename").setDesc('The filename to add to a folder to exclude all task lists in it from the generated TODO file. You may prefer to change the default value since dot files (files that start with a ".") do not show up within Obsidian.').addText((text) => text.setValue(this.plugin.settings.excludeFolderFilename).onChange(async (value) => {
       this.plugin.settings.excludeFolderFilename = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian.Setting(containerEl).setName("Include not started tasks").addToggle((toggle) => toggle.setValue(this.plugin.settings.includeNotStarted).onChange(async (value) => {
+    new import_obsidian2.Setting(containerEl).setName("Include not started tasks").addToggle((toggle) => toggle.setValue(this.plugin.settings.includeNotStarted).onChange(async (value) => {
       this.plugin.settings.includeNotStarted = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian.Setting(containerEl).setName("Use full filepath").setDesc("If checked, the full Vault filepath is used for the label of grouped task items in the generated TODO file").addToggle((toggle) => toggle.setValue(this.plugin.settings.useFullFilepath).onChange(async (value) => {
+    new import_obsidian2.Setting(containerEl).setName("Use full filepath").setDesc("If checked, the full Vault filepath is used for the label of grouped task items in the generated TODO file").addToggle((toggle) => toggle.setValue(this.plugin.settings.useFullFilepath).onChange(async (value) => {
       this.plugin.settings.useFullFilepath = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian.Setting(containerEl).setName("Include in progress tasks").addToggle((toggle) => toggle.setValue(this.plugin.settings.includeInProgress).onChange(async (value) => {
+    new import_obsidian2.Setting(containerEl).setName("Include in progress tasks").addToggle((toggle) => toggle.setValue(this.plugin.settings.includeInProgress).onChange(async (value) => {
       this.plugin.settings.includeInProgress = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian.Setting(containerEl).setName("Include won't do tasks").addToggle((toggle) => toggle.setValue(this.plugin.settings.includeWontDo).onChange(async (value) => {
+    new import_obsidian2.Setting(containerEl).setName("Include won't do tasks").addToggle((toggle) => toggle.setValue(this.plugin.settings.includeWontDo).onChange(async (value) => {
       this.plugin.settings.includeWontDo = value;
       await this.plugin.saveSettings();
     }));
-    new import_obsidian.Setting(containerEl).setName("Include done tasks").addToggle((toggle) => toggle.setValue(this.plugin.settings.includeDone).onChange(async (value) => {
+    new import_obsidian2.Setting(containerEl).setName("Include done tasks").addToggle((toggle) => toggle.setValue(this.plugin.settings.includeDone).onChange(async (value) => {
       this.plugin.settings.includeDone = value;
       await this.plugin.saveSettings();
     }));
@@ -106,6 +113,7 @@ var ExtendedTaskListsSettingTab = class extends import_obsidian.PluginSettingTab
 
 // src/todoService.ts
 var TODO_PATTERN = /^(?<indentation>\s*)-\s?\[(?<task>.)\]\s+(?<text>.*)$/;
+var LINK_PATTERN = /^- \[.*\]\((?<path>.*)\)$/;
 var TodoService = class {
   constructor(fileService, settings) {
     this.fileService = fileService;
@@ -131,6 +139,30 @@ var TodoService = class {
     return todoFiles;
   }
   /**
+   * Parse the auto-generated TODO file
+   */
+  parseTodoFile(contents) {
+    const lines = contents.split(/[\r]?[\n]/);
+    const files = /* @__PURE__ */ new Map();
+    let currentFilePath = "";
+    lines.forEach((line, index) => {
+      let match = line.match(LINK_PATTERN);
+      if (match != null) {
+        const encodedfilePath = match.groups.path;
+        const filePath = decodeURI(encodedfilePath);
+        currentFilePath = filePath;
+        files.set(currentFilePath, []);
+        return;
+      }
+      match = line.match(TODO_PATTERN);
+      if (match != null) {
+        const todo = this.parseTodo({ match, index });
+        files.get(currentFilePath).push(todo);
+      }
+    });
+    return files;
+  }
+  /**
    * Parse all the task items from the string
    */
   parseTodos(contents) {
@@ -139,14 +171,7 @@ var TodoService = class {
       const match = line.match(TODO_PATTERN);
       return { match, index };
     }).filter((indexMatch) => indexMatch.match != null);
-    const todos = matchesAndIndices.map((indexMatch) => {
-      var _a, _b, _c;
-      const lineno = indexMatch.index;
-      const task = (_a = indexMatch.match.groups) == null ? void 0 : _a.task;
-      const text = (_b = indexMatch.match.groups) == null ? void 0 : _b.text;
-      const indentation = (_c = indexMatch.match.groups) == null ? void 0 : _c.indentation;
-      return { task, text, indentation, lineno };
-    });
+    const todos = matchesAndIndices.map(this.parseTodo);
     const todoToPrevSibling = /* @__PURE__ */ new Map();
     todos.forEach((todo) => {
       const prevSibling = todos.find((t) => t.lineno === todo.lineno - 1) || null;
@@ -157,15 +182,41 @@ var TodoService = class {
     kvps.filter((kvp) => kvp[1] != null && kvp[0].indentation.length > kvp[1].indentation.length).forEach((kvp) => kvp[0].indentation = kvp[1].indentation + "    ");
     return todos;
   }
+  parseTodo(match) {
+    var _a, _b, _c;
+    const lineno = match.index;
+    const task = (_a = match.match.groups) == null ? void 0 : _a.task;
+    const text = (_b = match.match.groups) == null ? void 0 : _b.text;
+    const indentation = (_c = match.match.groups) == null ? void 0 : _c.indentation;
+    return { task, text, indentation, lineno };
+  }
+  /**
+   * Find and update the task item in the file
+   */
+  async updateTodos(contents, updates) {
+    const lines = contents.split(/[\r]?[\n]/);
+    const newLines = lines.map((line, index) => {
+      const match = line.match(TODO_PATTERN);
+      if (match == null)
+        return line;
+      const todo = this.parseTodo({ match, index });
+      const update = updates.find((update2) => update2.text === todo.text);
+      if (update == null)
+        return line;
+      const updatedLine = line.replace(/-\s?\[.\]/, `- [${update.task}]`);
+      return updatedLine;
+    });
+    const updatedContent = newLines.join("\n");
+    return updatedContent;
+  }
   /**
    * Save the task items to the TODO file
    */
   async saveTodos(todoFile, todos) {
     let data = "";
     todos.sort((a, b) => a.file.stat.ctime - b.file.stat.ctime);
-    todos = todos.filter(
-      (todo) => todo.task === " " /* NotStarted */ && this.settings.includeNotStarted || todo.task === "." /* InProgress */ && this.settings.includeInProgress || todo.task === "~" /* WontDo */ && this.settings.includeWontDo || todo.task === "x" /* Done */ && this.settings.includeDone
-    );
+    const includedTaskTypes = this.getIncludedTaskTypes();
+    todos = todos.filter((todo) => includedTaskTypes.has(todo.task));
     const todosByFile = /* @__PURE__ */ new Map();
     todos.forEach((todo) => {
       if (!todosByFile.get(todo.file)) {
@@ -185,6 +236,18 @@ var TodoService = class {
       });
     });
     this.fileService.updateFile(todoFile, data);
+  }
+  getIncludedTaskTypes() {
+    const taskTypes = /* @__PURE__ */ new Set();
+    if (this.settings.includeNotStarted)
+      taskTypes.add(" " /* NotStarted */);
+    if (this.settings.includeInProgress)
+      taskTypes.add("." /* InProgress */);
+    if (this.settings.includeWontDo)
+      taskTypes.add("~" /* WontDo */);
+    if (this.settings.includeDone)
+      taskTypes.add("x" /* Done */);
+    return taskTypes;
   }
   async getShouldExcludeFile(file) {
     var _a, _b;
@@ -220,10 +283,10 @@ var TodoService = class {
 var todoService_default = TodoService;
 
 // main.ts
-var ExtendedTaskListsPlugin = class extends import_obsidian2.Plugin {
+var ExtendedTaskListsPlugin = class extends import_obsidian3.Plugin {
   constructor() {
     super(...arguments);
-    this.updateTodo = async () => {
+    this.updateTodoFile = async () => {
       const vault = this.app.vault;
       const fileService = new VaultFileService(vault);
       const service = new todoService_default(fileService, this.settings);
@@ -236,6 +299,27 @@ var ExtendedTaskListsPlugin = class extends import_obsidian2.Plugin {
       const todoFile = await this.getOrCreateTodoFile(vault);
       await service.saveTodos(todoFile, todos);
     };
+    this.onTodoFileUpdated = async (todoFile) => {
+      const vault = this.app.vault;
+      const fileService = new VaultFileService(vault);
+      const contents = await fileService.readFile(todoFile);
+      const service = new todoService_default(fileService, this.settings);
+      const todosByFilePath = service.parseTodoFile(contents);
+      const hasUpdates = false;
+      todosByFilePath.forEach(async (todos, filepath) => {
+        const includedTaskTypes = service.getIncludedTaskTypes();
+        const updatedTodos = todos.filter((todo) => !includedTaskTypes.has(todo.task));
+        if (updatedTodos.length === 0)
+          return;
+        const file = await fileService.getFileByPath(filepath);
+        if (file == null)
+          return;
+        const fileContent = await fileService.readFile(file);
+        const newFileContent = await service.updateTodos(fileContent, updatedTodos);
+        await fileService.updateFile(file, newFileContent);
+      });
+      return hasUpdates;
+    };
     this.getOrCreateTodoFile = async (vault) => {
       let todoFile;
       try {
@@ -244,7 +328,7 @@ var ExtendedTaskListsPlugin = class extends import_obsidian2.Plugin {
         const todoFileOrNull = vault.getAbstractFileByPath(this.settings.todoFilename);
         if (todoFileOrNull == null) {
           throw new Error(`Could not get or create the TODO file: ${this.settings.todoFilename}`);
-        } else if (!(todoFileOrNull instanceof import_obsidian2.TFile)) {
+        } else if (!(todoFileOrNull instanceof import_obsidian3.TFile)) {
           throw new Error(`The retrieved TODO file is a folder: ${this.settings.todoFilename}`);
         }
         todoFile = todoFileOrNull;
@@ -254,10 +338,25 @@ var ExtendedTaskListsPlugin = class extends import_obsidian2.Plugin {
   }
   async onload() {
     await this.loadSettings();
+    this.app.workspace.onLayoutReady(() => {
+      this.registerEvent(this.app.vault.on("create", this.updateTodoFile));
+    });
+    this.registerEvent(this.app.vault.on("delete", this.updateTodoFile));
+    this.registerEvent(this.app.vault.on("rename", this.updateTodoFile));
+    this.registerEvent(this.app.vault.on("modify", async (file) => {
+      if (file.name !== this.settings.todoFilename || !(file instanceof import_obsidian3.TFile)) {
+        await this.updateTodoFile();
+        return;
+      }
+      const hasChanges = await this.onTodoFileUpdated(file);
+      if (hasChanges) {
+        await this.updateTodoFile();
+      }
+    }));
     this.addCommand({
       id: "update-todo",
       name: "Update TODO",
-      callback: this.updateTodo
+      callback: this.updateTodoFile
     });
     this.addSettingTab(new ExtendedTaskListsSettingTab(this.app, this));
     this.registerMarkdownPostProcessor((element, context) => {
@@ -311,3 +410,5 @@ var ExtendedTaskListsPlugin = class extends import_obsidian2.Plugin {
     await this.saveData(this.settings);
   }
 };
+
+/* nosourcemap */
