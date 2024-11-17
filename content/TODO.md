@@ -1,3 +1,0 @@
-- [index.zh-cn](post/DS%CE%B1-update-0109/index.zh-cn.md)
-	- [ ] 主动信息获取计划
-	- [ ] 降低试错成本
