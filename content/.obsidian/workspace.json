@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "27751fdcb9174e56",
+        "id": "9ceebf8e641917b5",
         "type": "tabs",
         "children": [
           {
-            "id": "95df56adaca389df",
+            "id": "16504f6d44e5e9ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/G10 Science Study Notes/Biology/index.md",
+                "file": "post/G10 Science Study Notes/Physics/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,8 +200,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "95df56adaca389df",
+  "active": "16504f6d44e5e9ca",
   "lastOpenFiles": [
+    "post/G10 Science Study Notes/Physics/index.md",
+    "post/G10 Science Study Notes/Biology/index.md",
     "page/links/index.md",
     "page/links/ts-logo-128.jpg",
     "post/Time Slice, The beginning of everything/index.md",
@@ -213,7 +215,6 @@
     "post/From KSPS/index.zh-cn.md",
     "post/DSα-update-0106/index.zh-cn.md",
     "post/Obsidian is not ENOUGH/index.md",
-    "post/G10 Science Study Notes/Biology/index.md",
     "post/G10 Science Study Notes/Biology/B-10.png",
     "post/G10 Science Study Notes/Biology/Pasted image 20240728234508.png",
     "post/G10 Science Study Notes/Biology/B-9.png",
@@ -221,7 +222,6 @@
     "post/G10 Science Study Notes/Biology/B-8.png",
     "post/G10 Science Study Notes/Biology/Pasted image 20240725094851.png",
     "post/G10 Science Study Notes/Biology/B-7.png",
-    "post/G10 Science Study Notes/Physics/index.md",
     "page/about/index.md",
     "categories/About site/_index.md",
     "post/DSα-update-0109/index.zh-cn.md",
