@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/G10 Science Study Notes/Physics/index.md",
+                "file": "post/G10 Science Study Notes/Biology/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
-            }
-          },
-          {
-            "id": "98d98497f43f9013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "post/DSα-update-0109/index.zh-cn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index.zh-cn"
             }
           }
         ]
@@ -194,15 +180,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "math-indicator-changer:Change math indicator": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -212,55 +197,50 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
-      "workspaces:管理工作区布局": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "media-extended:Open media": false,
-      "homepage:Open homepage": false
+      "workspaces:管理工作区布局": false
     }
   },
   "active": "95df56adaca389df",
   "lastOpenFiles": [
+    "page/links/index.md",
+    "page/links/ts-logo-128.jpg",
+    "post/Time Slice, The beginning of everything/index.md",
+    "post/Advance! Advance Regardless Any Cost and Consequences!/index.md",
+    "post/Brand New - Time Flip/index.md",
+    "post/From KSPS/index.md",
+    "post/From KSPS/pbfymkz6.png",
+    "post/From KSPS/KSPS_on_Internet_Achieve.png",
+    "post/From KSPS/index.zh-cn.md",
+    "post/DSα-update-0106/index.zh-cn.md",
+    "post/Obsidian is not ENOUGH/index.md",
     "post/G10 Science Study Notes/Biology/index.md",
+    "post/G10 Science Study Notes/Biology/B-10.png",
+    "post/G10 Science Study Notes/Biology/Pasted image 20240728234508.png",
+    "post/G10 Science Study Notes/Biology/B-9.png",
+    "post/G10 Science Study Notes/Biology/Pasted image 20240728234858.png",
+    "post/G10 Science Study Notes/Biology/B-8.png",
+    "post/G10 Science Study Notes/Biology/Pasted image 20240725094851.png",
+    "post/G10 Science Study Notes/Biology/B-7.png",
     "post/G10 Science Study Notes/Physics/index.md",
+    "page/about/index.md",
+    "categories/About site/_index.md",
+    "post/DSα-update-0109/index.zh-cn.md",
     "_index.zh-cn.md",
     "_index.md",
     "TODO.md",
-    "post/DSα-update-0109/index.zh-cn.md",
-    "post/From KSPS/index.md",
-    "post/G10 Science Study Notes/Biology/B-6.png",
-    "post/G10 Science Study Notes/Biology/B-5.png",
-    "post/G10 Science Study Notes/Biology/B-4.png",
-    "post/G10 Science Study Notes/Biology/B-3.png",
-    "post/G10 Science Study Notes/Biology/B-2.jpg",
-    "post/G10 Science Study Notes/Biology/B-1.jpg",
-    "post/G10 Science Study Notes/Biology/3b514b1cdfb960fbaeac0afde1776a7.jpg",
-    "post/Advance! Advance Regardless Any Cost and Consequences!/index.md",
     "post/G10 Science Study Notes/Biology",
     "post/G10 Science Study Notes/New folder",
     "post/G10 Science Study Notes/Physics",
     "Template/index 1.md",
-    "page/about/index.md",
     "post/Brand New - Time Flip/index.zh-cn.md",
-    "post/Brand New - Time Flip/index.md",
     "post/Time Slice, The beginning of everything/index.zh-cn.md",
     "categories/Study Notes/_index.md",
     "page/search/index.md",
     "page/search/index.zh-cn.md",
-    "page/links/index.md",
     "page/links/index.zh-cn.md",
-    "page/links/ts-logo-128.jpg",
     "page/archives/index.zh-cn.md",
     "page/archives/index.md",
-    "page/about/index.zh-cn.md",
-    "categories/Daily/_index.md",
-    "categories/Daily/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg",
-    "categories/About site/_index.md",
-    "categories/About site/Drawing 2024-11-01 10.33.32.excalidraw.md",
-    "categories/About site/avatar.jpg",
     "post/G10 Science Study Notes",
-    "categories/未命名.md",
-    "categories/Eridanus Aviation Industry/_index.md",
     "categories/Study Notes",
     "post/Applying and Learning",
     "post/Advance! Advance Regardless Any Cost and Consequences!",
