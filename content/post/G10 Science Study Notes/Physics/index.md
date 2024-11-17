@@ -10,7 +10,7 @@ math: true
 tags:
   - StudyNotes
 ---
-# Part I - 3.1 Properties of Energy
+## Part I - 3.1 Properties of Energy
 
 1.      Energy
 
@@ -128,7 +128,7 @@ $$
 
 **Energy can be transform, but can’t be created or destroyed**
 
-# Part II - 3.2 Transforming Energy
+## Part II - 3.2 Transforming Energy
 
 22.      Endothermic
 
@@ -203,7 +203,7 @@ No nuclear waste is produced**
 **Occurs when a heavy atomic split into two light atomic.
 Nuclear waste is produced during the reaction**
 
-# Part III - 3.31 Transforming Energy
+## Part III - 3.31 Transforming Energy
 
 34.      Atmosphere
 
@@ -319,7 +319,7 @@ Warm air rushes into the atmosphere, displacing cool air, creating the Coriolis 
 Coriolis effect and convection results in three major global wind systems
 *Trade winds, Prevailing Westerlies, Polar Easterlies***
 
-# Part IV - 3.32 Natural Causes of Climate Change
+## Part IV - 3.32 Natural Causes of Climate Change
 
 56.      Climate
 
@@ -396,7 +396,7 @@ $$
 
 - **El Niño-Weaken trade winds, warm water move eastward. Canada & northern U.S. *warmer and dryer***
 - **La Niña-Stronger trade wind, warm water pushed back to Asia, cool water rises. Canada & northern U.S. *cooler and more precipitation***
-# Part V - 3.33 Human Activity and Climate Change
+## Part V - 3.33 Human Activity and Climate Change
 
 68.      Global Warming
 
@@ -445,7 +445,7 @@ $$
 **Computer generated model to study climate**
 **They take into account multiple factors such as *changing in greenhouse gas concentrations*, *ocean current*, *wind*, *surface temperature* and *albedo***
 
-# Part VI - 3.34 Energy Transformation & Global Systems
+## Part VI - 3.34 Energy Transformation & Global Systems
 
 74.      Earth Energy System
 

@@ -10,7 +10,7 @@ math: true
 tags:
   - StudyNotes
 ---
-# Part I - 1.1 DNA & RNA
+## Part I - 1.1 DNA & RNA
 
 1. DNA
 
@@ -96,7 +96,7 @@ tags:
   **e.x. The patterns on the tail of humpback wails**
 - ***Ecosystem Diversity* - The rich diversity of ecosystems found on earth, each of which contain many species**
 
-# Part II - 1.2 DNA & RNA
+## Part II - 1.2 DNA & RNA
 
 13. Genetics
 
@@ -264,7 +264,7 @@ $$
 ii\text{ }Homozygote(recessive)
 $$
 ---
-# Part III - 1.3 Natural & Artificial Selection
+## Part III - 1.3 Natural & Artificial Selection
 
 34. Mutation
 
@@ -376,7 +376,7 @@ Differences
 Similarities
 - **changes in traits of populations over time**
 - **Increase chance to survive and produce in specific environment**
-# Part IV - 1.4 Gene Manipulation
+## Part IV - 1.4 Gene Manipulation
 
 52. Biotechnology 
 
