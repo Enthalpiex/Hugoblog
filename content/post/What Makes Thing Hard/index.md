@@ -2,12 +2,12 @@
 title: What makes action hard?
 author: Entropiex
 description: What stops you to go further? Event, capability or risk?
-date: 2024-08-26
+date: 2024-11-18
 image: 
 categories:
   - Daily
 math: true
-tags: []
+tags:
 ---
 ## Hard to start?
 
