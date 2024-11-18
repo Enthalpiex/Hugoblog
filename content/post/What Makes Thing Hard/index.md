@@ -68,14 +68,14 @@ Many things are indeed useful, but the way they are done is boring, so psycholog
 
 `Solutions:`
 
-	`1. Break down the goal and form the outline.`
-	
-	`2. Give a looser deadline at the beginning to reduce fear, move deadline forward after start to increase efficiency.`
-	
-	`3. Avoid doing useless thing.`
-	
-	`4. Searching for unknow parts of plan and fill out the outline.`
-	
-	`5. Find a more interesting way to finish the thing.`
-	
-	`6. Reduce relative fun and make the life pure.`
+`1. Break down the goal and form the outline.`
+
+`2. Give a looser deadline at the beginning to reduce fear, move deadline forward after start to increase efficiency.`
+
+`3. Avoid doing useless thing.`
+
+`4. Searching for unknow parts of plan and fill out the outline.`
+
+`5. Find a more interesting way to finish the thing.`
+
+`6. Reduce relative fun and make the life pure.`
