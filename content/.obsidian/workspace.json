@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/What Makes Thing Hard/index.md",
+                "file": "page/links/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,11 +214,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "84e3e3d4b465d4b7",
+  "active": "16504f6d44e5e9ca",
   "lastOpenFiles": [
-    "post/Time Flip Update Logs/index.md",
-    "post/What Makes Thing Hard/index.md",
     "page/links/index.md",
+    "post/What Makes Thing Hard/index.md",
+    "post/Time Flip Update Logs/index.md",
     "page/links/index.zh-cn.md",
     "post/G10 Science Study Notes/Biology/index.md",
     "post/What Makes Thing Hard",
