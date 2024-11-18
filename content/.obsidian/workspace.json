@@ -15,7 +15,7 @@
               "state": {
                 "file": "page/links/index.zh-cn.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "index.zh-cn"
@@ -29,14 +29,13 @@
               "state": {
                 "file": "page/links/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,10 +214,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1dc7b81a053ef002",
+  "active": "16504f6d44e5e9ca",
   "lastOpenFiles": [
-    "page/links/index.zh-cn.md",
     "page/links/index.md",
+    "page/links/index.zh-cn.md",
     "post/What Makes Thing Hard/index.md",
     "post/Time Flip Update Logs/index.md",
     "post/G10 Science Study Notes/Biology/index.md",
