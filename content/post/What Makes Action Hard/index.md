@@ -1,5 +1,5 @@
 ---
-title: What makes action hard?
+title: What Makes Action Hard?
 author: Entropiex
 description: What stops you to go further? Event, capability or risk?
 date: 2024-11-18

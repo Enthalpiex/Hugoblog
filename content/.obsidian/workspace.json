@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9ceebf8e641917b5",
+        "id": "b631eef5b8d417ce",
         "type": "tabs",
         "children": [
           {
-            "id": "16504f6d44e5e9ca",
+            "id": "1482c19aeca87ba3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "page/links/index.zh-cn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index.zh-cn"
-            }
-          },
-          {
-            "id": "1dc7b81a053ef002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "page/links/index.md",
+                "file": "post/What Makes Action Hard/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -214,14 +200,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "16504f6d44e5e9ca",
+  "active": "1482c19aeca87ba3",
   "lastOpenFiles": [
+    "post/Obsidian is Not Enough/index.zh-cn.md",
+    "post/Obsidian is Not Enough/index.md",
+    "post/Obsidian is not ENOUGH/未命名.md",
+    "post/What Makes Action Hard/index.md",
     "page/links/index.md",
     "page/links/index.zh-cn.md",
-    "post/What Makes Thing Hard/index.md",
     "post/Time Flip Update Logs/index.md",
     "post/G10 Science Study Notes/Biology/index.md",
-    "post/What Makes Thing Hard",
+    "post/What Makes Action Hard",
     "post/G10 Science Study Notes/Biology/B-12.jpg",
     "post/G10 Science Study Notes/Physics/index.md",
     "page/links/ts-logo-128.jpg",
@@ -233,7 +222,6 @@
     "post/From KSPS/KSPS_on_Internet_Achieve.png",
     "post/From KSPS/index.zh-cn.md",
     "post/DSα-update-0106/index.zh-cn.md",
-    "post/Obsidian is not ENOUGH/index.md",
     "post/G10 Science Study Notes/Biology/B-10.png",
     "post/G10 Science Study Notes/Biology/Pasted image 20240728234508.png",
     "post/G10 Science Study Notes/Biology/B-9.png",
@@ -254,8 +242,6 @@
     "post/Time Slice, The beginning of everything/index.zh-cn.md",
     "categories/Study Notes/_index.md",
     "page/search/index.md",
-    "page/search/index.zh-cn.md",
-    "page/archives/index.zh-cn.md",
     "post/G10 Science Study Notes",
     "categories/Study Notes",
     "post/Applying and Learning",

@@ -1,10 +1,11 @@
 ---
-title: Obsidian is not ENOUGH
+title: Obsidian is Not Enough...
 author: Entropiex
 description: Mind map is needed
 date: 2024-02-26
 image: 
-categories: Efficiency Project
+categories:
+  - Efficiency Project
 math: true
 tags:
   - Time_Flip
