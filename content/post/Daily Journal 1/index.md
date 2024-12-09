@@ -6,7 +6,7 @@ date: 2024-12-09
 image: 
 categories:
   - Daily
-math: true
+math: false
 tags:
   - Journal
 ---
