@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "page/links/index.zh-cn.md",
+                "file": "post/Pre-Release/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "index.zh-cn"
+              "title": "index"
             }
           }
         ]
@@ -202,11 +202,11 @@
   },
   "active": "1482c19aeca87ba3",
   "lastOpenFiles": [
+    "page/links/index.zh-cn.md",
     "page/links/index.md",
     "post/From KSPS/pbfymkz6.png",
     "post/Pre-Release/index.md",
     "post/Pre-Release",
-    "page/links/index.zh-cn.md",
     "post/Directivity System α/index.md",
     "post/Daily Journal 1/index.md",
     "post/Daily Journal/未命名.md",
