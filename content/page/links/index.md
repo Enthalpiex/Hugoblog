@@ -32,11 +32,11 @@ links:
   - title: Nanoscale Views (Douglas Natelson)
     description: Physics Blog
     website: https://nanoscale.blogspot.com/
-    image: https://www.blogger.com/
+    image: https://www.blogger.com/img/avatar_blue_m_96.png
   - title: Hogg's Research (David Hogg)
     description: Physics Blog
     website: https://hoggresearch.blogspot.com/
-    image: https://www.blogger.com/
+    image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzZTfH4nGDNqGzo09Vg1gXJzQ2om28BzACaf6A6qiur5JE54zdS_SHCNYQd8WHUEV2BEYgkr6Mexpl0w6HLhfg_uCaVHPKHyR8_2-zRgWqAC_bKGOlBYG2mpm1xo56EQ/s144/IMG_1959_2.JPG
   - title: Résonaances
     description: Physics Blog
     website: https://resonaances.blogspot.com/
@@ -44,19 +44,19 @@ links:
   - title: IN THE DARK
     description: Blog of everything
     website: https://telescoper.blog/
-    image: https://telescoper.blog/
+    image: http://www.w3.org/2000/svg
   - title: 4 Gravitons
     description: Physics Blog
     website: https://4gravitons.com/
-    image: https://4gravitons.com/
+    image: https://4gravitons.com/wp-content/uploads/2014/06/cropped-headerimage1.png
   - title: Condensed concepts (Ross H. McKenzie)
     description: Physics Blog
     website: https://condensedconcepts.blogspot.com/
-    image: https://www.blogger.com/
+    image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Mr2ObgT2fcbQ4_fBewWuCRZ6gzkmhhS3vkAIodumCqxLakwRG93kx19GwFC_pjkfEFnmXckOQayH_XIbv7HL8a_g8HAkUbyQFyHJ26Z-vSQmomKSr-bi6KeGhUfbsjo/s83/RossPriya.png
   - title: Terrytao (Terence Tao)
     description: Math Blog
     website: https://terrytao.wordpress.com/
-    image: https://terrytao.wordpress.com/
+    image: https://terrytao.wordpress.com/wp-content/uploads/2020/03/cropped-covid-19-curves-graphic-social-v3.gif
   - title: Not Even Wrong (Peter Woit)
     description: Math Blog
     website: https://www.math.columbia.edu/~woit/wordpress/
