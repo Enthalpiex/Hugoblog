@@ -11,12 +11,14 @@
             "id": "1482c19aeca87ba3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "post/From KSPS/pbfymkz6.png"
+                "file": "page/links/index.zh-cn.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "pbfymkz6"
+              "icon": "lucide-file",
+              "title": "index.zh-cn"
             }
           }
         ]
@@ -200,8 +202,9 @@
   },
   "active": "1482c19aeca87ba3",
   "lastOpenFiles": [
-    "post/Pre-Release/index.md",
     "page/links/index.md",
+    "post/From KSPS/pbfymkz6.png",
+    "post/Pre-Release/index.md",
     "post/Pre-Release",
     "page/links/index.zh-cn.md",
     "post/Directivity System α/index.md",
@@ -224,7 +227,6 @@
     "post/Advance! Advance Regardless Any Cost and Consequences!/index.md",
     "post/Brand New - Time Flip/index.md",
     "post/From KSPS/index.md",
-    "post/From KSPS/pbfymkz6.png",
     "post/From KSPS/KSPS_on_Internet_Achieve.png",
     "post/From KSPS/index.zh-cn.md",
     "post/DSα-update-0106/index.zh-cn.md",
@@ -239,7 +241,6 @@
     "post/DSα-update-0109/index.zh-cn.md",
     "_index.zh-cn.md",
     "_index.md",
-    "TODO.md",
     "post/G10 Science Study Notes/Biology",
     "post/G10 Science Study Notes/New folder",
     "post/G10 Science Study Notes/Physics",

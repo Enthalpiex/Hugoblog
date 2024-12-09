@@ -57,10 +57,6 @@ links:
     description: Math Blog
     website: https://terrytao.wordpress.com/
     image: https://terrytao.wordpress.com/wp-content/uploads/2020/03/cropped-covid-19-curves-graphic-social-v3.gif
-  - title: Not Even Wrong (Peter Woit)
-    description: Math Blog
-    website: https://www.math.columbia.edu/~woit/wordpress/
-    image: https://www.math.columbia.edu/~woit/wordpress/wp-content/uploads/2019/08/mass-shell-new.png
 menu:
     main: 
         weight: -50
