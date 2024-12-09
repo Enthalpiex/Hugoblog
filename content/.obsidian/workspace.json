@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/Daily Journal/Journal 1/index.md",
+                "file": "page/links/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,10 +200,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "84e3e3d4b465d4b7",
+  "active": "1482c19aeca87ba3",
   "lastOpenFiles": [
-    "post/Daily Journal/未命名.md",
     "post/Daily Journal/Journal 1/index.md",
+    "post/Daily Journal/未命名.md",
     "post/Directivity System α/index.md",
     "post/Daily Journal/Journal 1",
     "post/Daily Journal/未命名 1.md",
