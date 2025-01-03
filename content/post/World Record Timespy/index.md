@@ -13,8 +13,10 @@ tags:
 ## Overview
 
 **Original Post:**
-	[Flow X13 RTX4060 Timespy World Record (No Modification) : r/FlowX13](https://www.reddit.com/r/FlowX13/comments/1hret5p/flow_x13_rtx4060_timespy_world_record_no/)
-	[Revitalize Your Flow X13 in 2025: $0 Cost Performance Boost : r/FlowX13](https://www.reddit.com/r/FlowX13/comments/1hrdlmd/revitalize_your_flow_x13_in_2025_0_cost/)
+
+[Flow X13 RTX4060 Timespy World Record (No Modification) : r/FlowX13](https://www.reddit.com/r/FlowX13/comments/1hret5p/flow_x13_rtx4060_timespy_world_record_no/)
+
+[Revitalize Your Flow X13 in 2025: $0 Cost Performance Boost : r/FlowX13](https://www.reddit.com/r/FlowX13/comments/1hrdlmd/revitalize_your_flow_x13_in_2025_0_cost/)
 
 |Device|ROG Flow X13 2023 RTX 4060|
 |:-|:-|
@@ -30,8 +32,8 @@ tags:
 
 ## Result
 
-![[WR_1.png]]
-![[WR_2.png]]
+![](WR_1.png)
+![](WR_2.png)
 ## Summary
 
 Since Timespy prefers GPU scores, limiting CPU power consumption and increasing GPU clock frequency as much as possible **successfully allows Flow X13 to compete head-on with gaming laptops that are twice as heavy as it.** **In comparison, the Timespy score of a 110W RTX4060 gaming laptop is 10500.**
@@ -97,7 +99,7 @@ Lenovo RTX 4060 vBIOS (TGP 90\~100W) [VGA Bios Collection: Lenovo RTX 4060 Mobil
 
 Firstly, I used the vBIOS of the 70W Alienware X14R2 ([VGA Bios Collection: Alienware RTX 4060 Mobile 8 GB | TechPowerUp](https://www.techpowerup.com/vgabios/265890/265890)) to adjust the GPU Clock Limit through G-helper and drew the energy efficiency curve of the Flow X13 4060M graphics card:
 
-![[T_1.png]]
+![](T_1.png)
 
 Also as we all know, the power consumption and frequency of RTX 4060 Mobile are closely related:
 
@@ -107,7 +109,7 @@ Also as we all know, the power consumption and frequency of RTX 4060 Mobile are 
 |**RTX 4060 Mobile 105W**|**2115-2250 MHz**|
 |**RTX 4060 Mobile 115W**|**2295-2370 MHz**|
 
-![[T_2.png]]
+![](T_2.png)
 
 From the figure, we can see that the CPU has the best performance when limited to 60 watts, and overclocking the graphics card will reduce some CPU performance. This is because the total power consumption is limited to \~125W.
 
@@ -117,9 +119,10 @@ In summary, you can save power by limiting the graphics card clock frequency and
 
 The computer has not undergone any hardware modification, the test date is January 1, 2025, 130W original power supply, and the driver version is 555.97. The test environment is room temperature 20\~25 ℃, and the computer is placed on a laptop stand to raise it.
 
-![[T_3.png]]
-![[T_4.png]]
-![[T_5.png]]
+![](T_3.png)
+![](T_4.png)
+![](T_5.png)
+
 ## Summary
 
 In comparison, the Flow X13 4070's Timespy score is up to 9440, with a CPU score of 10681 and a GPU score of 9251. The maximum speed of Flow X13 factory vBIOS is 8800, so you can get at least 10% performance improvement for free by using this method.

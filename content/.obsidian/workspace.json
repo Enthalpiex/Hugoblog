@@ -15,13 +15,28 @@
               "state": {
                 "file": "post/World Record Timespy/index.md",
                 "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "50cf02aeef6abb41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "post/World Record Timespy/index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,17 +215,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1482c19aeca87ba3",
+  "active": "50cf02aeef6abb41",
   "lastOpenFiles": [
+    "post/World Record Timespy/T_1.png",
+    "post/World Record Timespy/T_0.png",
+    "post/World Record Timespy/index.md",
     "post/Prior Probability of Life/index.md",
     "post/Obsidian is Not Enough/index.zh-cn.md",
-    "post/World Record Timespy/index.md",
-    "post/World Record Timespy/T_0.png",
     "post/World Record Timespy/T_5.png",
     "post/World Record Timespy/T_4.png",
     "post/World Record Timespy/T_3.png",
     "post/World Record Timespy/T_2.png",
-    "post/World Record Timespy/T_1.png",
     "post/World Record Timespy/WR_2.png",
     "post/World Record Timespy/WR_1.png",
     "post/Future/index.md",
