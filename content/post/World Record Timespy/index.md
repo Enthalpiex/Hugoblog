@@ -33,6 +33,7 @@ tags:
 ## Result
 
 ![](WR_1.png)
+
 ![](WR_2.png)
 ## Summary
 
@@ -120,7 +121,9 @@ In summary, you can save power by limiting the graphics card clock frequency and
 The computer has not undergone any hardware modification, the test date is January 1, 2025, 130W original power supply, and the driver version is 555.97. The test environment is room temperature 20\~25 ℃, and the computer is placed on a laptop stand to raise it.
 
 ![](T_3.png)
+
 ![](T_4.png)
+
 ![](T_5.png)
 
 ## Summary
