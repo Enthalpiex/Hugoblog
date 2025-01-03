@@ -2,7 +2,7 @@
 title: Flow X13 Timespy World Record
 author: Entropiex
 description: The Highest Timespy score for Flow X13 RTX 4060
-date: 2024-01-01
+date: 2025-01-01
 image: WR_1.png
 categories:
   - About site
