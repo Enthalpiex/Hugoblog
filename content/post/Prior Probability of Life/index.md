@@ -15,3 +15,5 @@ According to Bayesian theory, life should also consist of prior probability and 
 For the coming month, I decided to finish my high school physics content and improve my English, everything will be checked on my birthday.
 
 Happy October!
+
+

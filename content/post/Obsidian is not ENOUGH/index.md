@@ -1,5 +1,5 @@
 ---
-title: Obsidian is Not Enough...
+title: Obsidian is Not Enough
 author: Entropiex
 description: Mind map is needed
 date: 2024-02-26
