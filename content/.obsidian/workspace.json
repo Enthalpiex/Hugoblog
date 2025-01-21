@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/World Record Timespy/index.md",
+                "file": "post/Embedded Systems Engineering/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "50cf02aeef6abb41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "post/World Record Timespy/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,11 +200,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "50cf02aeef6abb41",
+  "active": "1482c19aeca87ba3",
   "lastOpenFiles": [
+    "post/World Record Timespy/index.md",
+    "post/Embedded Systems Engineering/Embedded Systems Engineering Roadmap.png",
+    "post/Embedded Systems Engineering/index.md",
+    "post/Embedded Systems Engineering",
     "post/World Record Timespy/T_1.png",
     "post/World Record Timespy/T_0.png",
-    "post/World Record Timespy/index.md",
     "post/Prior Probability of Life/index.md",
     "post/Obsidian is Not Enough/index.zh-cn.md",
     "post/World Record Timespy/T_5.png",
@@ -239,7 +227,6 @@
     "post/What Makes Action Hard/index.md",
     "page/links/index.zh-cn.md",
     "page/links/index.md",
-    "post/From KSPS/pbfymkz6.png",
     "post/World Record Timespy",
     "post/Directivity System α/index.md",
     "post/Daily Journal/未命名.md",
@@ -256,12 +243,10 @@
     "post/Brand New - Time Flip/index.md",
     "post/DSα-update-0106/index.zh-cn.md",
     "page/about/index.md",
-    "categories/About site/_index.md",
     "post/G10 Science Study Notes/Biology",
     "post/G10 Science Study Notes/New folder",
     "post/G10 Science Study Notes/Physics",
     "post/G10 Science Study Notes",
-    "categories/Study Notes",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
