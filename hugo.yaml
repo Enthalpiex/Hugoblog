@@ -1,7 +1,9 @@
 baseurl: https://enthalpiex.github.io/
 languageCode: en-us
 theme: hugo-theme-stack-3.27.0
-paginate: 10
+pagination:
+  pagerSize: 10
+
 title: ENTROPIEX
 copyright: Entropiex
 
