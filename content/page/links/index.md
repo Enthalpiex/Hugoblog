@@ -25,6 +25,10 @@ links:
     description: Physics Blog
     website: https://golem.ph.utexas.edu/category/
     image: https://th.bing.com/th?id=ODLS.50d5397f-cf53-451a-bd9c-75febf78d2a2&w=32&h=32&qlt=90&pcl=fffffa&r=0&o=6&pid=1.2
+  - title: Frank's Blog (Personal Blog)
+    description: Frank's Blog
+    website: https://91dict.cn
+    image: https://hefengxian.github.io/avatar.jpg
   - title: Quantum Diaries (Group Blog)
     description: Physics Blog
     website: https://www.quantumdiaries.org/

@@ -5,7 +5,6 @@ description:
 date: 2024-08-26
 image: 
 categories: 
-math: true
+math: false
 tags:
-  - KSPS
 ---
