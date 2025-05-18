@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>About site on Entropiex</title>
-        <link>http://localhost:1313/en/categories/about-site/</link>
+        <link>http://localhost:8966/en/categories/about-site/</link>
         <description>Recent content in About site on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/about-site/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8966/en/categories/about-site/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>No More US.KG</title>
-        <link>http://localhost:1313/en/p/no-more-us.kg/</link>
+        <link>http://localhost:8966/en/p/no-more-us.kg/</link>
         <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/no-more-us.kg/</guid>
+        <guid>http://localhost:8966/en/p/no-more-us.kg/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Dear User,&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We regret to inform you that due to domain abuse and other related issues, after extensive discussions with the &lt;strong&gt;.KG registry&lt;/strong&gt;, &lt;strong&gt;ccltd.kg will no longer be allowed to receive any complaint reports&lt;/strong&gt;—otherwise, the &lt;strong&gt;.KG registry will permanently disable domain resolution.&lt;/strong&gt;&lt;/p&gt;
@@ -35,10 +35,10 @@
         </item>
         <item>
         <title>Domain Change 0223</title>
-        <link>http://localhost:1313/en/p/domain-change-0223/</link>
+        <link>http://localhost:8966/en/p/domain-change-0223/</link>
         <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/domain-change-0223/</guid>
+        <guid>http://localhost:8966/en/p/domain-change-0223/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;The free subdomain provider US.KG has once again been temporarily suspended from resolving by the Kyrgyzstan registry.
 The reason for the suspension remains consistent with the previous instance: the free nature of the domain has attracted numerous cybercriminal gangs using it to create phishing and malicious websites.&lt;br&gt;
@@ -49,11 +49,11 @@ Typically, domain registries take action upon receiving excessive complaints, wh
         </item>
         <item>
         <title>From KSPS</title>
-        <link>http://localhost:1313/en/p/from-ksps/</link>
+        <link>http://localhost:8966/en/p/from-ksps/</link>
         <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/from-ksps/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/from-ksps/KSPS_on_Internet_Achieve.png" alt="Featured image of post From KSPS" /&gt;&lt;p&gt;We can never know when an accident will happen.&lt;/p&gt;
+        <guid>http://localhost:8966/en/p/from-ksps/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/from-ksps/KSPS_on_Internet_Achieve.png" alt="Featured image of post From KSPS" /&gt;&lt;p&gt;We can never know when an accident will happen.&lt;/p&gt;
 &lt;p&gt;Today I learned that the KSPS, which has been running for 3 years, was deleted not long ago and there is no backup.&lt;/p&gt;
 &lt;h1 id=&#34;the-ksps&#34;&gt;The KSPS
 &lt;/h1&gt;&lt;a href=&#34;https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/&#34; style=&#34;float: right; width: 200px;&#34;&gt;
@@ -65,10 +65,10 @@ Typically, domain registries take action upon receiving excessive complaints, wh
         </item>
         <item>
         <title>STOP SYNC</title>
-        <link>http://localhost:1313/en/p/stop-sync/</link>
+        <link>http://localhost:8966/en/p/stop-sync/</link>
         <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/stop-sync/</guid>
+        <guid>http://localhost:8966/en/p/stop-sync/</guid>
         <description>&lt;p&gt;I have decided to end the simultaneous update of Chinese and English content.&lt;/p&gt;
 &lt;p&gt;The latest content and changes will only be published on the English page. I will consider synchronization if I have time.&lt;/p&gt;
 </description>

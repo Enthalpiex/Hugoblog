@@ -12,7 +12,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     }
 
     --body-background: url('/path/to/your/image.jpg') no-repeat center center fixed;
-    --body-background-size: cover;
+    --body-background-size: contain;
 
     --accent-color: #34495e;
     --accent-color-darker: #2c3e50;

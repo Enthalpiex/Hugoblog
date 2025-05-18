@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Plugin &amp; Software on Entropiex</title>
-        <link>http://localhost:1313/en/categories/plugin--software/</link>
+        <link>http://localhost:8966/en/categories/plugin--software/</link>
         <description>Recent content in Plugin &amp; Software on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/plugin--software/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8966/en/categories/plugin--software/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>HTTrack  vs Cyotek WebCopy</title>
-        <link>http://localhost:1313/en/p/httrack-vs-cyotek-webcopy/</link>
+        <link>http://localhost:8966/en/p/httrack-vs-cyotek-webcopy/</link>
         <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/httrack-vs-cyotek-webcopy/</guid>
+        <guid>http://localhost:8966/en/p/httrack-vs-cyotek-webcopy/</guid>
         <description>&lt;p&gt;I&amp;rsquo;m trying to sort out some blogs that might disappear at any time. I have two options.&lt;/p&gt;
 &lt;p&gt;When it comes to downloading entire websites for offline browsing, HTTrack and Cyotek WebCopy are two of the most well-known tools. They have both been out of update for many years.&lt;/p&gt;
 &lt;p&gt;I had an absolutely terrible experience with Cyotek WebCopy, which seemed to be newer, but somehow downloaded many times slower than HTTrack. The crawler depth setting was too rigid, and if the website structure was too flat (most blogs), there would be some scanning issues.&lt;/p&gt;
@@ -88,11 +88,11 @@
         </item>
         <item>
         <title>Eccirian: Better Encryption for Obsidian</title>
-        <link>http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/</link>
+        <link>http://localhost:8966/en/p/eccirian-better-encryption-for-obsidian/</link>
         <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/Eccirian.png" alt="Featured image of post Eccirian: Better Encryption for Obsidian" /&gt;&lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; is a security-focused Obsidian encryption plugin that supports seamless encryption and decryption of files using multiple advanced password-based encryption methods.&lt;/p&gt;
+        <guid>http://localhost:8966/en/p/eccirian-better-encryption-for-obsidian/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/eccirian-better-encryption-for-obsidian/Eccirian.png" alt="Featured image of post Eccirian: Better Encryption for Obsidian" /&gt;&lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; is a security-focused Obsidian encryption plugin that supports seamless encryption and decryption of files using multiple advanced password-based encryption methods.&lt;/p&gt;
 &lt;p&gt;It introduces a custom &lt;code&gt;.eccirian&lt;/code&gt; file extension and provides a unique read-only view for locked files, allowing you to easily manage sensitive information directly in Obsidian.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Enthalpiex/Eccirian-Encrypt/stargazers&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;img src=&#34;https://img.shields.io/github/stars/Enthalpiex/Eccirian-Encrypt?style=social&#34;
@@ -208,11 +208,11 @@
         </item>
         <item>
         <title>New Encryption Plugin</title>
-        <link>http://localhost:1313/en/p/new-encryption-plugin/</link>
+        <link>http://localhost:8966/en/p/new-encryption-plugin/</link>
         <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/new-encryption-plugin/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/new-encryption-plugin/first.png" alt="Featured image of post New Encryption Plugin" /&gt;&lt;p&gt;This is an Obsidian plugin development plan.&lt;/p&gt;
+        <guid>http://localhost:8966/en/p/new-encryption-plugin/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/new-encryption-plugin/first.png" alt="Featured image of post New Encryption Plugin" /&gt;&lt;p&gt;This is an Obsidian plugin development plan.&lt;/p&gt;
 &lt;p&gt;Apparently, Meld Encrypt has a very bad interactive design. Every time a user selects a file in the file browser, the file preview function will show an overview of the file content. At this time, Meld Encrypt will automatically pop up a password box, which must be closed manually to continue looking for files. This is very bad - most of the time, the mouse just hovers for a while to trigger this troublesome password input box.&lt;/p&gt;
 &lt;p&gt;In addition, Meld Encrypt is very slow when switching during decryption, and occasionally undecrypted garbled characters will appear, which threatens the smooth Obsidian experience.&lt;/p&gt;
 &lt;p&gt;For this reason, I decided to develop a new lightweight plugin that has all the functions of Meld Encrypt, but is faster, safer and more stable.&lt;/p&gt;
@@ -221,11 +221,11 @@
         </item>
         <item>
         <title>Flow X13 Timespy World Record</title>
-        <link>http://localhost:1313/en/p/flow-x13-timespy-world-record/</link>
+        <link>http://localhost:8966/en/p/flow-x13-timespy-world-record/</link>
         <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/flow-x13-timespy-world-record/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_1.png" alt="Featured image of post Flow X13 Timespy World Record" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
+        <guid>http://localhost:8966/en/p/flow-x13-timespy-world-record/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/flow-x13-timespy-world-record/WR_1.png" alt="Featured image of post Flow X13 Timespy World Record" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Original Post:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/FlowX13/comments/1hret5p/flow_x13_rtx4060_timespy_world_record_no/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Flow X13 RTX4060 Timespy World Record (No Modification) : r/FlowX13&lt;/a&gt;&lt;/p&gt;
@@ -278,7 +278,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;result&#34;&gt;Result
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/World%20Record%20Timespy/WR_1.png&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:8966/post/World%20Record%20Timespy/WR_1.png&#34;
 	
 	
 	
@@ -286,10 +286,10 @@
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_2.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/WR_2.png&#34;
 	width=&#34;2559&#34;
 	height=&#34;1415&#34;
-	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_2_hu8605919855762022794.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_2_hu17261336422985674264.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/WR_2_hu8605919855762022794.png 480w, http://localhost:8966/en/p/flow-x13-timespy-world-record/WR_2_hu17261336422985674264.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -339,10 +339,10 @@
 &lt;h1 id=&#34;how-to-configure-g-helper&#34;&gt;How to configure G-Helper
 &lt;/h1&gt;&lt;p&gt;Firstly, I used the vBIOS of the 70W Alienware X14R2 (&lt;a class=&#34;link&#34; href=&#34;https://www.techpowerup.com/vgabios/265890/265890&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VGA Bios Collection: Alienware RTX 4060 Mobile 8 GB | TechPowerUp&lt;/a&gt;) to adjust the GPU Clock Limit through G-helper and drew the energy efficiency curve of the Flow X13 4060M graphics card:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_1.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_1.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;1032&#34;
-	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_1_hu13460723901899483011.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_1_hu4957042620024129968.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_1_hu13460723901899483011.png 480w, http://localhost:8966/en/p/flow-x13-timespy-world-record/T_1_hu4957042620024129968.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -374,10 +374,10 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_2.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_2.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;516&#34;
-	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_2_hu11821861800005749307.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_2_hu17296957113675041656.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_2_hu11821861800005749307.png 480w, http://localhost:8966/en/p/flow-x13-timespy-world-record/T_2_hu17296957113675041656.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -390,10 +390,10 @@
 &lt;p&gt;In summary, you can save power by limiting the graphics card clock frequency and confirm its performance according to the table, while limiting the CPU to 60W can maximize utilization.&lt;/p&gt;
 &lt;h2 id=&#34;results&#34;&gt;Results
 &lt;/h2&gt;&lt;p&gt;The computer has not undergone any hardware modification, the test date is January 1, 2025, 130W original power supply, and the driver version is 555.97. The test environment is room temperature 20~25 ℃, and the computer is placed on a laptop stand to raise it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_3.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_3.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;665&#34;
-	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_3_hu9269447073058226488.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_3_hu17172747664137253013.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_3_hu9269447073058226488.png 480w, http://localhost:8966/en/p/flow-x13-timespy-world-record/T_3_hu17172747664137253013.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -402,10 +402,10 @@
 		data-flex-basis=&#34;389px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_4.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_4.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;463&#34;
-	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_4_hu14856027465708343378.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_4_hu16405754427708612687.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_4_hu14856027465708343378.png 480w, http://localhost:8966/en/p/flow-x13-timespy-world-record/T_4_hu16405754427708612687.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -414,10 +414,10 @@
 		data-flex-basis=&#34;559px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_5.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_5.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;463&#34;
-	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_5_hu7687558092088436750.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_5_hu6481622320997858894.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_5_hu7687558092088436750.png 480w, http://localhost:8966/en/p/flow-x13-timespy-world-record/T_5_hu6481622320997858894.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	

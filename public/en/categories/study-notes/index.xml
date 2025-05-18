@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Study Notes on Entropiex</title>
-        <link>http://localhost:1313/en/categories/study-notes/</link>
+        <link>http://localhost:8966/en/categories/study-notes/</link>
         <description>Recent content in Study Notes on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/study-notes/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8966/en/categories/study-notes/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>BC G10 Science Biology Unit Review Sheet</title>
-        <link>http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/</link>
+        <link>http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/</link>
         <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/</guid>
+        <guid>http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/</guid>
         <description>&lt;h2 id=&#34;part-i---11-dna--rna&#34;&gt;Part I - 1.1 DNA &amp;amp; RNA
 &lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
@@ -160,10 +160,10 @@ $$&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;(pp) Recessive&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/B-6.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/B-6.png&#34;
 	width=&#34;1104&#34;
 	height=&#34;896&#34;
-	srcset=&#34;http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/B-6_hu16446666493125338441.png 480w, http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/B-6_hu15018859140665767897.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/B-6_hu16446666493125338441.png 480w, http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/B-6_hu15018859140665767897.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;B-6.png&#34;
@@ -191,10 +191,10 @@ $$&lt;/li&gt;
 22. X linked Traits&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Traits controlled by the genes on the X chromosome&lt;/strong&gt;
 &lt;strong&gt;Color Vision Deficiency - A person that sees red and green as shades of gray&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/B-7.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/B-7.png&#34;
 	width=&#34;1132&#34;
 	height=&#34;406&#34;
-	srcset=&#34;http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/B-7_hu8737010936712712585.png 480w, http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/B-7_hu7548816400271281749.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/B-7_hu8737010936712712585.png 480w, http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/B-7_hu7548816400271281749.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;B-7.png&#34;
@@ -546,10 +546,10 @@ Cons - environmental threat, health effect, socio-economic issue&lt;/p&gt;
         </item>
         <item>
         <title>BC G10 Science Physics Unit Review Sheet</title>
-        <link>http://localhost:1313/en/p/bc-g10-science-physics-unit-review-sheet/</link>
+        <link>http://localhost:8966/en/p/bc-g10-science-physics-unit-review-sheet/</link>
         <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/bc-g10-science-physics-unit-review-sheet/</guid>
+        <guid>http://localhost:8966/en/p/bc-g10-science-physics-unit-review-sheet/</guid>
         <description>&lt;h2 id=&#34;part-i---31-properties-of-energy&#34;&gt;Part I - 3.1 Properties of Energy
 &lt;/h2&gt;&lt;p&gt;1.      Energy&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The ability to perform a task&lt;/strong&gt;&lt;/p&gt;

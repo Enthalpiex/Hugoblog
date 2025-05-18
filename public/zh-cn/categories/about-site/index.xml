@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>About Site on Entropiex</title>
-        <link>http://localhost:1313/zh-cn/categories/about-site/</link>
+        <link>http://localhost:8966/zh-cn/categories/about-site/</link>
         <description>Recent content in About Site on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/categories/about-site/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8966/zh-cn/categories/about-site/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>STOP SYNC</title>
-        <link>http://localhost:1313/zh-cn/p/stop-sync/</link>
+        <link>http://localhost:8966/zh-cn/p/stop-sync/</link>
         <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/zh-cn/p/stop-sync/</guid>
+        <guid>http://localhost:8966/zh-cn/p/stop-sync/</guid>
         <description>&lt;p&gt;我决定结束中英文内容的同步更新。&lt;/p&gt;
 &lt;p&gt;最新的内容和修改仅会发布在英文页面，如果有空我才会考虑进行同步。&lt;/p&gt;
 </description>

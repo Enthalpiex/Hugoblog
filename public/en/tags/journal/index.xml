@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Journal on Entropiex</title>
-        <link>http://localhost:1313/en/tags/journal/</link>
+        <link>http://localhost:8966/en/tags/journal/</link>
         <description>Recent content in Journal on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/journal/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8966/en/tags/journal/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The Boring MBTI System</title>
-        <link>http://localhost:1313/en/p/the-boring-mbti-system/</link>
+        <link>http://localhost:8966/en/p/the-boring-mbti-system/</link>
         <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/the-boring-mbti-system/</guid>
+        <guid>http://localhost:8966/en/p/the-boring-mbti-system/</guid>
         <description>&lt;p&gt;I thought it would be helpful to describe how my attitude towards MBTI has changed over the past few months.&lt;/p&gt;
 &lt;p&gt;While the MBTI framework offers a compelling way to understand personality patterns, it ultimately simplifies the complexity of human behavior into static categories.&lt;/p&gt;
 &lt;p&gt;People are dynamic, and their thoughts, actions, and motivations often shift with context, age, and experience. There are also huge differences between people in their ability and degree to control their thoughts. Therefore the binary system created by MBTI is an extremely simplified system that is easy to understand but is not true.&lt;/p&gt;
@@ -24,10 +24,10 @@
         </item>
         <item>
         <title>INTJ: Born Achiever and Loser</title>
-        <link>http://localhost:1313/en/p/intj-born-achiever-and-loser/</link>
+        <link>http://localhost:8966/en/p/intj-born-achiever-and-loser/</link>
         <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/intj-born-achiever-and-loser/</guid>
+        <guid>http://localhost:8966/en/p/intj-born-achiever-and-loser/</guid>
         <description>&lt;h2 id=&#34;pathway-of-an-intj&#34;&gt;Pathway of an INTJ
 &lt;/h2&gt;&lt;h3 id=&#34;lower-stage&#34;&gt;Lower stage
 &lt;/h3&gt;&lt;p&gt;In the lower stage, the INTJ usually presents as a being weaker than ordinary people. They have extraordinary self-confidence and arrogance, look down on everything, are introverted, like to think about problems but often dare not really be independent, their grades cannot crush their classmates, they have not carried out large-scale learning and self-discipline, and their thoughts are not objective, materialistic, and practical. They have no ability to counteract these huge side effects of being an INTJ.&lt;/p&gt;
@@ -57,11 +57,11 @@
         </item>
         <item>
         <title>ASI 2030</title>
-        <link>http://localhost:1313/en/p/asi-2030/</link>
+        <link>http://localhost:8966/en/p/asi-2030/</link>
         <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/asi-2030/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/asi-2030/RSI-NewBabbage.png" alt="Featured image of post ASI 2030" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
+        <guid>http://localhost:8966/en/p/asi-2030/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/asi-2030/RSI-NewBabbage.png" alt="Featured image of post ASI 2030" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
 &lt;/h2&gt;&lt;p&gt;This is an interesting speculation.&lt;/p&gt;
 &lt;p&gt;If AGI/ASI is truly one of the biggest changes in human history, then it’s important to know the worst-case scenario. If they do come to pass, it will be a darker future than Cyberpunk.&lt;/p&gt;
 &lt;h3 id=&#34;technology-evolution-timeline&#34;&gt;Technology Evolution Timeline
@@ -91,10 +91,10 @@
         </item>
         <item>
         <title>Occam&#39;s Razor and Bayesianism</title>
-        <link>http://localhost:1313/en/p/occams-razor-and-bayesianism/</link>
+        <link>http://localhost:8966/en/p/occams-razor-and-bayesianism/</link>
         <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/occams-razor-and-bayesianism/</guid>
+        <guid>http://localhost:8966/en/p/occams-razor-and-bayesianism/</guid>
         <description>&lt;p&gt;In simple models and complex models, as long as the simple model is consistent with the results, its confidence is much higher than that of the complex model. When this gap is infinitely magnified by multiple parameters, from the perspective of Bayesian probability, the simple model is either directly rejected, but as long as it can roughly match the experimental data, it is better than the complex model.&lt;/p&gt;
 &lt;p&gt;This includes 2 parts:&lt;/p&gt;
 &lt;h3 id=&#34;occams-razor-and-bayesianism&#34;&gt;Occam&amp;rsquo;s Razor and Bayesianism
@@ -121,10 +121,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>World Trends and Crisis Study</title>
-        <link>http://localhost:1313/en/p/world-trends-and-crisis-study/</link>
+        <link>http://localhost:8966/en/p/world-trends-and-crisis-study/</link>
         <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/world-trends-and-crisis-study/</guid>
+        <guid>http://localhost:8966/en/p/world-trends-and-crisis-study/</guid>
         <description>&lt;p&gt;I have been looking for the future direction recently, so I studied the development of the past few decades.&lt;/p&gt;
 &lt;p&gt;From 1950 to 2025, a significant economic crisis or major economic adjustment occurs approximately every 10 years. During this period, the global economy has undergone an evolution from post-war reconstruction, technological innovation, market-oriented reforms to informatization and globalization.&lt;/p&gt;
 &lt;h2 id=&#34;1-1950s-postwar-reconstruction-and-economic-prosperity&#34;&gt;1. 1950s: Postwar reconstruction and economic prosperity
@@ -147,10 +147,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Future</title>
-        <link>http://localhost:1313/en/p/future/</link>
+        <link>http://localhost:8966/en/p/future/</link>
         <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/future/</guid>
+        <guid>http://localhost:8966/en/p/future/</guid>
         <description>&lt;p&gt;It&amp;rsquo;s January again! Happy new year to you all guys!&lt;/p&gt;
 &lt;p&gt;Today&amp;rsquo;s electronic products are thinner and lighter than before, but they are still very heavy, especially those laptops with good performance that weigh more than one kilogram. Today’s quantum computers are larger and heavier than traditional computers—they are housed in specific rooms and run.&lt;/p&gt;
 &lt;p&gt;This prompts us to ask: what kinds of products could define the future? Can we experience the same level of excitement as we did with groundbreaking releases like the MacBook or the iPhone X?&lt;/p&gt;
@@ -163,10 +163,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Journal 1</title>
-        <link>http://localhost:1313/en/p/journal-1/</link>
+        <link>http://localhost:8966/en/p/journal-1/</link>
         <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/journal-1/</guid>
+        <guid>http://localhost:8966/en/p/journal-1/</guid>
         <description>&lt;p&gt;Per Aspera Ad Astra, which refers &amp;ldquo;Through suffering to the stars&amp;rdquo;. The specific object of suffering here is still a mystery to me, but it may be a little clearer now.&lt;/p&gt;
 &lt;p&gt;My favorite Chinese translation of this sentence is &amp;ldquo;历尽艰辛，终抵群星&amp;rdquo; (After going through all the hardships, one will finally reach the stars). The brilliance of the second half is easy to understand, but the first half is too vague. What is suffering refers to? Make the right choice at the right time, sacrifice the minor to save the major in critical moment, doing things that are useful but painful, or trying to force progress when motivation is weak?&lt;/p&gt;
 &lt;p&gt;Isolate pain may be a great method to avoid it influence the motivation and energy, but what’s interesting is that the isolation method itself also consumes energy. Is this a loss-making exercise or a way to save the greater good?&lt;/p&gt;

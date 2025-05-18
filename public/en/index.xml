@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Entropiex</title>
-        <link>http://localhost:1313/en/</link>
+        <link>http://localhost:8966/en/</link>
         <description>Recent content on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8966/en/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Time Travel in MWI</title>
-        <link>http://localhost:1313/en/p/time-travel-in-mwi/</link>
+        <link>http://localhost:8966/en/p/time-travel-in-mwi/</link>
         <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/time-travel-in-mwi/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/time-travel-in-mwi/TVL.png" alt="Featured image of post Time Travel in MWI" /&gt;&lt;p&gt;In classical conceptions of time travel, particularly within a single-timeline universe, the grandfather paradox poses a serious logical problem: if a person travels back in time and prevents their grandfather from having children, how could the time traveler have been born to commit the act in the first place?&lt;/p&gt;
+        <guid>http://localhost:8966/en/p/time-travel-in-mwi/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/time-travel-in-mwi/TVL.png" alt="Featured image of post Time Travel in MWI" /&gt;&lt;p&gt;In classical conceptions of time travel, particularly within a single-timeline universe, the grandfather paradox poses a serious logical problem: if a person travels back in time and prevents their grandfather from having children, how could the time traveler have been born to commit the act in the first place?&lt;/p&gt;
 &lt;p&gt;We can see that the grandfather paradox assumes two premises:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;We live in a shared reality&lt;/li&gt;
@@ -39,10 +39,10 @@
         </item>
         <item>
         <title>HTTrack  vs Cyotek WebCopy</title>
-        <link>http://localhost:1313/en/p/httrack-vs-cyotek-webcopy/</link>
+        <link>http://localhost:8966/en/p/httrack-vs-cyotek-webcopy/</link>
         <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/httrack-vs-cyotek-webcopy/</guid>
+        <guid>http://localhost:8966/en/p/httrack-vs-cyotek-webcopy/</guid>
         <description>&lt;p&gt;I&amp;rsquo;m trying to sort out some blogs that might disappear at any time. I have two options.&lt;/p&gt;
 &lt;p&gt;When it comes to downloading entire websites for offline browsing, HTTrack and Cyotek WebCopy are two of the most well-known tools. They have both been out of update for many years.&lt;/p&gt;
 &lt;p&gt;I had an absolutely terrible experience with Cyotek WebCopy, which seemed to be newer, but somehow downloaded many times slower than HTTrack. The crawler depth setting was too rigid, and if the website structure was too flat (most blogs), there would be some scanning issues.&lt;/p&gt;
@@ -118,18 +118,18 @@
         </item>
         <item>
         <title>Death Stranding Style TUFX Profiles</title>
-        <link>http://localhost:1313/en/p/death-stranding-style-tufx-profiles/</link>
+        <link>http://localhost:8966/en/p/death-stranding-style-tufx-profiles/</link>
         <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/death-stranding-style-tufx-profiles/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS_Profile.png" alt="Featured image of post Death Stranding Style TUFX Profiles" /&gt;&lt;p&gt;&lt;strong&gt;This is a custom TUFX profile for Kerbal Space Program, inspired by the haunting atmosphere and cinematic visuals of Death Stranding.&lt;/strong&gt;&lt;/p&gt;
+        <guid>http://localhost:8966/en/p/death-stranding-style-tufx-profiles/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS_Profile.png" alt="Featured image of post Death Stranding Style TUFX Profiles" /&gt;&lt;p&gt;&lt;strong&gt;This is a custom TUFX profile for Kerbal Space Program, inspired by the haunting atmosphere and cinematic visuals of Death Stranding.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;v1 and v3 provide two different preferences. v1 tends to restore the dark atmosphere, and v3 is optimized for normal use.&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;v1--v3&#34;&gt;v1 &amp;amp; v3
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001.png&#34;
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS001.png&#34;
 	width=&#34;1280&#34;
 	height=&#34;799&#34;
-	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001_hu8508771763504871352.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001_hu11699194655116227802.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS001_hu8508771763504871352.png 480w, http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS001_hu11699194655116227802.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -138,10 +138,10 @@
 		data-flex-basis=&#34;384px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS002.png&#34;
 	width=&#34;1280&#34;
 	height=&#34;799&#34;
-	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002_hu8488390804714595004.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002_hu11971083799966411472.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS002_hu8488390804714595004.png 480w, http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS002_hu11971083799966411472.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -150,10 +150,10 @@
 		data-flex-basis=&#34;384px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS003.png&#34;
 	width=&#34;1280&#34;
 	height=&#34;799&#34;
-	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003_hu17024580859531002336.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003_hu8703308419899811116.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS003_hu17024580859531002336.png 480w, http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS003_hu8703308419899811116.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -182,18 +182,18 @@
         </item>
         <item>
         <title>Shadow People in MWI</title>
-        <link>http://localhost:1313/en/p/shadow-people-in-mwi/</link>
+        <link>http://localhost:8966/en/p/shadow-people-in-mwi/</link>
         <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/shadow-people-in-mwi/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/shadow-people-in-mwi/SP04.png" alt="Featured image of post Shadow People in MWI" /&gt;&lt;h1 id=&#34;occupancy&#34;&gt;Occupancy
+        <guid>http://localhost:8966/en/p/shadow-people-in-mwi/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/shadow-people-in-mwi/SP04.png" alt="Featured image of post Shadow People in MWI" /&gt;&lt;h1 id=&#34;occupancy&#34;&gt;Occupancy
 &lt;/h1&gt;&lt;p&gt;Based on what was discussed previously, 99.99999% of world-lines are empty.&lt;/p&gt;
 &lt;p&gt;This means that most of the world lines that consciousness experiences are simply filled with other people, animals, and things that have no consciousness. These people and animals are called &amp;ldquo;shadows&amp;rdquo; or &amp;ldquo;shadow people&amp;rdquo; because while they appear to move and think, they have no consciousness. They are projections of consciousness, and their main consciousness is somewhere else. They are the &amp;ldquo;what ifs&amp;rdquo; of the action and the landscape that your consciousness interacts with.&lt;/p&gt;
 &lt;p&gt;To visualize:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP01.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/shadow-people-in-mwi/SP01.png&#34;
 	width=&#34;1481&#34;
 	height=&#34;907&#34;
-	srcset=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP01_hu5420347526888610304.png 480w, http://localhost:1313/en/p/shadow-people-in-mwi/SP01_hu768608016969762198.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/shadow-people-in-mwi/SP01_hu5420347526888610304.png 480w, http://localhost:8966/en/p/shadow-people-in-mwi/SP01_hu768608016969762198.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -205,10 +205,10 @@
 &lt;p&gt;However, this is a simplification. In reality, all the “shadow people” possess a consciousness. This explains why the thoughts of those around you affect your MWI navigation.&lt;/p&gt;
 &lt;p&gt;There is some small percentage of a consciousness within every shadow entity. It’s just that the percentage is very tiny.&lt;/p&gt;
 &lt;p&gt;Each of the infinite lines of the world has consciousness running through it. Not just other people&amp;rsquo;s, but yours as well. It&amp;rsquo;s an almost insignificant amount. Your consciousness dominates all other consciousnesses in the world line.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP02.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/shadow-people-in-mwi/SP02.png&#34;
 	width=&#34;1470&#34;
 	height=&#34;907&#34;
-	srcset=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP02_hu6270824401990344126.png 480w, http://localhost:1313/en/p/shadow-people-in-mwi/SP02_hu11807164326870309934.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/shadow-people-in-mwi/SP02_hu6270824401990344126.png 480w, http://localhost:8966/en/p/shadow-people-in-mwi/SP02_hu11807164326870309934.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -225,10 +225,10 @@
 &lt;p&gt;And all of this entanglement puts a little infinitesimal part of you, and those around you near you in what ever world-line that your consciousness happens to occupy at that moment.&lt;/p&gt;
 &lt;p&gt;Of course, there are other factors at play. Injecting consciousness into a template does not mean that the entire infinite number of world lines are entangled. The effect will &amp;ldquo;fade out,&amp;rdquo; or diminish as the variance increases.&lt;/p&gt;
 &lt;p&gt;It will resemble something like:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP03.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/shadow-people-in-mwi/SP03.png&#34;
 	width=&#34;1380&#34;
 	height=&#34;844&#34;
-	srcset=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP03_hu17913142846821959025.png 480w, http://localhost:1313/en/p/shadow-people-in-mwi/SP03_hu2347925595697008656.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/shadow-people-in-mwi/SP03_hu17913142846821959025.png 480w, http://localhost:8966/en/p/shadow-people-in-mwi/SP03_hu2347925595697008656.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -241,10 +241,10 @@
 &lt;p&gt;Consider that this is happening for the billions upon billions of people that are entering and leaving our template surface. Each one is “making their marks”. All combine to provide some “foot print” of their present upon the template that you inhabit.&lt;/p&gt;
 &lt;h1 id=&#34;paradox&#34;&gt;Paradox
 &lt;/h1&gt;&lt;p&gt;Assuming that everyone was 100% fully conscious in their bodies, and that the mind controlled our reality, our reality would probably become a very confusing, ever-changing mess of reality. Reality will also change as quickly and irrationally as dreams.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP04.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/shadow-people-in-mwi/SP04.png&#34;
 	width=&#34;1381&#34;
 	height=&#34;862&#34;
-	srcset=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP04_hu15001734789719588085.png 480w, http://localhost:1313/en/p/shadow-people-in-mwi/SP04_hu10667407055326606553.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/shadow-people-in-mwi/SP04_hu15001734789719588085.png 480w, http://localhost:8966/en/p/shadow-people-in-mwi/SP04_hu10667407055326606553.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -260,11 +260,11 @@
         </item>
         <item>
         <title>Eccirian: Better Encryption for Obsidian</title>
-        <link>http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/</link>
+        <link>http://localhost:8966/en/p/eccirian-better-encryption-for-obsidian/</link>
         <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/Eccirian.png" alt="Featured image of post Eccirian: Better Encryption for Obsidian" /&gt;&lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; is a security-focused Obsidian encryption plugin that supports seamless encryption and decryption of files using multiple advanced password-based encryption methods.&lt;/p&gt;
+        <guid>http://localhost:8966/en/p/eccirian-better-encryption-for-obsidian/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/eccirian-better-encryption-for-obsidian/Eccirian.png" alt="Featured image of post Eccirian: Better Encryption for Obsidian" /&gt;&lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; is a security-focused Obsidian encryption plugin that supports seamless encryption and decryption of files using multiple advanced password-based encryption methods.&lt;/p&gt;
 &lt;p&gt;It introduces a custom &lt;code&gt;.eccirian&lt;/code&gt; file extension and provides a unique read-only view for locked files, allowing you to easily manage sensitive information directly in Obsidian.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Enthalpiex/Eccirian-Encrypt/stargazers&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;img src=&#34;https://img.shields.io/github/stars/Enthalpiex/Eccirian-Encrypt?style=social&#34;
@@ -380,10 +380,10 @@
         </item>
         <item>
         <title>False Positives in MWI Navigation</title>
-        <link>http://localhost:1313/en/p/false-positives-in-mwi-navigation/</link>
+        <link>http://localhost:8966/en/p/false-positives-in-mwi-navigation/</link>
         <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/false-positives-in-mwi-navigation/</guid>
+        <guid>http://localhost:8966/en/p/false-positives-in-mwi-navigation/</guid>
         <description>&lt;p&gt;One thing that can be pretty common in an intention campaign is the presence of “false positives”.&lt;/p&gt;
 &lt;p&gt;False positives are events or things that appear to match your verbal affirmations in substance, but have some glaring defect that makes them unusable.&lt;/p&gt;
 &lt;p&gt;Like ripples in a pond, a target object or situation can often create “ghost” or “echo” images. These items are not necessarily exactly what you are striving for. Though, it might (truthfully) be exactly what you are asking for.&lt;/p&gt;
@@ -411,10 +411,10 @@
         </item>
         <item>
         <title>The Boring MBTI System</title>
-        <link>http://localhost:1313/en/p/the-boring-mbti-system/</link>
+        <link>http://localhost:8966/en/p/the-boring-mbti-system/</link>
         <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/the-boring-mbti-system/</guid>
+        <guid>http://localhost:8966/en/p/the-boring-mbti-system/</guid>
         <description>&lt;p&gt;I thought it would be helpful to describe how my attitude towards MBTI has changed over the past few months.&lt;/p&gt;
 &lt;p&gt;While the MBTI framework offers a compelling way to understand personality patterns, it ultimately simplifies the complexity of human behavior into static categories.&lt;/p&gt;
 &lt;p&gt;People are dynamic, and their thoughts, actions, and motivations often shift with context, age, and experience. There are also huge differences between people in their ability and degree to control their thoughts. Therefore the binary system created by MBTI is an extremely simplified system that is easy to understand but is not true.&lt;/p&gt;
@@ -426,11 +426,11 @@
         </item>
         <item>
         <title>Anime Review: Violet Evergarden</title>
-        <link>http://localhost:1313/en/p/anime-review-violet-evergarden/</link>
+        <link>http://localhost:8966/en/p/anime-review-violet-evergarden/</link>
         <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/anime-review-violet-evergarden/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/anime-review-violet-evergarden/VE4.png" alt="Featured image of post Anime Review: Violet Evergarden" /&gt;&lt;p&gt;I sincerely thank the authors of Kyoto Animation and take this opportunity to remember the lives lost in the fire in 2019.&lt;/p&gt;
+        <guid>http://localhost:8966/en/p/anime-review-violet-evergarden/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/anime-review-violet-evergarden/VE4.png" alt="Featured image of post Anime Review: Violet Evergarden" /&gt;&lt;p&gt;I sincerely thank the authors of Kyoto Animation and take this opportunity to remember the lives lost in the fire in 2019.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Seven years later, Violet has become a classic, and she is a well-deserved legend.&lt;/p&gt;
 &lt;p&gt;Violet is not a real person, but her existence is far more real than many real people. Every time I mention this name, I seem to be standing in front of the red-walled post office that is gradually covered by modern civilization, holding a yellowed letter in my hand, and looking up I can see the half-finished Eiffel Tower and the old times that are gradually fading away.&lt;/p&gt;
@@ -450,10 +450,10 @@
 &lt;p&gt;Violet Evergarden, she is not immortal, she is just an ordinary girl who once survived the war, stained with blood but longing for love. But the places she walked, the letters she wrote, and the people she accompanied, are like the traces of stars falling in the night sky. Although short-lived, no one will forget that in that era when people could only communicate through letters, there was an 18-year-old girl who was fulfilling the mission of conveying love.&lt;/p&gt;
 &lt;p&gt;Her name is,&lt;/p&gt;
 &lt;p&gt;Violet Evergarden&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE1.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE1.png&#34;
 	width=&#34;1961&#34;
 	height=&#34;1576&#34;
-	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE1_hu3384798672046668114.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE1_hu3618903529221464675.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE1_hu3384798672046668114.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE1_hu3618903529221464675.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -462,10 +462,10 @@
 		data-flex-basis=&#34;298px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE2.png&#34;
+&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE2.png&#34;
 	width=&#34;1439&#34;
 	height=&#34;1579&#34;
-	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE2_hu7764445408069516466.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE2_hu22015993762037003.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE2_hu7764445408069516466.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE2_hu22015993762037003.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -474,10 +474,10 @@
 		data-flex-basis=&#34;218px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE3.png&#34;
+&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE3.png&#34;
 	width=&#34;2559&#34;
 	height=&#34;1599&#34;
-	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE3_hu4637438640564553949.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE3_hu7756829593678335906.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE3_hu4637438640564553949.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE3_hu7756829593678335906.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -486,10 +486,10 @@
 		data-flex-basis=&#34;384px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE4.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE4.png&#34;
 	width=&#34;2345&#34;
 	height=&#34;1591&#34;
-	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE4_hu4256582547151342815.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE4_hu7761005294036804722.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE4_hu4256582547151342815.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE4_hu7761005294036804722.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -498,10 +498,10 @@
 		data-flex-basis=&#34;353px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE5.png&#34;
+&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE5.png&#34;
 	width=&#34;2135&#34;
 	height=&#34;1437&#34;
-	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE5_hu2841462924002158650.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE5_hu1780355832472422378.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE5_hu2841462924002158650.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE5_hu1780355832472422378.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -510,10 +510,10 @@
 		data-flex-basis=&#34;356px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE6.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE6.png&#34;
 	width=&#34;2559&#34;
 	height=&#34;1426&#34;
-	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE6_hu3428965806267928903.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE6_hu10449913714349487869.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE6_hu3428965806267928903.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE6_hu10449913714349487869.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -522,10 +522,10 @@
 		data-flex-basis=&#34;430px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE7.png&#34;
+&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE7.png&#34;
 	width=&#34;2559&#34;
 	height=&#34;1599&#34;
-	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE7_hu1279682511242504374.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE7_hu14675259388686693963.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE7_hu1279682511242504374.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE7_hu14675259388686693963.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -534,10 +534,10 @@
 		data-flex-basis=&#34;384px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE8.png&#34;
+&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE8.png&#34;
 	width=&#34;2559&#34;
 	height=&#34;1424&#34;
-	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE8_hu8639176318667577800.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE8_hu15555631735356980977.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE8_hu8639176318667577800.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE8_hu15555631735356980977.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -550,10 +550,10 @@
         </item>
         <item>
         <title>Intention &amp; Navigation in MWI</title>
-        <link>http://localhost:1313/en/p/intention-navigation-in-mwi/</link>
+        <link>http://localhost:8966/en/p/intention-navigation-in-mwi/</link>
         <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/intention-navigation-in-mwi/</guid>
+        <guid>http://localhost:8966/en/p/intention-navigation-in-mwi/</guid>
         <description>&lt;p&gt;Released on April 1st, take it or not.&lt;/p&gt;
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h1&gt;&lt;p&gt;Our thoughts control our reality. So if we want to live a “much improved” life, in whatever way we choose, we can manifest it. By understanding the way the universe works, the nature of consciousness, and the role thought has, you can pick and choose world-line destinations.&lt;/p&gt;
@@ -574,10 +574,10 @@
 &lt;li&gt;You eventually want to reach a new reality &amp;ldquo;B&amp;rdquo;. It is shown in gold.&lt;/li&gt;
 &lt;li&gt;There are two paths marked. One is yellow and one is black.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/intention-navigation-in-mwi/WLT01.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/intention-navigation-in-mwi/WLT01.png&#34;
 	width=&#34;1024&#34;
 	height=&#34;454&#34;
-	srcset=&#34;http://localhost:1313/en/p/intention-navigation-in-mwi/WLT01_hu10057260270872582613.png 480w, http://localhost:1313/en/p/intention-navigation-in-mwi/WLT01_hu10171643358266991402.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/intention-navigation-in-mwi/WLT01_hu10057260270872582613.png 480w, http://localhost:8966/en/p/intention-navigation-in-mwi/WLT01_hu10171643358266991402.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -626,11 +626,11 @@
         </item>
         <item>
         <title>Law of Attraction Under MWI</title>
-        <link>http://localhost:1313/en/p/law-of-attraction-under-mwi/</link>
+        <link>http://localhost:8966/en/p/law-of-attraction-under-mwi/</link>
         <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/law-of-attraction-under-mwi/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/law-of-attraction-under-mwi/Law-of-Attraction.png" alt="Featured image of post Law of Attraction Under MWI" /&gt;&lt;p&gt;In the MWI framework, every possible self you may become and every possible fate you may experience already &amp;ldquo;exists&amp;rdquo; in the universe, but they belong to different branching world lines.&lt;/p&gt;
+        <guid>http://localhost:8966/en/p/law-of-attraction-under-mwi/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/law-of-attraction-under-mwi/Law-of-Attraction.png" alt="Featured image of post Law of Attraction Under MWI" /&gt;&lt;p&gt;In the MWI framework, every possible self you may become and every possible fate you may experience already &amp;ldquo;exists&amp;rdquo; in the universe, but they belong to different branching world lines.&lt;/p&gt;
 &lt;p&gt;Therefore, in the process of entering and exiting world lines, through the control of thoughts, we can select and strengthen the path weights of certain world lines, so that life experience tends towards those realities.&lt;/p&gt;
 &lt;p&gt;Every thought, emotion, intention, and belief is a &amp;ldquo;offset&amp;rdquo; operation on a certain world line. It all starts from the moment consciousness comes into the world.&lt;/p&gt;
 &lt;ul&gt;
@@ -649,11 +649,11 @@
         </item>
         <item>
         <title>Ever Stranding</title>
-        <link>http://localhost:1313/en/p/ever-stranding/</link>
+        <link>http://localhost:8966/en/p/ever-stranding/</link>
         <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/ever-stranding/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/ever-stranding/es2t.png" alt="Featured image of post Ever Stranding" /&gt;&lt;blockquote&gt;
+        <guid>http://localhost:8966/en/p/ever-stranding/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/ever-stranding/es2t.png" alt="Featured image of post Ever Stranding" /&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Once, there was an explosion.&lt;/strong&gt;&lt;br&gt;
 A bang which gave birth to time and space.&lt;br&gt;
 &lt;strong&gt;Once, there was an explosion.&lt;/strong&gt;&lt;br&gt;
@@ -683,10 +683,10 @@ Ever stranding. Ever becoming.&lt;br&gt;
 The rope is the hope.&lt;br&gt;
 And we are the bridge.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/ever-stranding/es1.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/ever-stranding/es1.png&#34;
 	width=&#34;1052&#34;
 	height=&#34;1403&#34;
-	srcset=&#34;http://localhost:1313/en/p/ever-stranding/es1_hu3297045237482349425.png 480w, http://localhost:1313/en/p/ever-stranding/es1_hu16237655274331770228.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/ever-stranding/es1_hu3297045237482349425.png 480w, http://localhost:8966/en/p/ever-stranding/es1_hu16237655274331770228.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -695,10 +695,10 @@ And we are the bridge.&lt;/p&gt;
 		data-flex-basis=&#34;179px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/en/p/ever-stranding/es3.png&#34;
+&lt;img src=&#34;http://localhost:8966/en/p/ever-stranding/es3.png&#34;
 	width=&#34;1052&#34;
 	height=&#34;451&#34;
-	srcset=&#34;http://localhost:1313/en/p/ever-stranding/es3_hu10027866545705190210.png 480w, http://localhost:1313/en/p/ever-stranding/es3_hu17941314396631290999.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/ever-stranding/es3_hu10027866545705190210.png 480w, http://localhost:8966/en/p/ever-stranding/es3_hu17941314396631290999.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -707,10 +707,10 @@ And we are the bridge.&lt;/p&gt;
 		data-flex-basis=&#34;559px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/ever-stranding/es4.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/ever-stranding/es4.png&#34;
 	width=&#34;1052&#34;
 	height=&#34;1402&#34;
-	srcset=&#34;http://localhost:1313/en/p/ever-stranding/es4_hu8007754652569526260.png 480w, http://localhost:1313/en/p/ever-stranding/es4_hu16047462826451662020.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/ever-stranding/es4_hu8007754652569526260.png 480w, http://localhost:8966/en/p/ever-stranding/es4_hu16047462826451662020.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -719,10 +719,10 @@ And we are the bridge.&lt;/p&gt;
 		data-flex-basis=&#34;180px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:1313/en/p/ever-stranding/es5.png&#34;
+&lt;img src=&#34;http://localhost:8966/en/p/ever-stranding/es5.png&#34;
 	width=&#34;1052&#34;
 	height=&#34;451&#34;
-	srcset=&#34;http://localhost:1313/en/p/ever-stranding/es5_hu565709361442386705.png 480w, http://localhost:1313/en/p/ever-stranding/es5_hu3579916145926142339.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/ever-stranding/es5_hu565709361442386705.png 480w, http://localhost:8966/en/p/ever-stranding/es5_hu3579916145926142339.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -730,10 +730,10 @@ And we are the bridge.&lt;/p&gt;
 		data-flex-grow=&#34;233&#34;
 		data-flex-basis=&#34;559px&#34;
 	
-&gt;&lt;img src=&#34;http://localhost:1313/en/p/ever-stranding/es6.png&#34;
+&gt;&lt;img src=&#34;http://localhost:8966/en/p/ever-stranding/es6.png&#34;
 	width=&#34;1052&#34;
 	height=&#34;593&#34;
-	srcset=&#34;http://localhost:1313/en/p/ever-stranding/es6_hu1694518901600618887.png 480w, http://localhost:1313/en/p/ever-stranding/es6_hu1708989802102550448.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/ever-stranding/es6_hu1694518901600618887.png 480w, http://localhost:8966/en/p/ever-stranding/es6_hu1708989802102550448.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -746,11 +746,11 @@ And we are the bridge.&lt;/p&gt;
         </item>
         <item>
         <title>What is MWI</title>
-        <link>http://localhost:1313/en/p/what-is-mwi/</link>
+        <link>http://localhost:8966/en/p/what-is-mwi/</link>
         <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/what-is-mwi/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/what-is-mwi/0008.png" alt="Featured image of post What is MWI" /&gt;&lt;h1 id=&#34;introduction-to-the-many-worlds-interpretation-mwi&#34;&gt;Introduction to the Many-Worlds Interpretation (MWI)
+        <guid>http://localhost:8966/en/p/what-is-mwi/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/what-is-mwi/0008.png" alt="Featured image of post What is MWI" /&gt;&lt;h1 id=&#34;introduction-to-the-many-worlds-interpretation-mwi&#34;&gt;Introduction to the Many-Worlds Interpretation (MWI)
 &lt;/h1&gt;&lt;p&gt;Quantum mechanics emerged in the early 20th century to explain strange behaviors at the atomic and subatomic levels—such as electrons existing in multiple states at once or particles behaving like both waves and particles.&lt;/p&gt;
 &lt;p&gt;Mathematically, quantum systems are described by a wavefunction (Ψ), which evolves deterministically over time according to the Schrödinger equation. This wavefunction contains all possible outcomes of a system.&lt;/p&gt;
 &lt;h1 id=&#34;copenhagen-interpretation-vs-mwi&#34;&gt;Copenhagen Interpretation vs. MWI
@@ -828,10 +828,10 @@ And we are the bridge.&lt;/p&gt;
 &lt;h2 id=&#34;start&#34;&gt;Start
 &lt;/h2&gt;&lt;p&gt;We could assume that consciousness &amp;ldquo;activates&amp;rdquo; at some point early in life. For some people, this may happen in the womb; for others, it may be after birth. For most people, consciousness is unstable at first, and it may enter and leave the body from time to time until it finally stabilizes and truly integrates into this reality.&lt;/p&gt;
 &lt;p&gt;If we draw this process on a world line diagram, it is &amp;ldquo;falling into&amp;rdquo; the world line template map.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0001.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/what-is-mwi/0001.png&#34;
 	width=&#34;1363&#34;
 	height=&#34;761&#34;
-	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0001_hu13761932284462745488.png 480w, http://localhost:1313/en/p/what-is-mwi/0001_hu10265708714069776704.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/what-is-mwi/0001_hu13761932284462745488.png 480w, http://localhost:8966/en/p/what-is-mwi/0001_hu10265708714069776704.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -843,10 +843,10 @@ And we are the bridge.&lt;/p&gt;
 &lt;h2 id=&#34;the-first-few-minutes&#34;&gt;The first few minutes
 &lt;/h2&gt;&lt;p&gt;In the first few minutes, days, and months, freedom of movement is very limited. The consciousness is still learning how to move, learning how to use the body. So the actual physical activity it can do is limited.&lt;/p&gt;
 &lt;p&gt;However, if it pushed itself, and it strove to overcome, it could roll, crawl, move and do other things that are very difficult to do. These difficult things can be defined as hills and mountains on the template map. Using the Z-axis, the higher the “mountain”, the harder the effort. The shallower the depression, the easier the effort.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0002.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/what-is-mwi/0002.png&#34;
 	width=&#34;1363&#34;
 	height=&#34;761&#34;
-	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0002_hu18172691543703200609.png 480w, http://localhost:1313/en/p/what-is-mwi/0002_hu7364132768649507742.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/what-is-mwi/0002_hu18172691543703200609.png 480w, http://localhost:8966/en/p/what-is-mwi/0002_hu7364132768649507742.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -859,10 +859,10 @@ And we are the bridge.&lt;/p&gt;
 &lt;p&gt;Depending on the personality of consciousness, it either chooses the easy route or it becomes a &amp;ldquo;tough guy&amp;rdquo; and pushes forward, striving to &amp;ldquo;climb those mountains.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;We can conclude that before birth, everyone corresponds to a preset &amp;ldquo;world line template&amp;rdquo;. This template largely determines the direction of your future development. Therefore, if you do nothing and live your life naturally, your future will be roughly predictable without much deviation.&lt;/p&gt;
 &lt;p&gt;But, if you decide to climb “those hills and mountains”, what then?&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0003.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/what-is-mwi/0003.png&#34;
 	width=&#34;1363&#34;
 	height=&#34;761&#34;
-	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0003_hu12986281678285842553.png 480w, http://localhost:1313/en/p/what-is-mwi/0003_hu17372587966428292963.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/what-is-mwi/0003_hu12986281678285842553.png 480w, http://localhost:8966/en/p/what-is-mwi/0003_hu17372587966428292963.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -881,10 +881,10 @@ And we are the bridge.&lt;/p&gt;
 &lt;p&gt;Therefore, each consciousness experiences their own version of &amp;ldquo;time&amp;rdquo;, which is determined by the speed at which the consciousness travels between worldlines. A &amp;ldquo;unified&amp;rdquo; time exists within a single worldline, but this is of no help to consciousness.&lt;/p&gt;
 &lt;h4 id=&#34;life-line&#34;&gt;Life-Line
 &lt;/h4&gt;&lt;p&gt;A “life-line” is a collection of experiences that a consciousness has. As the consciousness moves in and out of individual moments of time, it creates a path. This path looks like a vector. It starts at the moment of birth and ends at the moment of death.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0004.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/what-is-mwi/0004.png&#34;
 	width=&#34;1196&#34;
 	height=&#34;718&#34;
-	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0004_hu13971474552629947003.png 480w, http://localhost:1313/en/p/what-is-mwi/0004_hu8341387031733458696.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/what-is-mwi/0004_hu13971474552629947003.png 480w, http://localhost:8966/en/p/what-is-mwi/0004_hu8341387031733458696.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -895,10 +895,10 @@ And we are the bridge.&lt;/p&gt;
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;time-line&#34;&gt;Time-Line
 &lt;/h4&gt;&lt;p&gt;A timeline is a segment of a lifeline. It can be a continuous segment of any lifeline.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0005.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/what-is-mwi/0005.png&#34;
 	width=&#34;1196&#34;
 	height=&#34;733&#34;
-	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0005_hu5981014189659697373.png 480w, http://localhost:1313/en/p/what-is-mwi/0005_hu3931282326332505448.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/what-is-mwi/0005_hu5981014189659697373.png 480w, http://localhost:8966/en/p/what-is-mwi/0005_hu3931282326332505448.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -910,10 +910,10 @@ And we are the bridge.&lt;/p&gt;
 &lt;h4 id=&#34;world-line&#34;&gt;World-Line
 &lt;/h4&gt;&lt;p&gt;A &amp;ldquo;world line&amp;rdquo; is a frozen moment, like a photograph. It contains its unique history and future. The history and future of each world line are different.&lt;/p&gt;
 &lt;p&gt;As far as using the world-line map template, each intersection point, dot or globe represents one such world-line.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0006.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/what-is-mwi/0006.png&#34;
 	width=&#34;1516&#34;
 	height=&#34;871&#34;
-	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0006_hu18439174487610308072.png 480w, http://localhost:1313/en/p/what-is-mwi/0006_hu14040690706533387865.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/what-is-mwi/0006_hu18439174487610308072.png 480w, http://localhost:8966/en/p/what-is-mwi/0006_hu14040690706533387865.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -926,10 +926,10 @@ And we are the bridge.&lt;/p&gt;
 &lt;/h4&gt;&lt;p&gt;If the number of consciousnesses is finite, but the number of worldlines is close to infinite, then the probability that each consciousness has its own worldline is greatest. In other words, shared worldlines are rare.&lt;/p&gt;
 &lt;p&gt;However, as the consciousness travels on the MWI it does so based upon it’s thoughts. If others share the same thoughts, they travel the MWI in a similar manner.&lt;/p&gt;
 &lt;p&gt;If you map out the Time-Lines of people who are sharing similar thoughts, you will find that they seem to travel together, and they seem to experience the same World-lines. Which known as clustering.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0007.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/what-is-mwi/0007.png&#34;
 	width=&#34;1182&#34;
 	height=&#34;623&#34;
-	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0007_hu17335415741181643466.png 480w, http://localhost:1313/en/p/what-is-mwi/0007_hu7179536543470298061.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/what-is-mwi/0007_hu17335415741181643466.png 480w, http://localhost:8966/en/p/what-is-mwi/0007_hu7179536543470298061.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -949,10 +949,10 @@ And we are the bridge.&lt;/p&gt;
 &lt;/h4&gt;&lt;p&gt;The template map is a model used to visualize how consciousness moves in MWI. It can be thought of as a topological map, made up of grid intersections, each of which represents a &amp;ldquo;world line&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;The shape of the map surface reflects the most likely path a consciousness can move through its physical body.&lt;/p&gt;
 &lt;p&gt;The height of the terrain represents the difficulty of movement. Flat areas symbolize easy movement without much effort, while &amp;ldquo;mountains&amp;rdquo; represent extremely high difficulties and challenges.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0008.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/what-is-mwi/0008.png&#34;
 	width=&#34;841&#34;
 	height=&#34;494&#34;
-	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0008_hu10078396274375039774.png 480w, http://localhost:1313/en/p/what-is-mwi/0008_hu5283726324248815761.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/what-is-mwi/0008_hu10078396274375039774.png 480w, http://localhost:8966/en/p/what-is-mwi/0008_hu5283726324248815761.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -968,10 +968,10 @@ And we are the bridge.&lt;/p&gt;
 &lt;h4 id=&#34;slide&#34;&gt;Slide
 &lt;/h4&gt;&lt;p&gt;A slide is an intentional change of the template map. Consciousness “slide” off the map that you are on, and land on a completely different map.&lt;/p&gt;
 &lt;p&gt;While this can be accomplished through design, the most effective way (on an individual basis) is to do it through thinking. By specifically controlling your thoughts to slide out of the template map, sliding to the template that is next to it, like sliding from one layer of a layer cake to another.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0009.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/what-is-mwi/0009.png&#34;
 	width=&#34;1182&#34;
 	height=&#34;1324&#34;
-	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0009_hu2124095842604820702.png 480w, http://localhost:1313/en/p/what-is-mwi/0009_hu13973549837401237200.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/what-is-mwi/0009_hu2124095842604820702.png 480w, http://localhost:8966/en/p/what-is-mwi/0009_hu13973549837401237200.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -985,10 +985,10 @@ And we are the bridge.&lt;/p&gt;
 &lt;p&gt;So for a consciousness, all these &amp;ldquo;people&amp;rdquo; it sees are actually just an empty container. They are real, and they have feelings that we react to, but its consciousness is not there, but on their own world line. This person on all other world lines is just a projection of the main consciousness.&lt;/p&gt;
 &lt;h4 id=&#34;mountains&#34;&gt;Mountains
 &lt;/h4&gt;&lt;p&gt;On the topography of a world-line template are “highs” and “lows”. These features define the difficulty of effort to move in those directions. A “mountain” is a particularly difficult are to traverse. And on the 3D map it will appear as a mountain.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0010.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/what-is-mwi/0010.png&#34;
 	width=&#34;844&#34;
 	height=&#34;499&#34;
-	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0010_hu3493298422516931257.png 480w, http://localhost:1313/en/p/what-is-mwi/0010_hu4748699378880853925.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/what-is-mwi/0010_hu3493298422516931257.png 480w, http://localhost:8966/en/p/what-is-mwi/0010_hu4748699378880853925.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -999,10 +999,10 @@ And we are the bridge.&lt;/p&gt;
 &gt;&lt;/p&gt;
 &lt;h4 id=&#34;hills&#34;&gt;Hills
 &lt;/h4&gt;&lt;p&gt;A hill is similar to a mountain. It’s level of difficulty to traverse is proportionally smaller.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0011.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/what-is-mwi/0011.png&#34;
 	width=&#34;1187&#34;
 	height=&#34;691&#34;
-	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0011_hu11146946039787481077.png 480w, http://localhost:1313/en/p/what-is-mwi/0011_hu9762739922473463696.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/what-is-mwi/0011_hu11146946039787481077.png 480w, http://localhost:8966/en/p/what-is-mwi/0011_hu9762739922473463696.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1014,10 +1014,10 @@ And we are the bridge.&lt;/p&gt;
 &lt;h4 id=&#34;comfort-zone&#34;&gt;Comfort Zone
 &lt;/h4&gt;&lt;p&gt;In actual experience, the flat, unruffled areas on the world line template map are the so-called &amp;ldquo;comfort zones&amp;rdquo;. No matter how rugged and steep the terrain ahead looks, there will always be a relatively smooth and easy path in the world line template set before birth.&lt;/p&gt;
 &lt;p&gt;The good thing is that no matter what you face in life, there is always a &amp;ldquo;default route&amp;rdquo; waiting for you to move forward; it may be smooth or difficult, but it always exists.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0012.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/what-is-mwi/0012.png&#34;
 	width=&#34;1187&#34;
 	height=&#34;629&#34;
-	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0012_hu1648284921839842700.png 480w, http://localhost:1313/en/p/what-is-mwi/0012_hu16867636640594859631.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/what-is-mwi/0012_hu1648284921839842700.png 480w, http://localhost:8966/en/p/what-is-mwi/0012_hu16867636640594859631.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1031,10 +1031,10 @@ And we are the bridge.&lt;/p&gt;
         </item>
         <item>
         <title>No More US.KG</title>
-        <link>http://localhost:1313/en/p/no-more-us.kg/</link>
+        <link>http://localhost:8966/en/p/no-more-us.kg/</link>
         <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/no-more-us.kg/</guid>
+        <guid>http://localhost:8966/en/p/no-more-us.kg/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Dear User,&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;We regret to inform you that due to domain abuse and other related issues, after extensive discussions with the &lt;strong&gt;.KG registry&lt;/strong&gt;, &lt;strong&gt;ccltd.kg will no longer be allowed to receive any complaint reports&lt;/strong&gt;—otherwise, the &lt;strong&gt;.KG registry will permanently disable domain resolution.&lt;/strong&gt;&lt;/p&gt;
@@ -1057,24 +1057,24 @@ And we are the bridge.&lt;/p&gt;
         </item>
         <item>
         <title>Introduction and Index List</title>
-        <link>http://localhost:1313/en/p/introduction-and-index-list/</link>
+        <link>http://localhost:8966/en/p/introduction-and-index-list/</link>
         <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/introduction-and-index-list/</guid>
+        <guid>http://localhost:8966/en/p/introduction-and-index-list/</guid>
         <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction
 &lt;/h1&gt;&lt;p&gt;This document aims to systematically organize and summarize the core concepts related to the Many Worlds Interpretation (MWI) to help build a more complete understanding of the nature of reality. To facilitate thinking and communication, several simplified models and analogies are used in this document. These expressions strive to be close to reality, but they do not represent the only or final explanation. Please note: reality is far more complex than the model, and you should avoid construction as much as possible when reading this document.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;index-list&#34;&gt;Index List
-&lt;/h1&gt;&lt;p&gt;&lt;code&gt;1.&lt;/code&gt; What is MWI - &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/en/p/what-is-mwi/&#34; &gt;Introduction to MWI&lt;/a&gt;&lt;/p&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;code&gt;1.&lt;/code&gt; What is MWI - &lt;a class=&#34;link&#34; href=&#34;http://localhost:8966/en/p/what-is-mwi/&#34; &gt;Introduction to MWI&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>New Encryption Plugin</title>
-        <link>http://localhost:1313/en/p/new-encryption-plugin/</link>
+        <link>http://localhost:8966/en/p/new-encryption-plugin/</link>
         <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/new-encryption-plugin/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/new-encryption-plugin/first.png" alt="Featured image of post New Encryption Plugin" /&gt;&lt;p&gt;This is an Obsidian plugin development plan.&lt;/p&gt;
+        <guid>http://localhost:8966/en/p/new-encryption-plugin/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/new-encryption-plugin/first.png" alt="Featured image of post New Encryption Plugin" /&gt;&lt;p&gt;This is an Obsidian plugin development plan.&lt;/p&gt;
 &lt;p&gt;Apparently, Meld Encrypt has a very bad interactive design. Every time a user selects a file in the file browser, the file preview function will show an overview of the file content. At this time, Meld Encrypt will automatically pop up a password box, which must be closed manually to continue looking for files. This is very bad - most of the time, the mouse just hovers for a while to trigger this troublesome password input box.&lt;/p&gt;
 &lt;p&gt;In addition, Meld Encrypt is very slow when switching during decryption, and occasionally undecrypted garbled characters will appear, which threatens the smooth Obsidian experience.&lt;/p&gt;
 &lt;p&gt;For this reason, I decided to develop a new lightweight plugin that has all the functions of Meld Encrypt, but is faster, safer and more stable.&lt;/p&gt;
@@ -1083,10 +1083,10 @@ And we are the bridge.&lt;/p&gt;
         </item>
         <item>
         <title>INTJ: Born Achiever and Loser</title>
-        <link>http://localhost:1313/en/p/intj-born-achiever-and-loser/</link>
+        <link>http://localhost:8966/en/p/intj-born-achiever-and-loser/</link>
         <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/intj-born-achiever-and-loser/</guid>
+        <guid>http://localhost:8966/en/p/intj-born-achiever-and-loser/</guid>
         <description>&lt;h2 id=&#34;pathway-of-an-intj&#34;&gt;Pathway of an INTJ
 &lt;/h2&gt;&lt;h3 id=&#34;lower-stage&#34;&gt;Lower stage
 &lt;/h3&gt;&lt;p&gt;In the lower stage, the INTJ usually presents as a being weaker than ordinary people. They have extraordinary self-confidence and arrogance, look down on everything, are introverted, like to think about problems but often dare not really be independent, their grades cannot crush their classmates, they have not carried out large-scale learning and self-discipline, and their thoughts are not objective, materialistic, and practical. They have no ability to counteract these huge side effects of being an INTJ.&lt;/p&gt;
@@ -1116,11 +1116,11 @@ And we are the bridge.&lt;/p&gt;
         </item>
         <item>
         <title>ASI 2030</title>
-        <link>http://localhost:1313/en/p/asi-2030/</link>
+        <link>http://localhost:8966/en/p/asi-2030/</link>
         <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/asi-2030/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/asi-2030/RSI-NewBabbage.png" alt="Featured image of post ASI 2030" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
+        <guid>http://localhost:8966/en/p/asi-2030/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/asi-2030/RSI-NewBabbage.png" alt="Featured image of post ASI 2030" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
 &lt;/h2&gt;&lt;p&gt;This is an interesting speculation.&lt;/p&gt;
 &lt;p&gt;If AGI/ASI is truly one of the biggest changes in human history, then it’s important to know the worst-case scenario. If they do come to pass, it will be a darker future than Cyberpunk.&lt;/p&gt;
 &lt;h3 id=&#34;technology-evolution-timeline&#34;&gt;Technology Evolution Timeline
@@ -1150,10 +1150,10 @@ And we are the bridge.&lt;/p&gt;
         </item>
         <item>
         <title>Domain Change 0223</title>
-        <link>http://localhost:1313/en/p/domain-change-0223/</link>
+        <link>http://localhost:8966/en/p/domain-change-0223/</link>
         <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/domain-change-0223/</guid>
+        <guid>http://localhost:8966/en/p/domain-change-0223/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;The free subdomain provider US.KG has once again been temporarily suspended from resolving by the Kyrgyzstan registry.
 The reason for the suspension remains consistent with the previous instance: the free nature of the domain has attracted numerous cybercriminal gangs using it to create phishing and malicious websites.&lt;br&gt;
@@ -1164,10 +1164,10 @@ Typically, domain registries take action upon receiving excessive complaints, wh
         </item>
         <item>
         <title>Occam&#39;s Razor and Bayesianism</title>
-        <link>http://localhost:1313/en/p/occams-razor-and-bayesianism/</link>
+        <link>http://localhost:8966/en/p/occams-razor-and-bayesianism/</link>
         <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/occams-razor-and-bayesianism/</guid>
+        <guid>http://localhost:8966/en/p/occams-razor-and-bayesianism/</guid>
         <description>&lt;p&gt;In simple models and complex models, as long as the simple model is consistent with the results, its confidence is much higher than that of the complex model. When this gap is infinitely magnified by multiple parameters, from the perspective of Bayesian probability, the simple model is either directly rejected, but as long as it can roughly match the experimental data, it is better than the complex model.&lt;/p&gt;
 &lt;p&gt;This includes 2 parts:&lt;/p&gt;
 &lt;h3 id=&#34;occams-razor-and-bayesianism&#34;&gt;Occam&amp;rsquo;s Razor and Bayesianism
@@ -1194,10 +1194,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>World Trends and Crisis Study</title>
-        <link>http://localhost:1313/en/p/world-trends-and-crisis-study/</link>
+        <link>http://localhost:8966/en/p/world-trends-and-crisis-study/</link>
         <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/world-trends-and-crisis-study/</guid>
+        <guid>http://localhost:8966/en/p/world-trends-and-crisis-study/</guid>
         <description>&lt;p&gt;I have been looking for the future direction recently, so I studied the development of the past few decades.&lt;/p&gt;
 &lt;p&gt;From 1950 to 2025, a significant economic crisis or major economic adjustment occurs approximately every 10 years. During this period, the global economy has undergone an evolution from post-war reconstruction, technological innovation, market-oriented reforms to informatization and globalization.&lt;/p&gt;
 &lt;h2 id=&#34;1-1950s-postwar-reconstruction-and-economic-prosperity&#34;&gt;1. 1950s: Postwar reconstruction and economic prosperity
@@ -1220,11 +1220,11 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Embedded Systems Engineering</title>
-        <link>http://localhost:1313/en/p/embedded-systems-engineering/</link>
+        <link>http://localhost:8966/en/p/embedded-systems-engineering/</link>
         <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/embedded-systems-engineering/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/embedded-systems-engineering/Embedded%20Systems%20Engineering%20Roadmap.png" alt="Featured image of post Embedded Systems Engineering" /&gt;&lt;p&gt;Hardware is hard? Then go for it!&lt;/p&gt;
+        <guid>http://localhost:8966/en/p/embedded-systems-engineering/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/embedded-systems-engineering/Embedded%20Systems%20Engineering%20Roadmap.png" alt="Featured image of post Embedded Systems Engineering" /&gt;&lt;p&gt;Hardware is hard? Then go for it!&lt;/p&gt;
 &lt;p&gt;In early 2025, I did some research about future opportunities, and seems like AI can replace most single-ability people in a not far future. The block chain technology and models led by transformers are now a large market and are still expanding. Unfortunately, just like the Internet boom, the best time has passed, so I need to find something still useful in future, and I realized that the combination of hardware and software that embedded development provide is one of the strongest ability I have seen.&lt;/p&gt;
 &lt;p&gt;Until AI can directly control the real world, micro-quantum computers appear, and brain-computer interfaces have the ability to inherit memory, embedded development will always exist - because all current electronic industry are built on the basis of embedded development. The decline of embedded means the rise of a new generation of computers with non-von Neumann architecture.&lt;/p&gt;
 &lt;p&gt;Computer Science alone is too boring for me. For this reason, in 2025 I decided to start learning everything about embedded development. This will be another new starting point after I acquire the ability to design for additive manufacturing.&lt;/p&gt;
@@ -1233,10 +1233,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Future</title>
-        <link>http://localhost:1313/en/p/future/</link>
+        <link>http://localhost:8966/en/p/future/</link>
         <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/future/</guid>
+        <guid>http://localhost:8966/en/p/future/</guid>
         <description>&lt;p&gt;It&amp;rsquo;s January again! Happy new year to you all guys!&lt;/p&gt;
 &lt;p&gt;Today&amp;rsquo;s electronic products are thinner and lighter than before, but they are still very heavy, especially those laptops with good performance that weigh more than one kilogram. Today’s quantum computers are larger and heavier than traditional computers—they are housed in specific rooms and run.&lt;/p&gt;
 &lt;p&gt;This prompts us to ask: what kinds of products could define the future? Can we experience the same level of excitement as we did with groundbreaking releases like the MacBook or the iPhone X?&lt;/p&gt;
@@ -1249,11 +1249,11 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Flow X13 Timespy World Record</title>
-        <link>http://localhost:1313/en/p/flow-x13-timespy-world-record/</link>
+        <link>http://localhost:8966/en/p/flow-x13-timespy-world-record/</link>
         <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/flow-x13-timespy-world-record/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_1.png" alt="Featured image of post Flow X13 Timespy World Record" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
+        <guid>http://localhost:8966/en/p/flow-x13-timespy-world-record/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/flow-x13-timespy-world-record/WR_1.png" alt="Featured image of post Flow X13 Timespy World Record" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Original Post:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/FlowX13/comments/1hret5p/flow_x13_rtx4060_timespy_world_record_no/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Flow X13 RTX4060 Timespy World Record (No Modification) : r/FlowX13&lt;/a&gt;&lt;/p&gt;
@@ -1306,7 +1306,7 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h2 id=&#34;result&#34;&gt;Result
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/World%20Record%20Timespy/WR_1.png&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:8966/post/World%20Record%20Timespy/WR_1.png&#34;
 	
 	
 	
@@ -1314,10 +1314,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_2.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/WR_2.png&#34;
 	width=&#34;2559&#34;
 	height=&#34;1415&#34;
-	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_2_hu8605919855762022794.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_2_hu17261336422985674264.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/WR_2_hu8605919855762022794.png 480w, http://localhost:8966/en/p/flow-x13-timespy-world-record/WR_2_hu17261336422985674264.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1367,10 +1367,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
 &lt;h1 id=&#34;how-to-configure-g-helper&#34;&gt;How to configure G-Helper
 &lt;/h1&gt;&lt;p&gt;Firstly, I used the vBIOS of the 70W Alienware X14R2 (&lt;a class=&#34;link&#34; href=&#34;https://www.techpowerup.com/vgabios/265890/265890&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;VGA Bios Collection: Alienware RTX 4060 Mobile 8 GB | TechPowerUp&lt;/a&gt;) to adjust the GPU Clock Limit through G-helper and drew the energy efficiency curve of the Flow X13 4060M graphics card:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_1.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_1.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;1032&#34;
-	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_1_hu13460723901899483011.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_1_hu4957042620024129968.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_1_hu13460723901899483011.png 480w, http://localhost:8966/en/p/flow-x13-timespy-world-record/T_1_hu4957042620024129968.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1402,10 +1402,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_2.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_2.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;516&#34;
-	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_2_hu11821861800005749307.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_2_hu17296957113675041656.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_2_hu11821861800005749307.png 480w, http://localhost:8966/en/p/flow-x13-timespy-world-record/T_2_hu17296957113675041656.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1418,10 +1418,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
 &lt;p&gt;In summary, you can save power by limiting the graphics card clock frequency and confirm its performance according to the table, while limiting the CPU to 60W can maximize utilization.&lt;/p&gt;
 &lt;h2 id=&#34;results&#34;&gt;Results
 &lt;/h2&gt;&lt;p&gt;The computer has not undergone any hardware modification, the test date is January 1, 2025, 130W original power supply, and the driver version is 555.97. The test environment is room temperature 20~25 ℃, and the computer is placed on a laptop stand to raise it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_3.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_3.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;665&#34;
-	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_3_hu9269447073058226488.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_3_hu17172747664137253013.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_3_hu9269447073058226488.png 480w, http://localhost:8966/en/p/flow-x13-timespy-world-record/T_3_hu17172747664137253013.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1430,10 +1430,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
 		data-flex-basis=&#34;389px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_4.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_4.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;463&#34;
-	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_4_hu14856027465708343378.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_4_hu16405754427708612687.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_4_hu14856027465708343378.png 480w, http://localhost:8966/en/p/flow-x13-timespy-world-record/T_4_hu16405754427708612687.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1442,10 +1442,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
 		data-flex-basis=&#34;559px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_5.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_5.png&#34;
 	width=&#34;1080&#34;
 	height=&#34;463&#34;
-	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_5_hu7687558092088436750.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_5_hu6481622320997858894.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/flow-x13-timespy-world-record/T_5_hu7687558092088436750.png 480w, http://localhost:8966/en/p/flow-x13-timespy-world-record/T_5_hu6481622320997858894.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -1467,10 +1467,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Journal 1</title>
-        <link>http://localhost:1313/en/p/journal-1/</link>
+        <link>http://localhost:8966/en/p/journal-1/</link>
         <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/journal-1/</guid>
+        <guid>http://localhost:8966/en/p/journal-1/</guid>
         <description>&lt;p&gt;Per Aspera Ad Astra, which refers &amp;ldquo;Through suffering to the stars&amp;rdquo;. The specific object of suffering here is still a mystery to me, but it may be a little clearer now.&lt;/p&gt;
 &lt;p&gt;My favorite Chinese translation of this sentence is &amp;ldquo;历尽艰辛，终抵群星&amp;rdquo; (After going through all the hardships, one will finally reach the stars). The brilliance of the second half is easy to understand, but the first half is too vague. What is suffering refers to? Make the right choice at the right time, sacrifice the minor to save the major in critical moment, doing things that are useful but painful, or trying to force progress when motivation is weak?&lt;/p&gt;
 &lt;p&gt;Isolate pain may be a great method to avoid it influence the motivation and energy, but what’s interesting is that the isolation method itself also consumes energy. Is this a loss-making exercise or a way to save the greater good?&lt;/p&gt;
@@ -1479,10 +1479,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>What Makes Action Hard?</title>
-        <link>http://localhost:1313/en/p/what-makes-action-hard/</link>
+        <link>http://localhost:8966/en/p/what-makes-action-hard/</link>
         <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/what-makes-action-hard/</guid>
+        <guid>http://localhost:8966/en/p/what-makes-action-hard/</guid>
         <description>&lt;h2 id=&#34;hard-to-start&#34;&gt;Hard to start?
 &lt;/h2&gt;&lt;p&gt;I find that many times I can’t start something because there is so much resistance that stops me. Since this I decided to find reasons out and trying to avoid it.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m curious that where is the resistance comes from, and why it appears. Instead, I find following majority reasons, and I listed some solutions or examples I had now.&lt;/p&gt;
@@ -1525,10 +1525,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Applying and Learning</title>
-        <link>http://localhost:1313/en/p/applying-and-learning/</link>
+        <link>http://localhost:8966/en/p/applying-and-learning/</link>
         <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/applying-and-learning/</guid>
+        <guid>http://localhost:8966/en/p/applying-and-learning/</guid>
         <description>&lt;p&gt;When I do some review of my past life, it&amp;rsquo;s pretty easy to find that I spend more time on learning, but not applying. Is this because I&amp;rsquo;m still a student, or I&amp;rsquo;m good at applying? It&amp;rsquo;s hard to find out the answer immediately.&lt;/p&gt;
 &lt;p&gt;I think this could state for two possible reasons:&lt;/p&gt;
 &lt;ol&gt;
@@ -1545,11 +1545,11 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Advance! Advance Regardless Any Cost and Consequences!</title>
-        <link>http://localhost:1313/en/p/advance-advance-regardless-any-cost-and-consequences/</link>
+        <link>http://localhost:8966/en/p/advance-advance-regardless-any-cost-and-consequences/</link>
         <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/advance-advance-regardless-any-cost-and-consequences/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/advance-advance-regardless-any-cost-and-consequences/Kelvin%20Aerospace%20Laboratory.excalidraw.png" alt="Featured image of post Advance! Advance Regardless Any Cost and Consequences!" /&gt;&lt;blockquote&gt;
+        <guid>http://localhost:8966/en/p/advance-advance-regardless-any-cost-and-consequences/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/advance-advance-regardless-any-cost-and-consequences/Kelvin%20Aerospace%20Laboratory.excalidraw.png" alt="Featured image of post Advance! Advance Regardless Any Cost and Consequences!" /&gt;&lt;blockquote&gt;
 &lt;p&gt;We have to advance! Advance regardless any cost and consequences! No matter how difficult it is, no matter how painful the road is, we must move forward.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
@@ -1559,10 +1559,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Prior Probability of Life</title>
-        <link>http://localhost:1313/en/p/prior-probability-of-life/</link>
+        <link>http://localhost:8966/en/p/prior-probability-of-life/</link>
         <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/prior-probability-of-life/</guid>
+        <guid>http://localhost:8966/en/p/prior-probability-of-life/</guid>
         <description>&lt;p&gt;Today is the last day of September. Looking back, this month has passed very quickly and I have learned a lot. The most important thing is to establish the White Room system, and thinking about the life.&lt;/p&gt;
 &lt;p&gt;According to Bayesian theory, life should also consist of prior probability and posterior probability. Being alive and healthy constitutes the prior probability, while thoughts and actions constitute the posterior probability. When all conditions are met, it is the road to victory.&lt;/p&gt;
 &lt;p&gt;For the coming month, I decided to finish my high school physics content and improve my English, everything will be checked on my birthday.&lt;/p&gt;
@@ -1571,10 +1571,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>New things Todo</title>
-        <link>http://localhost:1313/en/p/new-things-todo/</link>
+        <link>http://localhost:8966/en/p/new-things-todo/</link>
         <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/new-things-todo/</guid>
+        <guid>http://localhost:8966/en/p/new-things-todo/</guid>
         <description>&lt;p&gt;These are things to do next few days:&lt;/p&gt;
 &lt;h5 id=&#34;0-create-review-sheet-for-all-school-courses&#34;&gt;0. Create review sheet for all school courses
 &lt;/h5&gt;&lt;h5 id=&#34;1-update-time-flip-210&#34;&gt;1. Update Time Flip 2.1.0
@@ -1588,11 +1588,11 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Time Flip Update Logs</title>
-        <link>http://localhost:1313/en/p/time-flip-update-logs/</link>
+        <link>http://localhost:8966/en/p/time-flip-update-logs/</link>
         <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/time-flip-update-logs/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/time-flip-update-logs/Updates.png" alt="Featured image of post Time Flip Update Logs" /&gt;&lt;h2 id=&#34;20240125-v001&#34;&gt;2024.01.25-v0.0.1
+        <guid>http://localhost:8966/en/p/time-flip-update-logs/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/time-flip-update-logs/Updates.png" alt="Featured image of post Time Flip Update Logs" /&gt;&lt;h2 id=&#34;20240125-v001&#34;&gt;2024.01.25-v0.0.1
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;D.s. α 迁移至Timeflip&lt;/li&gt;
 &lt;li&gt;Obsidian初稿&lt;/li&gt;
@@ -1751,10 +1751,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>About</title>
-        <link>http://localhost:1313/en/about/</link>
+        <link>http://localhost:8966/en/about/</link>
         <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/about/</guid>
+        <guid>http://localhost:8966/en/about/</guid>
         <description>&lt;p&gt;&lt;code&gt;&amp;quot;Why choose this as our goal? And they may well ask why climb the highest mountain? Why, 35 years ago, fly the Atlantic? Why does Rice play Texas?&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;We choose to go to the moon.&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too.&amp;quot;&lt;/code&gt;&lt;/p&gt;
@@ -1762,10 +1762,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Time Slice, The beginning of everything</title>
-        <link>http://localhost:1313/en/p/time-slice-the-beginning-of-everything/</link>
+        <link>http://localhost:8966/en/p/time-slice-the-beginning-of-everything/</link>
         <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/time-slice-the-beginning-of-everything/</guid>
+        <guid>http://localhost:8966/en/p/time-slice-the-beginning-of-everything/</guid>
         <description>&lt;p&gt;&lt;code&gt;Some thoughts on perfectionism and farsightedness&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Some thoughts on perfectionism and farsightedness&lt;/p&gt;
 &lt;p&gt;Living in the peaceful years, no one will take risks anymore.&lt;/p&gt;
@@ -1779,11 +1779,11 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>From KSPS</title>
-        <link>http://localhost:1313/en/p/from-ksps/</link>
+        <link>http://localhost:8966/en/p/from-ksps/</link>
         <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/from-ksps/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/from-ksps/KSPS_on_Internet_Achieve.png" alt="Featured image of post From KSPS" /&gt;&lt;p&gt;We can never know when an accident will happen.&lt;/p&gt;
+        <guid>http://localhost:8966/en/p/from-ksps/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/from-ksps/KSPS_on_Internet_Achieve.png" alt="Featured image of post From KSPS" /&gt;&lt;p&gt;We can never know when an accident will happen.&lt;/p&gt;
 &lt;p&gt;Today I learned that the KSPS, which has been running for 3 years, was deleted not long ago and there is no backup.&lt;/p&gt;
 &lt;h1 id=&#34;the-ksps&#34;&gt;The KSPS
 &lt;/h1&gt;&lt;a href=&#34;https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/&#34; style=&#34;float: right; width: 200px;&#34;&gt;
@@ -1795,20 +1795,20 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>STOP SYNC</title>
-        <link>http://localhost:1313/en/p/stop-sync/</link>
+        <link>http://localhost:8966/en/p/stop-sync/</link>
         <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/stop-sync/</guid>
+        <guid>http://localhost:8966/en/p/stop-sync/</guid>
         <description>&lt;p&gt;I have decided to end the simultaneous update of Chinese and English content.&lt;/p&gt;
 &lt;p&gt;The latest content and changes will only be published on the English page. I will consider synchronization if I have time.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>BC G10 Science Biology Unit Review Sheet</title>
-        <link>http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/</link>
+        <link>http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/</link>
         <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/</guid>
+        <guid>http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/</guid>
         <description>&lt;h2 id=&#34;part-i---11-dna--rna&#34;&gt;Part I - 1.1 DNA &amp;amp; RNA
 &lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
@@ -1956,10 +1956,10 @@ $$&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;(pp) Recessive&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/B-6.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/B-6.png&#34;
 	width=&#34;1104&#34;
 	height=&#34;896&#34;
-	srcset=&#34;http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/B-6_hu16446666493125338441.png 480w, http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/B-6_hu15018859140665767897.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/B-6_hu16446666493125338441.png 480w, http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/B-6_hu15018859140665767897.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;B-6.png&#34;
@@ -1987,10 +1987,10 @@ $$&lt;/li&gt;
 22. X linked Traits&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Traits controlled by the genes on the X chromosome&lt;/strong&gt;
 &lt;strong&gt;Color Vision Deficiency - A person that sees red and green as shades of gray&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/B-7.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/B-7.png&#34;
 	width=&#34;1132&#34;
 	height=&#34;406&#34;
-	srcset=&#34;http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/B-7_hu8737010936712712585.png 480w, http://localhost:1313/en/p/bc-g10-science-biology-unit-review-sheet/B-7_hu7548816400271281749.png 1024w&#34;
+	srcset=&#34;http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/B-7_hu8737010936712712585.png 480w, http://localhost:8966/en/p/bc-g10-science-biology-unit-review-sheet/B-7_hu7548816400271281749.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;B-7.png&#34;
@@ -2342,10 +2342,10 @@ Cons - environmental threat, health effect, socio-economic issue&lt;/p&gt;
         </item>
         <item>
         <title>BC G10 Science Physics Unit Review Sheet</title>
-        <link>http://localhost:1313/en/p/bc-g10-science-physics-unit-review-sheet/</link>
+        <link>http://localhost:8966/en/p/bc-g10-science-physics-unit-review-sheet/</link>
         <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/bc-g10-science-physics-unit-review-sheet/</guid>
+        <guid>http://localhost:8966/en/p/bc-g10-science-physics-unit-review-sheet/</guid>
         <description>&lt;h2 id=&#34;part-i---31-properties-of-energy&#34;&gt;Part I - 3.1 Properties of Energy
 &lt;/h2&gt;&lt;p&gt;1.      Energy&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The ability to perform a task&lt;/strong&gt;&lt;/p&gt;
@@ -2665,10 +2665,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>Starfield?</title>
-        <link>http://localhost:1313/en/p/starfield/</link>
+        <link>http://localhost:8966/en/p/starfield/</link>
         <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/starfield/</guid>
+        <guid>http://localhost:8966/en/p/starfield/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;If there are other civilizations in the universe that are more developed than humans, I think their world must be extremely neat and tidy cities, with sharp buildings, obvious artificial features in landform transformation and various functional areas, and the operation of the city depends on powerful central supercomputer control. Aliens may look special, but they will have a lot of auxiliary equipment on their bodies, their thoughts will be more mature than humans, their logical ability will be stronger, and their emotions will fluctuate less, which is equivalent to the artificial intelligence life form in the human science fiction world. Perhaps these aliens are the silicon-based civilization heritage left behind after the disappearance of the carbon-based civilization of the planet, making these intelligent machines created to serve carbon-based creatures the new heirs of civilization.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2689,10 +2689,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>Obsidian is Not Enough</title>
-        <link>http://localhost:1313/en/p/obsidian-is-not-enough/</link>
+        <link>http://localhost:8966/en/p/obsidian-is-not-enough/</link>
         <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/obsidian-is-not-enough/</guid>
+        <guid>http://localhost:8966/en/p/obsidian-is-not-enough/</guid>
         <description>&lt;p&gt;This can be said to be the worst month. Although DSα was good at first, the complexity of the table and the tediousness of the calculations made me spend too much time on this &amp;ldquo;efficiency system&amp;rdquo;, wasting a lot of time without any actual results. The program that automatically calculates time has no practical effect, and I have not found a suitable way to summarize and process the large amount of data generated every day.&lt;/p&gt;
 &lt;p&gt;Rebuilding DSα on Obsidian has indeed simplified a lot of content, but it still cannot solve the fundamental problem, that is, it is not intuitive enough. The limitations of the table and the disappointing functions of Obsidian mind mapping software forced me to choose other software to build this system.&lt;/p&gt;
 &lt;p&gt;Currently, I am migrating it to Simplemind Pro, a well-rated mind mapping software. The completely free configuration and nodes can free the original content from the table, because the best choice is &amp;ldquo;display everything on a huge plane&amp;rdquo;, what you see is what you get.&lt;/p&gt;
@@ -2700,10 +2700,10 @@ $$&lt;p&gt;
         </item>
         <item>
         <title>Brand New - Time Flip</title>
-        <link>http://localhost:1313/en/p/brand-new-time-flip/</link>
+        <link>http://localhost:8966/en/p/brand-new-time-flip/</link>
         <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/brand-new-time-flip/</guid>
+        <guid>http://localhost:8966/en/p/brand-new-time-flip/</guid>
         <description>&lt;p&gt;Directivity system α has been finalized and archived. Timeflip will remake and update all previous content.&lt;/p&gt;
 &lt;p&gt;Directivity system α is the first attempt to manage time based on the latest theoretical results, and has gained a lot of data and experience. Timeflip is a reset and updated version of D.s. α to solve many of its problems, expand the management scope, and greatly optimize the tediousness.&lt;/p&gt;
 &lt;h2 id=&#34;theoretical-basis&#34;&gt;Theoretical basis
@@ -2776,10 +2776,10 @@ Sunday
         </item>
         <item>
         <title>Directivity System α</title>
-        <link>http://localhost:1313/en/p/directivity-system-%CE%B1/</link>
+        <link>http://localhost:8966/en/p/directivity-system-%CE%B1/</link>
         <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/directivity-system-%CE%B1/</guid>
+        <guid>http://localhost:8966/en/p/directivity-system-%CE%B1/</guid>
         <description>&lt;p&gt;It is necessary to do something new in the new year. The efficiency research in 2023 has not even made any progress on paper, and the low efficiency is amazing&amp;hellip;&lt;/p&gt;
 &lt;p&gt;I plan to combine the methods of summarizing and experimenting in 2022 and 2023 and the latest theoretical results into a system that can promote efficiency improvement.&lt;/p&gt;
 &lt;p&gt;This is the Directivity system.&lt;/p&gt;
@@ -2918,18 +2918,18 @@ Sunday
         </item>
         <item>
         <title>Archives</title>
-        <link>http://localhost:1313/en/archives/</link>
+        <link>http://localhost:8966/en/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/archives/</guid>
+        <guid>http://localhost:8966/en/archives/</guid>
         <description></description>
         </item>
         <item>
         <title></title>
-        <link>http://localhost:1313/en/categories/about-site/drawing-2024-11-01-10.33.32.excalidraw/</link>
+        <link>http://localhost:8966/en/categories/about-site/drawing-2024-11-01-10.33.32.excalidraw/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/categories/about-site/drawing-2024-11-01-10.33.32.excalidraw/</guid>
+        <guid>http://localhost:8966/en/categories/about-site/drawing-2024-11-01-10.33.32.excalidraw/</guid>
         <description>&lt;p&gt;==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: &amp;lsquo;Decompress current Excalidraw file&amp;rsquo;. For more info check in plugin settings under &amp;lsquo;Saving&amp;rsquo;&lt;/p&gt;
 &lt;h2 id=&#34;drawing&#34;&gt;Drawing
 &lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -2945,27 +2945,27 @@ Sunday
         </item>
         <item>
         <title></title>
-        <link>http://localhost:1313/en/template/index-1/</link>
+        <link>http://localhost:8966/en/template/index-1/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/template/index-1/</guid>
+        <guid>http://localhost:8966/en/template/index-1/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>http://localhost:1313/en/links/</link>
+        <link>http://localhost:8966/en/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/links/</guid>
+        <guid>http://localhost:8966/en/links/</guid>
         <description>&lt;p&gt;All &lt;code&gt;links&lt;/code&gt; here.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:1313/en/search/</link>
+        <link>http://localhost:8966/en/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/search/</guid>
+        <guid>http://localhost:8966/en/search/</guid>
         <description></description>
         </item>
         

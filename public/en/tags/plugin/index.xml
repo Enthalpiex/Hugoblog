@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Plugin on Entropiex</title>
-        <link>http://localhost:1313/en/tags/plugin/</link>
+        <link>http://localhost:8966/en/tags/plugin/</link>
         <description>Recent content in Plugin on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/plugin/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8966/en/tags/plugin/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Eccirian: Better Encryption for Obsidian</title>
-        <link>http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/</link>
+        <link>http://localhost:8966/en/p/eccirian-better-encryption-for-obsidian/</link>
         <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/</guid>
-        <description>&lt;img src="http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/Eccirian.png" alt="Featured image of post Eccirian: Better Encryption for Obsidian" /&gt;&lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; is a security-focused Obsidian encryption plugin that supports seamless encryption and decryption of files using multiple advanced password-based encryption methods.&lt;/p&gt;
+        <guid>http://localhost:8966/en/p/eccirian-better-encryption-for-obsidian/</guid>
+        <description>&lt;img src="http://localhost:8966/en/p/eccirian-better-encryption-for-obsidian/Eccirian.png" alt="Featured image of post Eccirian: Better Encryption for Obsidian" /&gt;&lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; is a security-focused Obsidian encryption plugin that supports seamless encryption and decryption of files using multiple advanced password-based encryption methods.&lt;/p&gt;
 &lt;p&gt;It introduces a custom &lt;code&gt;.eccirian&lt;/code&gt; file extension and provides a unique read-only view for locked files, allowing you to easily manage sensitive information directly in Obsidian.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Enthalpiex/Eccirian-Encrypt/stargazers&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;img src=&#34;https://img.shields.io/github/stars/Enthalpiex/Eccirian-Encrypt?style=social&#34;

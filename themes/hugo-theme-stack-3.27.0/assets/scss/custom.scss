@@ -170,35 +170,43 @@ body {
 }
 
 body::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(89, 89, 89, 0.25); // 灰色半透明背景
-  backdrop-filter: blur(6px);
-  -webkit-backdrop-filter: blur(6px);
-  border: 1px solid rgba(255, 255, 255, 0.18);
-  box-shadow: rgba(14, 14, 14, 0.19) 0px 6px 15px 0px;
-  -webkit-box-shadow: rgba(14, 14, 14, 0.19) 0px 6px 15px 0px;
-  z-index: -1;
-}
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  
+    /* 背景渐变增强真实感 */
+    background: linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.15),
+      rgba(255, 255, 255, 0.05)
+    );
+
+    backdrop-filter: blur(7px) saturate(150%) brightness(1.1);
+    -webkit-backdrop-filter: blur(7px) saturate(150%) brightness(1.1);
+  
+    box-shadow: inset 0 0 80px rgba(255, 255, 255, 0.03),
+                inset 0 0 120px rgba(255, 255, 255, 0.02);
+    z-index: -1;
+    pointer-events: none;
+  }
+  
 
 .parallax-bg {
     position: fixed;
-    top: -5%;  // 稍微扩大背景尺寸
-    left: -5%;
-    right: -5%;
-    bottom: -5%;
-    z-index: -2;
-    //background-image: url('https://images.cubox.pro/2y2hvx/file/2024091508204954542/2k.png');
+    top: -10%;  // 向上扩展
+    left: -10%; // 向左扩展
+    width: 120%; // 宽度增加
+    height: 120%; // 高度增加
     background-image: url('/2k.png');
-    background-size: 110% 110%;  // 稍微放大背景
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    pointer-events: none; // 防止干扰页面交互
-    transition: transform 0.1s ease-out;  // 添加平滑过渡效果
+    z-index: -2;
+    pointer-events: none;
+    transition: transform .1s ease-out;
 }
 // 当按钮被隐藏时，确保不会留下空白
 #theme-toggle:not(:visible) {
