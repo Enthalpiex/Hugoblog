@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Universe</title>
+        <link>http://localhost:1313/en/tags/universe/</link>
+        <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/tags/universe/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Software</title>
         <link>http://localhost:1313/en/tags/software/</link>
         <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
@@ -29,14 +37,6 @@
         <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/en/tags/intention/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Universe</title>
-        <link>http://localhost:1313/en/tags/universe/</link>
-        <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/en/tags/universe/</guid>
         <description></description>
         </item>
         <item>
