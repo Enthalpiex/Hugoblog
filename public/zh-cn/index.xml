@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Entropiex</title>
-        <link>http://localhost:8966/zh-cn/</link>
+        <link>http://localhost:1313/zh-cn/</link>
         <description>Recent content on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8966/zh-cn/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>KSP坎巴拉 死亡搁浅风TUFX配置</title>
-        <link>http://localhost:8966/zh-cn/p/ksp%E5%9D%8E%E5%B7%B4%E6%8B%89-%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E9%A3%8Etufx%E9%85%8D%E7%BD%AE/</link>
+        <link>http://localhost:1313/zh-cn/p/ksp%E5%9D%8E%E5%B7%B4%E6%8B%89-%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E9%A3%8Etufx%E9%85%8D%E7%BD%AE/</link>
         <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/ksp%E5%9D%8E%E5%B7%B4%E6%8B%89-%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E9%A3%8Etufx%E9%85%8D%E7%BD%AE/</guid>
-        <description>&lt;img src="http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS_Profile.png" alt="Featured image of post KSP坎巴拉 死亡搁浅风TUFX配置" /&gt;&lt;p&gt;&lt;strong&gt;为坎巴拉太空计划定制的 TUFX 配置文件，灵感源自《死亡搁浅》的独特氛围和电影般的视觉效果。&lt;/strong&gt;&lt;/p&gt;
+        <guid>http://localhost:1313/zh-cn/p/ksp%E5%9D%8E%E5%B7%B4%E6%8B%89-%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E9%A3%8Etufx%E9%85%8D%E7%BD%AE/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS_Profile.png" alt="Featured image of post KSP坎巴拉 死亡搁浅风TUFX配置" /&gt;&lt;p&gt;&lt;strong&gt;为坎巴拉太空计划定制的 TUFX 配置文件，灵感源自《死亡搁浅》的独特氛围和电影般的视觉效果。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Death Stranding TUFX v1 对比 v3。v1倾向于还原暗处氛围，v3为正常使用进行了优化。&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;v1--v3&#34;&gt;v1 &amp;amp; v3
-&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS001.png&#34;
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001.png&#34;
 	width=&#34;1280&#34;
 	height=&#34;799&#34;
-	srcset=&#34;http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS001_hu8508771763504871352.png 480w, http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS001_hu11699194655116227802.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001_hu8508771763504871352.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001_hu11699194655116227802.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -29,10 +29,10 @@
 		data-flex-basis=&#34;384px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS002.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002.png&#34;
 	width=&#34;1280&#34;
 	height=&#34;799&#34;
-	srcset=&#34;http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS002_hu8488390804714595004.png 480w, http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS002_hu11971083799966411472.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002_hu8488390804714595004.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002_hu11971083799966411472.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -41,10 +41,10 @@
 		data-flex-basis=&#34;384px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS003.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003.png&#34;
 	width=&#34;1280&#34;
 	height=&#34;799&#34;
-	srcset=&#34;http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS003_hu17024580859531002336.png 480w, http://localhost:8966/en/p/death-stranding-style-tufx-profiles/DS003_hu8703308419899811116.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003_hu17024580859531002336.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003_hu8703308419899811116.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -73,11 +73,11 @@
         </item>
         <item>
         <title>更好的Obsidian加密插件：Eccirian</title>
-        <link>http://localhost:8966/zh-cn/p/%E6%9B%B4%E5%A5%BD%E7%9A%84obsidian%E5%8A%A0%E5%AF%86%E6%8F%92%E4%BB%B6eccirian/</link>
+        <link>http://localhost:1313/zh-cn/p/%E6%9B%B4%E5%A5%BD%E7%9A%84obsidian%E5%8A%A0%E5%AF%86%E6%8F%92%E4%BB%B6eccirian/</link>
         <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/%E6%9B%B4%E5%A5%BD%E7%9A%84obsidian%E5%8A%A0%E5%AF%86%E6%8F%92%E4%BB%B6eccirian/</guid>
-        <description>&lt;img src="http://localhost:8966/en/p/eccirian-better-encryption-for-obsidian/Eccirian.png" alt="Featured image of post 更好的Obsidian加密插件：Eccirian" /&gt;&lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; 是一个注重安全的 Obsidian 加密插件，支持使用多种基于密码的高级加密方法对文件进行无缝加密和解密。它通过引入自定义文件扩展名和为锁定的文件提供锁定视图，让您得以在Obsidian中处理敏感文件。&lt;/p&gt;
+        <guid>http://localhost:1313/zh-cn/p/%E6%9B%B4%E5%A5%BD%E7%9A%84obsidian%E5%8A%A0%E5%AF%86%E6%8F%92%E4%BB%B6eccirian/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/Eccirian.png" alt="Featured image of post 更好的Obsidian加密插件：Eccirian" /&gt;&lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; 是一个注重安全的 Obsidian 加密插件，支持使用多种基于密码的高级加密方法对文件进行无缝加密和解密。它通过引入自定义文件扩展名和为锁定的文件提供锁定视图，让您得以在Obsidian中处理敏感文件。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; 支持对任何文件进行快速、安全的密码加密。您可以自由选择您的加密方式，并提供完整的读写解密支持。&lt;/p&gt;
 &lt;p&gt;与类似的插件（例如 Meld Encrypt）相比，Eccidian 提供：&lt;/p&gt;
 &lt;ul&gt;
@@ -102,11 +102,11 @@
         </item>
         <item>
         <title>Time Flip Update Logs</title>
-        <link>http://localhost:8966/zh-cn/p/time-flip-update-logs/</link>
+        <link>http://localhost:1313/zh-cn/p/time-flip-update-logs/</link>
         <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/time-flip-update-logs/</guid>
-        <description>&lt;img src="http://localhost:8966/en/p/time-flip-update-logs/Updates.png" alt="Featured image of post Time Flip Update Logs" /&gt;&lt;h2 id=&#34;20240125-v001&#34;&gt;2024.01.25-v0.0.1
+        <guid>http://localhost:1313/zh-cn/p/time-flip-update-logs/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/time-flip-update-logs/Updates.png" alt="Featured image of post Time Flip Update Logs" /&gt;&lt;h2 id=&#34;20240125-v001&#34;&gt;2024.01.25-v0.0.1
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;D.s. α 迁移至Timeflip&lt;/li&gt;
 &lt;li&gt;Obsidian初稿&lt;/li&gt;
@@ -265,10 +265,10 @@
         </item>
         <item>
         <title>关于</title>
-        <link>http://localhost:8966/zh-cn/%E5%85%B3%E4%BA%8E/</link>
+        <link>http://localhost:1313/zh-cn/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>http://localhost:1313/zh-cn/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;&lt;code&gt;“为什么选择这个作为我们的目标？他们可能会问，为什么要攀登最高的山峰？为什么 35 年前要飞越大西洋？为什么赖斯要与德克萨斯队比赛？&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;我们选择登月。&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;我们选择在十年内登月并完成其他任务，不是因为它们很容易，而是因为它们很难，因为这个目标将有助于组织和衡量我们的最佳精力和技能，因为这个挑战是我们愿意接受的，是我们不愿推迟的，是我们打算赢得的，其他的也是如此。”&lt;/code&gt;&lt;/p&gt;
@@ -276,10 +276,10 @@
         </item>
         <item>
         <title>Time Slice, The beginning of everything</title>
-        <link>http://localhost:8966/zh-cn/p/time-slice-the-beginning-of-everything/</link>
+        <link>http://localhost:1313/zh-cn/p/time-slice-the-beginning-of-everything/</link>
         <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/time-slice-the-beginning-of-everything/</guid>
+        <guid>http://localhost:1313/zh-cn/p/time-slice-the-beginning-of-everything/</guid>
         <description>&lt;p&gt;&lt;code&gt;一些完美主义和远视主义的思索&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;生活在静好的岁月里，没有人再会去冒险了。&lt;/p&gt;
 &lt;p&gt;我意识到有时我们必须有一份承诺；
@@ -310,11 +310,11 @@
         </item>
         <item>
         <title>From KSPS</title>
-        <link>http://localhost:8966/zh-cn/p/from-ksps/</link>
+        <link>http://localhost:1313/zh-cn/p/from-ksps/</link>
         <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/from-ksps/</guid>
-        <description>&lt;img src="http://localhost:8966/en/p/from-ksps/KSPS_on_Internet_Achieve.png" alt="Featured image of post From KSPS" /&gt;&lt;p&gt;我们永远不知道意外会何时发生。&lt;/p&gt;
+        <guid>http://localhost:1313/zh-cn/p/from-ksps/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/from-ksps/KSPS_on_Internet_Achieve.png" alt="Featured image of post From KSPS" /&gt;&lt;p&gt;我们永远不知道意外会何时发生。&lt;/p&gt;
 &lt;p&gt;我刚刚得知，持续运行了3年的KSPS不久前被删除了，没有备份。&lt;/p&gt;
 &lt;h1 id=&#34;什么是-ksps&#34;&gt;什么是 KSPS
 &lt;/h1&gt;&lt;a href=&#34;https://web.archive.org/web/20240418034657/http://kerbal.freeflarum.com/&#34; style=&#34;float: right; width: 200px;&#34;&gt;
@@ -326,20 +326,20 @@
         </item>
         <item>
         <title>STOP SYNC</title>
-        <link>http://localhost:8966/zh-cn/p/stop-sync/</link>
+        <link>http://localhost:1313/zh-cn/p/stop-sync/</link>
         <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/stop-sync/</guid>
+        <guid>http://localhost:1313/zh-cn/p/stop-sync/</guid>
         <description>&lt;p&gt;我决定结束中英文内容的同步更新。&lt;/p&gt;
 &lt;p&gt;最新的内容和修改仅会发布在英文页面，如果有空我才会考虑进行同步。&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Starfield?</title>
-        <link>http://localhost:8966/zh-cn/p/starfield/</link>
+        <link>http://localhost:1313/zh-cn/p/starfield/</link>
         <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/starfield/</guid>
+        <guid>http://localhost:1313/zh-cn/p/starfield/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;如果宇宙有其他比人类更发达的文明，我想他们的世界一定是城市整洁无比，建筑棱角分明，地貌改造有明显的人工特色并分出各种不同功能的区域，城市运行依靠强大的中心超算控制。外星人可能长相特别，但是身上会有很多辅助设备，思想会比人类更成熟，逻辑能力更强，并且情绪波动较小，相当于人类科幻世界里的人工智能生命体。或许，这些外星人是该星球的碳基文明消逝后留下的硅基文明遗产，让这些被创造出来服务碳基生物的智能机械成为了新的文明继承者。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -360,10 +360,10 @@
         </item>
         <item>
         <title>Obsidian is Not Enough</title>
-        <link>http://localhost:8966/zh-cn/p/obsidian-is-not-enough/</link>
+        <link>http://localhost:1313/zh-cn/p/obsidian-is-not-enough/</link>
         <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/obsidian-is-not-enough/</guid>
+        <guid>http://localhost:1313/zh-cn/p/obsidian-is-not-enough/</guid>
         <description>&lt;p&gt;可以说这是最糟糕的一个月。尽管DSα最初还不错，但是表格的复杂性和计算的繁琐使花在这个“效率系统”的时间上过多，浪费了大量时间却没有实际成果。自动计算时间的程序并没有什么实际作用，我也没有找到合适的方法总结和处理每天产生的大量数据。&lt;/p&gt;
 &lt;p&gt;在Obsidian上重新构建DSα的确简化了许多内容，但是依然无法解决根本上的问题，即不够直观。表格的局限性和Obsidian思维导图软件的令人唏嘘的功能让我不得不选择其它软件构建这套系统。&lt;/p&gt;
 &lt;p&gt;目前，我正在将其迁移到Simplemind Pro，一款评分不错的思维导图软件。完全自由的构型和节点可以让原先的内容从表格里解放出来，因为最好的选择就是“在一个巨大的平面上显示一切”，所见即所得。&lt;/p&gt;
@@ -371,10 +371,10 @@
         </item>
         <item>
         <title>Brand New - Time Flip</title>
-        <link>http://localhost:8966/zh-cn/p/brand-new-time-flip/</link>
+        <link>http://localhost:1313/zh-cn/p/brand-new-time-flip/</link>
         <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/brand-new-time-flip/</guid>
+        <guid>http://localhost:1313/zh-cn/p/brand-new-time-flip/</guid>
         <description>&lt;p&gt;Directivity system α 已经完成最终版本并封存。Timeflip将所有先前内容重制更新。&lt;/p&gt;
 &lt;p&gt;Directivity system α 是根据最新理论成果进行时间管理的首次尝试，收获了许多数据和经验。Timeflip 是D.s. α 的重置更新版本，以解决其存在的诸多问题，扩大了管理范围，并且在繁琐程度上进行大幅度优化。&lt;/p&gt;
 &lt;h2 id=&#34;theoretical-basis&#34;&gt;Theoretical basis
@@ -439,10 +439,10 @@ Sunday
         </item>
         <item>
         <title>DSα-Final table update-0123</title>
-        <link>http://localhost:8966/zh-cn/p/ds%CE%B1-final-table-update-0123/</link>
+        <link>http://localhost:1313/zh-cn/p/ds%CE%B1-final-table-update-0123/</link>
         <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/ds%CE%B1-final-table-update-0123/</guid>
+        <guid>http://localhost:1313/zh-cn/p/ds%CE%B1-final-table-update-0123/</guid>
         <description>&lt;h2 id=&#34;weekday-result&#34;&gt;Week/Day result
 &lt;/h2&gt;&lt;h3 id=&#34;第一周&#34;&gt;第一周
 &lt;/h3&gt;&lt;table&gt;
@@ -762,10 +762,10 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
         </item>
         <item>
         <title>DSα-update-0109</title>
-        <link>http://localhost:8966/zh-cn/p/ds%CE%B1-update-0109/</link>
+        <link>http://localhost:1313/zh-cn/p/ds%CE%B1-update-0109/</link>
         <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/ds%CE%B1-update-0109/</guid>
+        <guid>http://localhost:1313/zh-cn/p/ds%CE%B1-update-0109/</guid>
         <description>&lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 吃药&lt;/li&gt;
 &lt;li&gt;Jan.9 通过增加显眼提示解决&lt;/li&gt;
@@ -787,10 +787,10 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
         </item>
         <item>
         <title>DSα-update-0108</title>
-        <link>http://localhost:8966/zh-cn/p/ds%CE%B1-update-0108/</link>
+        <link>http://localhost:1313/zh-cn/p/ds%CE%B1-update-0108/</link>
         <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/ds%CE%B1-update-0108/</guid>
+        <guid>http://localhost:1313/zh-cn/p/ds%CE%B1-update-0108/</guid>
         <description>&lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; DirectivityHelper 跨小时计算Bug&lt;/li&gt;
 &lt;li&gt;Jan.8 通过优化代码解决&lt;/li&gt;
@@ -799,10 +799,10 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
         </item>
         <item>
         <title>DSα-update-0106</title>
-        <link>http://localhost:8966/zh-cn/p/ds%CE%B1-update-0106/</link>
+        <link>http://localhost:1313/zh-cn/p/ds%CE%B1-update-0106/</link>
         <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/ds%CE%B1-update-0106/</guid>
+        <guid>http://localhost:1313/zh-cn/p/ds%CE%B1-update-0106/</guid>
         <description>&lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 早晨时间还需要完善&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 表格系统难以使用&lt;/li&gt;
@@ -814,10 +814,10 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
         </item>
         <item>
         <title>DSα-update-0105</title>
-        <link>http://localhost:8966/zh-cn/p/ds%CE%B1-update-0105/</link>
+        <link>http://localhost:1313/zh-cn/p/ds%CE%B1-update-0105/</link>
         <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/ds%CE%B1-update-0105/</guid>
+        <guid>http://localhost:1313/zh-cn/p/ds%CE%B1-update-0105/</guid>
         <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 表格系统不够简洁好用，项目过多，过于复杂&lt;/p&gt;
@@ -836,10 +836,10 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
         </item>
         <item>
         <title>DSα-update-0104</title>
-        <link>http://localhost:8966/zh-cn/p/ds%CE%B1-update-0104/</link>
+        <link>http://localhost:1313/zh-cn/p/ds%CE%B1-update-0104/</link>
         <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/ds%CE%B1-update-0104/</guid>
+        <guid>http://localhost:1313/zh-cn/p/ds%CE%B1-update-0104/</guid>
         <description>&lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 表格数据计算麻烦&lt;/li&gt;
 &lt;li&gt;Jan.4 通过DirectivityHelper解决&lt;/li&gt;
@@ -850,10 +850,10 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
         </item>
         <item>
         <title>Directivity System α</title>
-        <link>http://localhost:8966/zh-cn/p/directivity-system-%CE%B1/</link>
+        <link>http://localhost:1313/zh-cn/p/directivity-system-%CE%B1/</link>
         <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/directivity-system-%CE%B1/</guid>
+        <guid>http://localhost:1313/zh-cn/p/directivity-system-%CE%B1/</guid>
         <description>&lt;p&gt;新的一年有必要做一些新的事，2023的效率研究甚至没有纸面上的进展，效率之低令人称奇。&lt;/p&gt;
 &lt;p&gt;我计划将2022，2023总结和实验的方法以及最新的理论成果结合成可以推动效率提升的系统，所见即是Directivity system。&lt;/p&gt;
 &lt;p&gt;它将基于Obsidian构建，与完整的知识库结合成有效的工作流。&lt;/p&gt;
@@ -991,18 +991,18 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
         </item>
         <item>
         <title>归档</title>
-        <link>http://localhost:8966/zh-cn/archives/</link>
+        <link>http://localhost:1313/zh-cn/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/archives/</guid>
+        <guid>http://localhost:1313/zh-cn/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>链接</title>
-        <link>http://localhost:8966/zh-cn/%E9%93%BE%E6%8E%A5/</link>
+        <link>http://localhost:1313/zh-cn/%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/%E9%93%BE%E6%8E%A5/</guid>
+        <guid>http://localhost:1313/zh-cn/%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -1034,10 +1034,10 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
         </item>
         <item>
         <title>搜索</title>
-        <link>http://localhost:8966/zh-cn/search/</link>
+        <link>http://localhost:1313/zh-cn/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/search/</guid>
+        <guid>http://localhost:1313/zh-cn/search/</guid>
         <description></description>
         </item>
         

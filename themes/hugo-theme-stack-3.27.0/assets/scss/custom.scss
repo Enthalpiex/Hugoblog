@@ -144,9 +144,6 @@
     border-radius: 3px;
 }
 
-// 移除 .timeline-zoom-wheel 相关样式，因为我们不再需要它
-
-// 确保 Back 按钮在滚动时可见
 .timeline-back-button {
     position: sticky;
     bottom: 10px;
@@ -158,7 +155,7 @@
     border: none;
     border-radius: 7px;
     cursor: pointer;
-    transition: background-color 0.3s;
+    transition: background-color 0.7s;
 }
 
 .timeline-back-button:hover {

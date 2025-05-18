@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Entropiex</title>
-        <link>http://localhost:8966/en/tags/</link>
+        <link>http://localhost:1313/en/tags/</link>
         <description>Recent content in Tags on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8966/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Universe</title>
-        <link>http://localhost:8966/en/tags/universe/</link>
+        <link>http://localhost:1313/en/tags/universe/</link>
         <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/tags/universe/</guid>
+        <guid>http://localhost:1313/en/tags/universe/</guid>
         <description></description>
         </item>
         <item>
         <title>Software</title>
-        <link>http://localhost:8966/en/tags/software/</link>
+        <link>http://localhost:1313/en/tags/software/</link>
         <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/tags/software/</guid>
+        <guid>http://localhost:1313/en/tags/software/</guid>
         <description></description>
         </item>
         <item>
         <title>Game_KSP</title>
-        <link>http://localhost:8966/en/tags/game_ksp/</link>
+        <link>http://localhost:1313/en/tags/game_ksp/</link>
         <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/tags/game_ksp/</guid>
+        <guid>http://localhost:1313/en/tags/game_ksp/</guid>
         <description></description>
         </item>
         <item>
         <title>Intention</title>
-        <link>http://localhost:8966/en/tags/intention/</link>
+        <link>http://localhost:1313/en/tags/intention/</link>
         <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/tags/intention/</guid>
+        <guid>http://localhost:1313/en/tags/intention/</guid>
         <description></description>
         </item>
         <item>
         <title>Obsidian</title>
-        <link>http://localhost:8966/en/tags/obsidian/</link>
+        <link>http://localhost:1313/en/tags/obsidian/</link>
         <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/tags/obsidian/</guid>
+        <guid>http://localhost:1313/en/tags/obsidian/</guid>
         <description></description>
         </item>
         <item>
         <title>Plugin</title>
-        <link>http://localhost:8966/en/tags/plugin/</link>
+        <link>http://localhost:1313/en/tags/plugin/</link>
         <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/tags/plugin/</guid>
+        <guid>http://localhost:1313/en/tags/plugin/</guid>
         <description></description>
         </item>
         <item>
         <title>Journal</title>
-        <link>http://localhost:8966/en/tags/journal/</link>
+        <link>http://localhost:1313/en/tags/journal/</link>
         <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/tags/journal/</guid>
+        <guid>http://localhost:1313/en/tags/journal/</guid>
         <description></description>
         </item>
         <item>
         <title>VioletEvergarden</title>
-        <link>http://localhost:8966/en/tags/violetevergarden/</link>
+        <link>http://localhost:1313/en/tags/violetevergarden/</link>
         <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/tags/violetevergarden/</guid>
+        <guid>http://localhost:1313/en/tags/violetevergarden/</guid>
         <description></description>
         </item>
         <item>
         <title>Future</title>
-        <link>http://localhost:8966/en/tags/future/</link>
+        <link>http://localhost:1313/en/tags/future/</link>
         <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/tags/future/</guid>
+        <guid>http://localhost:1313/en/tags/future/</guid>
         <description></description>
         </item>
         <item>
         <title>Electronics</title>
-        <link>http://localhost:8966/en/tags/electronics/</link>
+        <link>http://localhost:1313/en/tags/electronics/</link>
         <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/tags/electronics/</guid>
+        <guid>http://localhost:1313/en/tags/electronics/</guid>
         <description></description>
         </item>
         <item>
         <title>Time_Flip</title>
-        <link>http://localhost:8966/en/tags/time_flip/</link>
+        <link>http://localhost:1313/en/tags/time_flip/</link>
         <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/tags/time_flip/</guid>
+        <guid>http://localhost:1313/en/tags/time_flip/</guid>
         <description></description>
         </item>
         <item>
         <title>StudyNotes</title>
-        <link>http://localhost:8966/en/tags/studynotes/</link>
+        <link>http://localhost:1313/en/tags/studynotes/</link>
         <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/tags/studynotes/</guid>
+        <guid>http://localhost:1313/en/tags/studynotes/</guid>
         <description></description>
         </item>
         <item>
         <title>DSα</title>
-        <link>http://localhost:8966/en/tags/ds%CE%B1/</link>
+        <link>http://localhost:1313/en/tags/ds%CE%B1/</link>
         <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/tags/ds%CE%B1/</guid>
+        <guid>http://localhost:1313/en/tags/ds%CE%B1/</guid>
         <description></description>
         </item>
         <item>
         <title>Excalidraw</title>
-        <link>http://localhost:8966/en/tags/excalidraw/</link>
+        <link>http://localhost:1313/en/tags/excalidraw/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/tags/excalidraw/</guid>
+        <guid>http://localhost:1313/en/tags/excalidraw/</guid>
         <description></description>
         </item>
         

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Software on Entropiex</title>
-        <link>http://localhost:8966/en/tags/software/</link>
+        <link>http://localhost:1313/en/tags/software/</link>
         <description>Recent content in Software on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8966/en/tags/software/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/software/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>HTTrack  vs Cyotek WebCopy</title>
-        <link>http://localhost:8966/en/p/httrack-vs-cyotek-webcopy/</link>
+        <link>http://localhost:1313/en/p/httrack-vs-cyotek-webcopy/</link>
         <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/httrack-vs-cyotek-webcopy/</guid>
+        <guid>http://localhost:1313/en/p/httrack-vs-cyotek-webcopy/</guid>
         <description>&lt;p&gt;I&amp;rsquo;m trying to sort out some blogs that might disappear at any time. I have two options.&lt;/p&gt;
 &lt;p&gt;When it comes to downloading entire websites for offline browsing, HTTrack and Cyotek WebCopy are two of the most well-known tools. They have both been out of update for many years.&lt;/p&gt;
 &lt;p&gt;I had an absolutely terrible experience with Cyotek WebCopy, which seemed to be newer, but somehow downloaded many times slower than HTTrack. The crawler depth setting was too rigid, and if the website structure was too flat (most blogs), there would be some scanning issues.&lt;/p&gt;

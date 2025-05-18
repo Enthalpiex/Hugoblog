@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Daily on Entropiex</title>
-        <link>http://localhost:8966/en/categories/daily/</link>
+        <link>http://localhost:1313/en/categories/daily/</link>
         <description>Recent content in Daily on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8966/en/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>The Boring MBTI System</title>
-        <link>http://localhost:8966/en/p/the-boring-mbti-system/</link>
+        <link>http://localhost:1313/en/p/the-boring-mbti-system/</link>
         <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/the-boring-mbti-system/</guid>
+        <guid>http://localhost:1313/en/p/the-boring-mbti-system/</guid>
         <description>&lt;p&gt;I thought it would be helpful to describe how my attitude towards MBTI has changed over the past few months.&lt;/p&gt;
 &lt;p&gt;While the MBTI framework offers a compelling way to understand personality patterns, it ultimately simplifies the complexity of human behavior into static categories.&lt;/p&gt;
 &lt;p&gt;People are dynamic, and their thoughts, actions, and motivations often shift with context, age, and experience. There are also huge differences between people in their ability and degree to control their thoughts. Therefore the binary system created by MBTI is an extremely simplified system that is easy to understand but is not true.&lt;/p&gt;
@@ -24,11 +24,11 @@
         </item>
         <item>
         <title>Anime Review: Violet Evergarden</title>
-        <link>http://localhost:8966/en/p/anime-review-violet-evergarden/</link>
+        <link>http://localhost:1313/en/p/anime-review-violet-evergarden/</link>
         <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/anime-review-violet-evergarden/</guid>
-        <description>&lt;img src="http://localhost:8966/en/p/anime-review-violet-evergarden/VE4.png" alt="Featured image of post Anime Review: Violet Evergarden" /&gt;&lt;p&gt;I sincerely thank the authors of Kyoto Animation and take this opportunity to remember the lives lost in the fire in 2019.&lt;/p&gt;
+        <guid>http://localhost:1313/en/p/anime-review-violet-evergarden/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/anime-review-violet-evergarden/VE4.png" alt="Featured image of post Anime Review: Violet Evergarden" /&gt;&lt;p&gt;I sincerely thank the authors of Kyoto Animation and take this opportunity to remember the lives lost in the fire in 2019.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Seven years later, Violet has become a classic, and she is a well-deserved legend.&lt;/p&gt;
 &lt;p&gt;Violet is not a real person, but her existence is far more real than many real people. Every time I mention this name, I seem to be standing in front of the red-walled post office that is gradually covered by modern civilization, holding a yellowed letter in my hand, and looking up I can see the half-finished Eiffel Tower and the old times that are gradually fading away.&lt;/p&gt;
@@ -48,10 +48,10 @@
 &lt;p&gt;Violet Evergarden, she is not immortal, she is just an ordinary girl who once survived the war, stained with blood but longing for love. But the places she walked, the letters she wrote, and the people she accompanied, are like the traces of stars falling in the night sky. Although short-lived, no one will forget that in that era when people could only communicate through letters, there was an 18-year-old girl who was fulfilling the mission of conveying love.&lt;/p&gt;
 &lt;p&gt;Her name is,&lt;/p&gt;
 &lt;p&gt;Violet Evergarden&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE1.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE1.png&#34;
 	width=&#34;1961&#34;
 	height=&#34;1576&#34;
-	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE1_hu3384798672046668114.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE1_hu3618903529221464675.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE1_hu3384798672046668114.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE1_hu3618903529221464675.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -60,10 +60,10 @@
 		data-flex-basis=&#34;298px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE2.png&#34;
+&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE2.png&#34;
 	width=&#34;1439&#34;
 	height=&#34;1579&#34;
-	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE2_hu7764445408069516466.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE2_hu22015993762037003.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE2_hu7764445408069516466.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE2_hu22015993762037003.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -72,10 +72,10 @@
 		data-flex-basis=&#34;218px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE3.png&#34;
+&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE3.png&#34;
 	width=&#34;2559&#34;
 	height=&#34;1599&#34;
-	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE3_hu4637438640564553949.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE3_hu7756829593678335906.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE3_hu4637438640564553949.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE3_hu7756829593678335906.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -84,10 +84,10 @@
 		data-flex-basis=&#34;384px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE4.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE4.png&#34;
 	width=&#34;2345&#34;
 	height=&#34;1591&#34;
-	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE4_hu4256582547151342815.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE4_hu7761005294036804722.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE4_hu4256582547151342815.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE4_hu7761005294036804722.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -96,10 +96,10 @@
 		data-flex-basis=&#34;353px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE5.png&#34;
+&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE5.png&#34;
 	width=&#34;2135&#34;
 	height=&#34;1437&#34;
-	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE5_hu2841462924002158650.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE5_hu1780355832472422378.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE5_hu2841462924002158650.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE5_hu1780355832472422378.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -108,10 +108,10 @@
 		data-flex-basis=&#34;356px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE6.png&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE6.png&#34;
 	width=&#34;2559&#34;
 	height=&#34;1426&#34;
-	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE6_hu3428965806267928903.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE6_hu10449913714349487869.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE6_hu3428965806267928903.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE6_hu10449913714349487869.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -120,10 +120,10 @@
 		data-flex-basis=&#34;430px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE7.png&#34;
+&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE7.png&#34;
 	width=&#34;2559&#34;
 	height=&#34;1599&#34;
-	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE7_hu1279682511242504374.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE7_hu14675259388686693963.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE7_hu1279682511242504374.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE7_hu14675259388686693963.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -132,10 +132,10 @@
 		data-flex-basis=&#34;384px&#34;
 	
 &gt;
-&lt;img src=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE8.png&#34;
+&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE8.png&#34;
 	width=&#34;2559&#34;
 	height=&#34;1424&#34;
-	srcset=&#34;http://localhost:8966/en/p/anime-review-violet-evergarden/VE8_hu8639176318667577800.png 480w, http://localhost:8966/en/p/anime-review-violet-evergarden/VE8_hu15555631735356980977.png 1024w&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE8_hu8639176318667577800.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE8_hu15555631735356980977.png 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 	
@@ -148,10 +148,10 @@
         </item>
         <item>
         <title>INTJ: Born Achiever and Loser</title>
-        <link>http://localhost:8966/en/p/intj-born-achiever-and-loser/</link>
+        <link>http://localhost:1313/en/p/intj-born-achiever-and-loser/</link>
         <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/intj-born-achiever-and-loser/</guid>
+        <guid>http://localhost:1313/en/p/intj-born-achiever-and-loser/</guid>
         <description>&lt;h2 id=&#34;pathway-of-an-intj&#34;&gt;Pathway of an INTJ
 &lt;/h2&gt;&lt;h3 id=&#34;lower-stage&#34;&gt;Lower stage
 &lt;/h3&gt;&lt;p&gt;In the lower stage, the INTJ usually presents as a being weaker than ordinary people. They have extraordinary self-confidence and arrogance, look down on everything, are introverted, like to think about problems but often dare not really be independent, their grades cannot crush their classmates, they have not carried out large-scale learning and self-discipline, and their thoughts are not objective, materialistic, and practical. They have no ability to counteract these huge side effects of being an INTJ.&lt;/p&gt;
@@ -181,11 +181,11 @@
         </item>
         <item>
         <title>ASI 2030</title>
-        <link>http://localhost:8966/en/p/asi-2030/</link>
+        <link>http://localhost:1313/en/p/asi-2030/</link>
         <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/asi-2030/</guid>
-        <description>&lt;img src="http://localhost:8966/en/p/asi-2030/RSI-NewBabbage.png" alt="Featured image of post ASI 2030" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
+        <guid>http://localhost:1313/en/p/asi-2030/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/asi-2030/RSI-NewBabbage.png" alt="Featured image of post ASI 2030" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
 &lt;/h2&gt;&lt;p&gt;This is an interesting speculation.&lt;/p&gt;
 &lt;p&gt;If AGI/ASI is truly one of the biggest changes in human history, then it’s important to know the worst-case scenario. If they do come to pass, it will be a darker future than Cyberpunk.&lt;/p&gt;
 &lt;h3 id=&#34;technology-evolution-timeline&#34;&gt;Technology Evolution Timeline
@@ -215,10 +215,10 @@
         </item>
         <item>
         <title>Occam&#39;s Razor and Bayesianism</title>
-        <link>http://localhost:8966/en/p/occams-razor-and-bayesianism/</link>
+        <link>http://localhost:1313/en/p/occams-razor-and-bayesianism/</link>
         <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/occams-razor-and-bayesianism/</guid>
+        <guid>http://localhost:1313/en/p/occams-razor-and-bayesianism/</guid>
         <description>&lt;p&gt;In simple models and complex models, as long as the simple model is consistent with the results, its confidence is much higher than that of the complex model. When this gap is infinitely magnified by multiple parameters, from the perspective of Bayesian probability, the simple model is either directly rejected, but as long as it can roughly match the experimental data, it is better than the complex model.&lt;/p&gt;
 &lt;p&gt;This includes 2 parts:&lt;/p&gt;
 &lt;h3 id=&#34;occams-razor-and-bayesianism&#34;&gt;Occam&amp;rsquo;s Razor and Bayesianism
@@ -245,10 +245,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>World Trends and Crisis Study</title>
-        <link>http://localhost:8966/en/p/world-trends-and-crisis-study/</link>
+        <link>http://localhost:1313/en/p/world-trends-and-crisis-study/</link>
         <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/world-trends-and-crisis-study/</guid>
+        <guid>http://localhost:1313/en/p/world-trends-and-crisis-study/</guid>
         <description>&lt;p&gt;I have been looking for the future direction recently, so I studied the development of the past few decades.&lt;/p&gt;
 &lt;p&gt;From 1950 to 2025, a significant economic crisis or major economic adjustment occurs approximately every 10 years. During this period, the global economy has undergone an evolution from post-war reconstruction, technological innovation, market-oriented reforms to informatization and globalization.&lt;/p&gt;
 &lt;h2 id=&#34;1-1950s-postwar-reconstruction-and-economic-prosperity&#34;&gt;1. 1950s: Postwar reconstruction and economic prosperity
@@ -271,11 +271,11 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Embedded Systems Engineering</title>
-        <link>http://localhost:8966/en/p/embedded-systems-engineering/</link>
+        <link>http://localhost:1313/en/p/embedded-systems-engineering/</link>
         <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/embedded-systems-engineering/</guid>
-        <description>&lt;img src="http://localhost:8966/en/p/embedded-systems-engineering/Embedded%20Systems%20Engineering%20Roadmap.png" alt="Featured image of post Embedded Systems Engineering" /&gt;&lt;p&gt;Hardware is hard? Then go for it!&lt;/p&gt;
+        <guid>http://localhost:1313/en/p/embedded-systems-engineering/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/embedded-systems-engineering/Embedded%20Systems%20Engineering%20Roadmap.png" alt="Featured image of post Embedded Systems Engineering" /&gt;&lt;p&gt;Hardware is hard? Then go for it!&lt;/p&gt;
 &lt;p&gt;In early 2025, I did some research about future opportunities, and seems like AI can replace most single-ability people in a not far future. The block chain technology and models led by transformers are now a large market and are still expanding. Unfortunately, just like the Internet boom, the best time has passed, so I need to find something still useful in future, and I realized that the combination of hardware and software that embedded development provide is one of the strongest ability I have seen.&lt;/p&gt;
 &lt;p&gt;Until AI can directly control the real world, micro-quantum computers appear, and brain-computer interfaces have the ability to inherit memory, embedded development will always exist - because all current electronic industry are built on the basis of embedded development. The decline of embedded means the rise of a new generation of computers with non-von Neumann architecture.&lt;/p&gt;
 &lt;p&gt;Computer Science alone is too boring for me. For this reason, in 2025 I decided to start learning everything about embedded development. This will be another new starting point after I acquire the ability to design for additive manufacturing.&lt;/p&gt;
@@ -284,10 +284,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Future</title>
-        <link>http://localhost:8966/en/p/future/</link>
+        <link>http://localhost:1313/en/p/future/</link>
         <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/future/</guid>
+        <guid>http://localhost:1313/en/p/future/</guid>
         <description>&lt;p&gt;It&amp;rsquo;s January again! Happy new year to you all guys!&lt;/p&gt;
 &lt;p&gt;Today&amp;rsquo;s electronic products are thinner and lighter than before, but they are still very heavy, especially those laptops with good performance that weigh more than one kilogram. Today’s quantum computers are larger and heavier than traditional computers—they are housed in specific rooms and run.&lt;/p&gt;
 &lt;p&gt;This prompts us to ask: what kinds of products could define the future? Can we experience the same level of excitement as we did with groundbreaking releases like the MacBook or the iPhone X?&lt;/p&gt;
@@ -300,10 +300,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Journal 1</title>
-        <link>http://localhost:8966/en/p/journal-1/</link>
+        <link>http://localhost:1313/en/p/journal-1/</link>
         <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/journal-1/</guid>
+        <guid>http://localhost:1313/en/p/journal-1/</guid>
         <description>&lt;p&gt;Per Aspera Ad Astra, which refers &amp;ldquo;Through suffering to the stars&amp;rdquo;. The specific object of suffering here is still a mystery to me, but it may be a little clearer now.&lt;/p&gt;
 &lt;p&gt;My favorite Chinese translation of this sentence is &amp;ldquo;历尽艰辛，终抵群星&amp;rdquo; (After going through all the hardships, one will finally reach the stars). The brilliance of the second half is easy to understand, but the first half is too vague. What is suffering refers to? Make the right choice at the right time, sacrifice the minor to save the major in critical moment, doing things that are useful but painful, or trying to force progress when motivation is weak?&lt;/p&gt;
 &lt;p&gt;Isolate pain may be a great method to avoid it influence the motivation and energy, but what’s interesting is that the isolation method itself also consumes energy. Is this a loss-making exercise or a way to save the greater good?&lt;/p&gt;
@@ -312,10 +312,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>What Makes Action Hard?</title>
-        <link>http://localhost:8966/en/p/what-makes-action-hard/</link>
+        <link>http://localhost:1313/en/p/what-makes-action-hard/</link>
         <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/what-makes-action-hard/</guid>
+        <guid>http://localhost:1313/en/p/what-makes-action-hard/</guid>
         <description>&lt;h2 id=&#34;hard-to-start&#34;&gt;Hard to start?
 &lt;/h2&gt;&lt;p&gt;I find that many times I can’t start something because there is so much resistance that stops me. Since this I decided to find reasons out and trying to avoid it.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m curious that where is the resistance comes from, and why it appears. Instead, I find following majority reasons, and I listed some solutions or examples I had now.&lt;/p&gt;
@@ -358,10 +358,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Applying and Learning</title>
-        <link>http://localhost:8966/en/p/applying-and-learning/</link>
+        <link>http://localhost:1313/en/p/applying-and-learning/</link>
         <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/applying-and-learning/</guid>
+        <guid>http://localhost:1313/en/p/applying-and-learning/</guid>
         <description>&lt;p&gt;When I do some review of my past life, it&amp;rsquo;s pretty easy to find that I spend more time on learning, but not applying. Is this because I&amp;rsquo;m still a student, or I&amp;rsquo;m good at applying? It&amp;rsquo;s hard to find out the answer immediately.&lt;/p&gt;
 &lt;p&gt;I think this could state for two possible reasons:&lt;/p&gt;
 &lt;ol&gt;
@@ -378,11 +378,11 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Advance! Advance Regardless Any Cost and Consequences!</title>
-        <link>http://localhost:8966/en/p/advance-advance-regardless-any-cost-and-consequences/</link>
+        <link>http://localhost:1313/en/p/advance-advance-regardless-any-cost-and-consequences/</link>
         <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/advance-advance-regardless-any-cost-and-consequences/</guid>
-        <description>&lt;img src="http://localhost:8966/en/p/advance-advance-regardless-any-cost-and-consequences/Kelvin%20Aerospace%20Laboratory.excalidraw.png" alt="Featured image of post Advance! Advance Regardless Any Cost and Consequences!" /&gt;&lt;blockquote&gt;
+        <guid>http://localhost:1313/en/p/advance-advance-regardless-any-cost-and-consequences/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/advance-advance-regardless-any-cost-and-consequences/Kelvin%20Aerospace%20Laboratory.excalidraw.png" alt="Featured image of post Advance! Advance Regardless Any Cost and Consequences!" /&gt;&lt;blockquote&gt;
 &lt;p&gt;We have to advance! Advance regardless any cost and consequences! No matter how difficult it is, no matter how painful the road is, we must move forward.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
@@ -392,10 +392,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Prior Probability of Life</title>
-        <link>http://localhost:8966/en/p/prior-probability-of-life/</link>
+        <link>http://localhost:1313/en/p/prior-probability-of-life/</link>
         <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/prior-probability-of-life/</guid>
+        <guid>http://localhost:1313/en/p/prior-probability-of-life/</guid>
         <description>&lt;p&gt;Today is the last day of September. Looking back, this month has passed very quickly and I have learned a lot. The most important thing is to establish the White Room system, and thinking about the life.&lt;/p&gt;
 &lt;p&gt;According to Bayesian theory, life should also consist of prior probability and posterior probability. Being alive and healthy constitutes the prior probability, while thoughts and actions constitute the posterior probability. When all conditions are met, it is the road to victory.&lt;/p&gt;
 &lt;p&gt;For the coming month, I decided to finish my high school physics content and improve my English, everything will be checked on my birthday.&lt;/p&gt;
@@ -404,10 +404,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>New things Todo</title>
-        <link>http://localhost:8966/en/p/new-things-todo/</link>
+        <link>http://localhost:1313/en/p/new-things-todo/</link>
         <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/new-things-todo/</guid>
+        <guid>http://localhost:1313/en/p/new-things-todo/</guid>
         <description>&lt;p&gt;These are things to do next few days:&lt;/p&gt;
 &lt;h5 id=&#34;0-create-review-sheet-for-all-school-courses&#34;&gt;0. Create review sheet for all school courses
 &lt;/h5&gt;&lt;h5 id=&#34;1-update-time-flip-210&#34;&gt;1. Update Time Flip 2.1.0
@@ -421,10 +421,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Time Slice, The beginning of everything</title>
-        <link>http://localhost:8966/en/p/time-slice-the-beginning-of-everything/</link>
+        <link>http://localhost:1313/en/p/time-slice-the-beginning-of-everything/</link>
         <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/time-slice-the-beginning-of-everything/</guid>
+        <guid>http://localhost:1313/en/p/time-slice-the-beginning-of-everything/</guid>
         <description>&lt;p&gt;&lt;code&gt;Some thoughts on perfectionism and farsightedness&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Some thoughts on perfectionism and farsightedness&lt;/p&gt;
 &lt;p&gt;Living in the peaceful years, no one will take risks anymore.&lt;/p&gt;
@@ -438,10 +438,10 @@ If new evidence contradicts the initial assumption, the doctor revises their bel
         </item>
         <item>
         <title>Starfield?</title>
-        <link>http://localhost:8966/en/p/starfield/</link>
+        <link>http://localhost:1313/en/p/starfield/</link>
         <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/en/p/starfield/</guid>
+        <guid>http://localhost:1313/en/p/starfield/</guid>
         <description>&lt;blockquote&gt;
 &lt;p&gt;If there are other civilizations in the universe that are more developed than humans, I think their world must be extremely neat and tidy cities, with sharp buildings, obvious artificial features in landform transformation and various functional areas, and the operation of the city depends on powerful central supercomputer control. Aliens may look special, but they will have a lot of auxiliary equipment on their bodies, their thoughts will be more mature than humans, their logical ability will be stronger, and their emotions will fluctuate less, which is equivalent to the artificial intelligence life form in the human science fiction world. Perhaps these aliens are the silicon-based civilization heritage left behind after the disappearance of the carbon-based civilization of the planet, making these intelligent machines created to serve carbon-based creatures the new heirs of civilization.&lt;/p&gt;
 &lt;/blockquote&gt;

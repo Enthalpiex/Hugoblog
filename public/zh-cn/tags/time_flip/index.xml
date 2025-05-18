@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Time_Flip on Entropiex</title>
-        <link>http://localhost:8966/zh-cn/tags/time_flip/</link>
+        <link>http://localhost:1313/zh-cn/tags/time_flip/</link>
         <description>Recent content in Time_Flip on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8966/zh-cn/tags/time_flip/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/time_flip/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Time Flip Update Logs</title>
-        <link>http://localhost:8966/zh-cn/p/time-flip-update-logs/</link>
+        <link>http://localhost:1313/zh-cn/p/time-flip-update-logs/</link>
         <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/time-flip-update-logs/</guid>
-        <description>&lt;img src="http://localhost:8966/en/p/time-flip-update-logs/Updates.png" alt="Featured image of post Time Flip Update Logs" /&gt;&lt;h2 id=&#34;20240125-v001&#34;&gt;2024.01.25-v0.0.1
+        <guid>http://localhost:1313/zh-cn/p/time-flip-update-logs/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/time-flip-update-logs/Updates.png" alt="Featured image of post Time Flip Update Logs" /&gt;&lt;h2 id=&#34;20240125-v001&#34;&gt;2024.01.25-v0.0.1
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;D.s. α 迁移至Timeflip&lt;/li&gt;
 &lt;li&gt;Obsidian初稿&lt;/li&gt;
@@ -172,10 +172,10 @@
         </item>
         <item>
         <title>Obsidian is Not Enough</title>
-        <link>http://localhost:8966/zh-cn/p/obsidian-is-not-enough/</link>
+        <link>http://localhost:1313/zh-cn/p/obsidian-is-not-enough/</link>
         <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/obsidian-is-not-enough/</guid>
+        <guid>http://localhost:1313/zh-cn/p/obsidian-is-not-enough/</guid>
         <description>&lt;p&gt;可以说这是最糟糕的一个月。尽管DSα最初还不错，但是表格的复杂性和计算的繁琐使花在这个“效率系统”的时间上过多，浪费了大量时间却没有实际成果。自动计算时间的程序并没有什么实际作用，我也没有找到合适的方法总结和处理每天产生的大量数据。&lt;/p&gt;
 &lt;p&gt;在Obsidian上重新构建DSα的确简化了许多内容，但是依然无法解决根本上的问题，即不够直观。表格的局限性和Obsidian思维导图软件的令人唏嘘的功能让我不得不选择其它软件构建这套系统。&lt;/p&gt;
 &lt;p&gt;目前，我正在将其迁移到Simplemind Pro，一款评分不错的思维导图软件。完全自由的构型和节点可以让原先的内容从表格里解放出来，因为最好的选择就是“在一个巨大的平面上显示一切”，所见即所得。&lt;/p&gt;
@@ -183,10 +183,10 @@
         </item>
         <item>
         <title>Brand New - Time Flip</title>
-        <link>http://localhost:8966/zh-cn/p/brand-new-time-flip/</link>
+        <link>http://localhost:1313/zh-cn/p/brand-new-time-flip/</link>
         <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/brand-new-time-flip/</guid>
+        <guid>http://localhost:1313/zh-cn/p/brand-new-time-flip/</guid>
         <description>&lt;p&gt;Directivity system α 已经完成最终版本并封存。Timeflip将所有先前内容重制更新。&lt;/p&gt;
 &lt;p&gt;Directivity system α 是根据最新理论成果进行时间管理的首次尝试，收获了许多数据和经验。Timeflip 是D.s. α 的重置更新版本，以解决其存在的诸多问题，扩大了管理范围，并且在繁琐程度上进行大幅度优化。&lt;/p&gt;
 &lt;h2 id=&#34;theoretical-basis&#34;&gt;Theoretical basis

@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Entropiex</title>
-        <link>http://localhost:8966/zh-cn/tags/</link>
+        <link>http://localhost:1313/zh-cn/tags/</link>
         <description>Recent content in Tags on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8966/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Game_KSP</title>
-        <link>http://localhost:8966/zh-cn/tags/game_ksp/</link>
+        <link>http://localhost:1313/zh-cn/tags/game_ksp/</link>
         <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/tags/game_ksp/</guid>
+        <guid>http://localhost:1313/zh-cn/tags/game_ksp/</guid>
         <description></description>
         </item>
         <item>
         <title>Obsidian</title>
-        <link>http://localhost:8966/zh-cn/tags/obsidian/</link>
+        <link>http://localhost:1313/zh-cn/tags/obsidian/</link>
         <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/tags/obsidian/</guid>
+        <guid>http://localhost:1313/zh-cn/tags/obsidian/</guid>
         <description></description>
         </item>
         <item>
         <title>Plugin</title>
-        <link>http://localhost:8966/zh-cn/tags/plugin/</link>
+        <link>http://localhost:1313/zh-cn/tags/plugin/</link>
         <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/tags/plugin/</guid>
+        <guid>http://localhost:1313/zh-cn/tags/plugin/</guid>
         <description></description>
         </item>
         <item>
         <title>Time_Flip</title>
-        <link>http://localhost:8966/zh-cn/tags/time_flip/</link>
+        <link>http://localhost:1313/zh-cn/tags/time_flip/</link>
         <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/tags/time_flip/</guid>
+        <guid>http://localhost:1313/zh-cn/tags/time_flip/</guid>
         <description></description>
         </item>
         <item>
         <title>KSPS</title>
-        <link>http://localhost:8966/zh-cn/tags/ksps/</link>
+        <link>http://localhost:1313/zh-cn/tags/ksps/</link>
         <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/tags/ksps/</guid>
+        <guid>http://localhost:1313/zh-cn/tags/ksps/</guid>
         <description></description>
         </item>
         <item>
         <title>DSα</title>
-        <link>http://localhost:8966/zh-cn/tags/ds%CE%B1/</link>
+        <link>http://localhost:1313/zh-cn/tags/ds%CE%B1/</link>
         <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/tags/ds%CE%B1/</guid>
+        <guid>http://localhost:1313/zh-cn/tags/ds%CE%B1/</guid>
         <description></description>
         </item>
         

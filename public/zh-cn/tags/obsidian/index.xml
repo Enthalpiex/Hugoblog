@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Obsidian on Entropiex</title>
-        <link>http://localhost:8966/zh-cn/tags/obsidian/</link>
+        <link>http://localhost:1313/zh-cn/tags/obsidian/</link>
         <description>Recent content in Obsidian on Entropiex</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:8966/zh-cn/tags/obsidian/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/obsidian/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>更好的Obsidian加密插件：Eccirian</title>
-        <link>http://localhost:8966/zh-cn/p/%E6%9B%B4%E5%A5%BD%E7%9A%84obsidian%E5%8A%A0%E5%AF%86%E6%8F%92%E4%BB%B6eccirian/</link>
+        <link>http://localhost:1313/zh-cn/p/%E6%9B%B4%E5%A5%BD%E7%9A%84obsidian%E5%8A%A0%E5%AF%86%E6%8F%92%E4%BB%B6eccirian/</link>
         <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:8966/zh-cn/p/%E6%9B%B4%E5%A5%BD%E7%9A%84obsidian%E5%8A%A0%E5%AF%86%E6%8F%92%E4%BB%B6eccirian/</guid>
-        <description>&lt;img src="http://localhost:8966/en/p/eccirian-better-encryption-for-obsidian/Eccirian.png" alt="Featured image of post 更好的Obsidian加密插件：Eccirian" /&gt;&lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; 是一个注重安全的 Obsidian 加密插件，支持使用多种基于密码的高级加密方法对文件进行无缝加密和解密。它通过引入自定义文件扩展名和为锁定的文件提供锁定视图，让您得以在Obsidian中处理敏感文件。&lt;/p&gt;
+        <guid>http://localhost:1313/zh-cn/p/%E6%9B%B4%E5%A5%BD%E7%9A%84obsidian%E5%8A%A0%E5%AF%86%E6%8F%92%E4%BB%B6eccirian/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/Eccirian.png" alt="Featured image of post 更好的Obsidian加密插件：Eccirian" /&gt;&lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; 是一个注重安全的 Obsidian 加密插件，支持使用多种基于密码的高级加密方法对文件进行无缝加密和解密。它通过引入自定义文件扩展名和为锁定的文件提供锁定视图，让您得以在Obsidian中处理敏感文件。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; 支持对任何文件进行快速、安全的密码加密。您可以自由选择您的加密方式，并提供完整的读写解密支持。&lt;/p&gt;
 &lt;p&gt;与类似的插件（例如 Meld Encrypt）相比，Eccidian 提供：&lt;/p&gt;
 &lt;ul&gt;

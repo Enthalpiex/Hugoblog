@@ -1,0 +1,31 @@
+<div class="contribution-calendar">
+    <h3>贡献日历</h3>
+    <div class="calendar-grid">
+        {{ $posts := where .Site.RegularPages "Type" "in" (slice "post") }}
+        {{ $dates := slice }}
+        {{ range $posts }}
+            {{ $dates = $dates | append (dateFormat "2006-01-02" .Date) }}
+        {{ end }}
+        
+        {{ $now := now }}
+        {{ $startDate := $now.AddDate 0 -6 0 }}
+        
+        {{ range $i := seq 0 6 }}
+            <div class="calendar-row">
+                {{ range $j := seq 0 6 }}
+                    {{ $date := $startDate.AddDate 0 0 (add (mul $i 7) $j) }}
+                    {{ $dateStr := dateFormat "2006-01-02" $date }}
+                    {{ $hasPost := false }}
+                    {{ range $dates }}
+                        {{ if eq . $dateStr }}
+                            {{ $hasPost = true }}
+                        {{ end }}
+                    {{ end }}
+                    <div class="calendar-cell {{ if $hasPost }}has-post{{ end }}" 
+                         title="{{ $dateStr }}">
+                    </div>
+                {{ end }}
+            </div>
+        {{ end }}
+    </div>
+</div>
