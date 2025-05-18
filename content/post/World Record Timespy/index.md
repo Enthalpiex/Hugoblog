@@ -7,6 +7,7 @@ image: WR_1.png
 categories:
   - Plugin & Software
 math: true
+toc: false
 tags:
   - electronics
 ---
