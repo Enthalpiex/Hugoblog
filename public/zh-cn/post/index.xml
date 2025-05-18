@@ -7,7 +7,100 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>KSP坎巴拉 死亡搁浅风TUFX配置</title>
+        <link>http://localhost:1313/zh-cn/p/ksp%E5%9D%8E%E5%B7%B4%E6%8B%89-%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E9%A3%8Etufx%E9%85%8D%E7%BD%AE/</link>
+        <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/zh-cn/p/ksp%E5%9D%8E%E5%B7%B4%E6%8B%89-%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E9%A3%8Etufx%E9%85%8D%E7%BD%AE/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS_Profile.png" alt="Featured image of post KSP坎巴拉 死亡搁浅风TUFX配置" /&gt;&lt;p&gt;&lt;strong&gt;为坎巴拉太空计划定制的 TUFX 配置文件，灵感源自《死亡搁浅》的独特氛围和电影般的视觉效果。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Death Stranding TUFX v1 对比 v3。v1倾向于还原暗处氛围，v3为正常使用进行了优化。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;v1--v3&#34;&gt;v1 &amp;amp; v3
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001.png&#34;
+	width=&#34;1280&#34;
+	height=&#34;799&#34;
+	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001_hu8508771763504871352.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001_hu11699194655116227802.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002.png&#34;
+	width=&#34;1280&#34;
+	height=&#34;799&#34;
+	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002_hu8488390804714595004.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002_hu11971083799966411472.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003.png&#34;
+	width=&#34;1280&#34;
+	height=&#34;799&#34;
+	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003_hu17024580859531002336.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003_hu8703308419899811116.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video
+&lt;/h1&gt;&lt;div style=&#34;position:relative;height:0;overflow:hidden;padding-bottom:56.25%;border-style:none&#34;&gt;&lt;iframe style=&#34;position:absolute;top:0;left:0;width:100%;height:100%&#34; src=&#34;https://www.youtube.com/embed/d49b_XRJzfc?modestbranding=1&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;简短的视频&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;安装&#34;&gt;安装
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Enthalpiex/DeathStranding-TUFX-KSP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Download: Enthalpiex/DeathStranding-TUFX-KSP&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;下载“release”下的文件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解压缩至Gamedata&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>更好的Obsidian加密插件：Eccirian</title>
+        <link>http://localhost:1313/zh-cn/p/%E6%9B%B4%E5%A5%BD%E7%9A%84obsidian%E5%8A%A0%E5%AF%86%E6%8F%92%E4%BB%B6eccirian/</link>
+        <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/zh-cn/p/%E6%9B%B4%E5%A5%BD%E7%9A%84obsidian%E5%8A%A0%E5%AF%86%E6%8F%92%E4%BB%B6eccirian/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/Eccirian.png" alt="Featured image of post 更好的Obsidian加密插件：Eccirian" /&gt;&lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; 是一个注重安全的 Obsidian 加密插件，支持使用多种基于密码的高级加密方法对文件进行无缝加密和解密。它通过引入自定义文件扩展名和为锁定的文件提供锁定视图，让您得以在Obsidian中处理敏感文件。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; 支持对任何文件进行快速、安全的密码加密。您可以自由选择您的加密方式，并提供完整的读写解密支持。&lt;/p&gt;
+&lt;p&gt;与类似的插件（例如 Meld Encrypt）相比，Eccidian 提供：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;更低的性能需求&lt;/strong&gt; - 加密和解密即时进行，无明显延迟和割裂。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;更美观&lt;/strong&gt; - 您不会像使用Meld Encrypt一样看到解密时闪出的加密JSON。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可选复合加密方法&lt;/strong&gt; - 对称/非对称加密。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;广泛的文件类型支持 -&lt;/strong&gt; 一键加密/解密任何文件类型，不仅仅是&lt;code&gt;.md&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;灵活的模式切换&lt;/strong&gt; - 临时或永久加密。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;完全兼容悬停预览&lt;/strong&gt; - 您不会像使用Meld Encrypt一样不时被弹出窗口骚扰。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可自定义的锁定页面&lt;/strong&gt; - 个性化锁定视图消息和外观。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;关于 Eccirian 的安全性：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;解密&lt;/strong&gt;：对于任何永久加密文件，除非您允许，否则它们永远不会自动解密到硬盘上。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;密码管理&lt;/strong&gt;：您的密码不会以任何方式存储在硬盘上。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;盐保护&lt;/strong&gt;：每次加密都有独特的盐，可防止彩虹表攻击。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;插件在 Github 上发布了先导版本 ， 目前正在接受社区插件审核 ，因此尚未在官方插件商店中发布。全新的预览版以及正式版将在审核后立即更新。&lt;/p&gt;
+&lt;p&gt;先导版本只有单次加密功能，建议等待全新版本发布后再下载。&lt;/p&gt;
+&lt;p&gt;跟踪：&lt;code&gt;github.com/Enthalpiex/Eccirian-Encrypt&lt;/code&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Time Flip Update Logs</title>
         <link>http://localhost:1313/zh-cn/p/time-flip-update-logs/</link>
         <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
@@ -199,13 +292,9 @@
 在四位世界里，三维的一切相形见绌，因此只要控制时间维度，所有问题都将迎刃而解，原本困难的问题变得轻而易举。&lt;/p&gt;
 &lt;p&gt;时间被设置成单向的，红移不会停止，熵增不会结束。
 锁死流向的时间大大减少了操作空间，但是它仅仅被锁死了方向，因此通过改变流速和效率依然可以一定上程度进行弥补。
-这是时间切片，一种全新的时间管理方式：
-它将真正描述这个四维空间。&lt;/p&gt;
+这是时间切片，一种全新的时间管理方式： 它将真正描述这个四维空间。&lt;/p&gt;
 &lt;p&gt;让回忆成为享受，而不是遗憾。
-唯一的承诺，贯穿整个四维空间：
-一定要改变世界，让它变得更好。
-财富，知识，能力，让人类更加伟大。
-从现在开始，构建属于自己的White Room。&lt;/p&gt;
+让时间留下足迹，而非裂痕。&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -240,8 +329,7 @@
         <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/zh-cn/p/starfield/</guid>
-        <description>&lt;p&gt;在b站上看到一个有趣的评论，原文如下：&lt;/p&gt;
-&lt;blockquote&gt;
+        <description>&lt;blockquote&gt;
 &lt;p&gt;如果宇宙有其他比人类更发达的文明，我想他们的世界一定是城市整洁无比，建筑棱角分明，地貌改造有明显的人工特色并分出各种不同功能的区域，城市运行依靠强大的中心超算控制。外星人可能长相特别，但是身上会有很多辅助设备，思想会比人类更成熟，逻辑能力更强，并且情绪波动较小，相当于人类科幻世界里的人工智能生命体。或许，这些外星人是该星球的碳基文明消逝后留下的硅基文明遗产，让这些被创造出来服务碳基生物的智能机械成为了新的文明继承者。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
@@ -888,350 +976,6 @@ Work栏需要放置成果内容，或者能体现成果的链接/照片，如果
 &lt;p&gt;&lt;strong&gt;All: 1831.56H (21983bar)&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;january&#34;&gt;January
-&lt;/h3&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Month&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Things&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Completion Degree&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real Time&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real CD&lt;/strong&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Jan.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Course&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;44.76H (537.12bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;18% of total&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;DIS&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;15H (180bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;5%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Maths 10&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;10H (120bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;100%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;IELTS 7.5&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;115H (1380bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;29%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;C#&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;40H (480bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;17%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Exercise&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;12H (144bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;/&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Violin&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8H (96bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8.33%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;GOS&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;4H (48bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;/&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;ALL&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;248.76H (2985.2bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;100.00%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;february&#34;&gt;February
-&lt;/h3&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Month&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Things&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Completion Degree&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real CD&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real Time&lt;/strong&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Feb.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Course&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;15% of total&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;45.45H (545.34bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;DIS&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;5%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;15H (180bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Maths 10&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;24H (288bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;IELTS 7.5&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;30%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;90H (1080bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;C#&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;10%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;30H (360bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Modeling&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;3%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;10H (120bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;AMC&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;13%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;40H (480bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Exercise&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;24H (288bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Violin&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;3%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8H (96bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Gaming&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;5%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;16H (192bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;ALL&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;100%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;302.45H (3629.4bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Month&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Things&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Completion Degree&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real Time&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real CD&lt;/strong&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Feb.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Mar.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Apr.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;May.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Jun.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Jul.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Aug.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Sep.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Oct.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Nov.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Dec.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1 id=&#34;directivity-sys-testing-lab-dstl&#34;&gt;Directivity sys testing lab (DSTL)
-&lt;/h1&gt;&lt;h2 id=&#34;extream-efficiency-test&#34;&gt;EXTREAM EFFICIENCY TEST
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;旨在探索效率的极限&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;测试项目&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;自变量&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;因变量&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;测试周期&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;记录&lt;/strong&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;睡眠&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;入睡时间&lt;br&gt;入睡是否洗澡&lt;br&gt;入睡是否泡澡&lt;br&gt;入睡是否看书&lt;br&gt;入睡是否背单词&lt;br&gt;入睡是否喝牛奶&lt;br&gt;起床时间&lt;br&gt;晚上是否关闭窗帘&lt;br&gt;起床是否直接外出&lt;br&gt;起床是否直接洗漱&lt;br&gt;起床是否洗澡&lt;br&gt;&lt;del&gt;起床是否直接看电子产品&lt;/del&gt;&lt;br&gt;起床是否背单词&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;睡眠质量&lt;br&gt;睡眠是否充足&lt;br&gt;睡眠期间是否苏醒&lt;br&gt;精力是否充沛&lt;br&gt;效率是否更高&lt;br&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;休息&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;休息时间&lt;br&gt;休息是否外出&lt;br&gt;休息是否去公园&lt;br&gt;休息是否洗脸&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;是否感到疲劳&lt;br&gt;状态是否有所提升&lt;br&gt;是否有利于下一工作的专注&lt;br&gt;长休息是否是必要的&lt;br&gt;间隙休息是否是必要的&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;娱乐&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;社交媒体是否对效率产生影响&lt;br&gt;视频是否对效率产生影响&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;是否更加专注&lt;br&gt;是否更容易进入Flow状态&lt;br&gt;对于计算类任务是否更快速&lt;br&gt;是否有利于GPU处理任务&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;工作&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;专注工作的时间极限&lt;br&gt;Flow状态的进入和保持&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;专注的极限&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
 </description>
         </item>
         

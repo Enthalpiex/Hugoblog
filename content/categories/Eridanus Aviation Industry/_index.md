@@ -4,6 +4,6 @@ description: Fantastic Eridanus!
 slug: EAI
 image: ERIDANUS_4K_V4.png
 style:
-  background: "#cc5433ff"
+  background: "#cc5433"
   color: "#fff"
 ---

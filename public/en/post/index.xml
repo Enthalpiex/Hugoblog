@@ -7,7 +7,1433 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Entropiex</copyright>
-        <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>HTTrack  vs Cyotek WebCopy</title>
+        <link>http://localhost:1313/en/p/httrack-vs-cyotek-webcopy/</link>
+        <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/httrack-vs-cyotek-webcopy/</guid>
+        <description>&lt;p&gt;When it comes to downloading entire websites for offline browsing, HTTrack and Cyotek WebCopy are two of the most well-known tools. They have both been out of update for many years.&lt;/p&gt;
+&lt;p&gt;Unfortunately, we don&amp;rsquo;t have a replacement.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Feature&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;HTTrack&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Cyotek WebCopy&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;First Released&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1998&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2013&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Last Update&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2017&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Open Source&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Yes (GPL licensed)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;No&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Platform&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Windows, Linux, macOS (via Wine)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Windows only&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;User Interface&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Outdated, functional&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Clean&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Custom URL Include/Exclude&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Powerful (wildcards, filters)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Available, but harder to configure&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Login Form Support&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Manual cookie handling required&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Basic form-based login supported&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Speed &amp;amp; Connection Control&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Highly customizable&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Minimal options&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Command Line Support&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Full command-line interface&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;GUI only&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Export/Import Configurations&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Supports &lt;code&gt;.opt&lt;/code&gt; files&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;No configuration export&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Speed&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Faster (configurable parallelism)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Slower (fewer threads)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;However, neither tool supports JavaScript-rendered sites very well. We really need new website downloading tools - not these two decades-old antiques that continue to work.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Death Stranding Style TUFX Profiles</title>
+        <link>http://localhost:1313/en/p/death-stranding-style-tufx-profiles/</link>
+        <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/death-stranding-style-tufx-profiles/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS_Profile.png" alt="Featured image of post Death Stranding Style TUFX Profiles" /&gt;&lt;p&gt;&lt;strong&gt;This is a custom TUFX profile for Kerbal Space Program, inspired by the haunting atmosphere and cinematic visuals of Death Stranding.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;v1 and v3 provide two different preferences. v1 tends to restore the dark atmosphere, and v3 is optimized for normal use.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;v1--v3&#34;&gt;v1 &amp;amp; v3
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001.png&#34;
+	width=&#34;1280&#34;
+	height=&#34;799&#34;
+	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001_hu8508771763504871352.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001_hu11699194655116227802.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002.png&#34;
+	width=&#34;1280&#34;
+	height=&#34;799&#34;
+	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002_hu8488390804714595004.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002_hu11971083799966411472.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003.png&#34;
+	width=&#34;1280&#34;
+	height=&#34;799&#34;
+	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003_hu17024580859531002336.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003_hu8703308419899811116.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video
+&lt;/h1&gt;&lt;div style=&#34;position:relative;height:0;overflow:hidden;padding-bottom:56.25%;border-style:none&#34;&gt;&lt;iframe style=&#34;position:absolute;top:0;left:0;width:100%;height:100%&#34; src=&#34;https://www.youtube.com/embed/d49b_XRJzfc?modestbranding=1&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;A short video here. Enjoy.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;install&#34;&gt;Install
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Enthalpiex/DeathStranding-TUFX-KSP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Download: Enthalpiex/DeathStranding-TUFX-KSP&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Download release file&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Unzip to Gamedata&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Shadow People in MWI</title>
+        <link>http://localhost:1313/en/p/shadow-people-in-mwi/</link>
+        <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/shadow-people-in-mwi/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/shadow-people-in-mwi/SP04.png" alt="Featured image of post Shadow People in MWI" /&gt;&lt;h1 id=&#34;occupancy&#34;&gt;Occupancy
+&lt;/h1&gt;&lt;p&gt;Based on what was discussed previously, 99.99999% of world-lines are empty.&lt;/p&gt;
+&lt;p&gt;This means that most of the world lines that consciousness experiences are simply filled with other people, animals, and things that have no consciousness. These people and animals are called &amp;ldquo;shadows&amp;rdquo; or &amp;ldquo;shadow people&amp;rdquo; because while they appear to move and think, they have no consciousness. They are projections of consciousness, and their main consciousness is somewhere else. They are the &amp;ldquo;what ifs&amp;rdquo; of the action and the landscape that your consciousness interacts with.&lt;/p&gt;
+&lt;p&gt;To visualize:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP01.png&#34;
+	width=&#34;1481&#34;
+	height=&#34;907&#34;
+	srcset=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP01_hu5420347526888610304.png 480w, http://localhost:1313/en/p/shadow-people-in-mwi/SP01_hu768608016969762198.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;163&#34;
+		data-flex-basis=&#34;391px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;However, this is a simplification. In reality, all the “shadow people” possess a consciousness. This explains why the thoughts of those around you affect your MWI navigation.&lt;/p&gt;
+&lt;p&gt;There is some small percentage of a consciousness within every shadow entity. It’s just that the percentage is very tiny.&lt;/p&gt;
+&lt;p&gt;Each of the infinite lines of the world has consciousness running through it. Not just other people&amp;rsquo;s, but yours as well. It&amp;rsquo;s an almost insignificant amount. Your consciousness dominates all other consciousnesses in the world line.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP02.png&#34;
+	width=&#34;1470&#34;
+	height=&#34;907&#34;
+	srcset=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP02_hu6270824401990344126.png 480w, http://localhost:1313/en/p/shadow-people-in-mwi/SP02_hu11807164326870309934.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;162&#34;
+		data-flex-basis=&#34;388px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;some-explanations&#34;&gt;Some explanations
+&lt;/h1&gt;&lt;p&gt;In quantum physics, when two quanta meet, they become entangled.&lt;/p&gt;
+&lt;p&gt;And in the realm outside of our reality; the one that contains all the near-infinite numbers of world-lines, there isn’t any time or space. It’s a region with no geometry. So everything can entangle in a quantum sense.&lt;/p&gt;
+&lt;p&gt;This means there is no world-lines are independent. They are all connected to each other.&lt;/p&gt;
+&lt;p&gt;What is actually happening is that clusters of world-lines entangle with other clusters of world-lines. They do this when ever a consciousness is injected into a world-line template.&lt;/p&gt;
+&lt;p&gt;And all of this entanglement puts a little infinitesimal part of you, and those around you near you in what ever world-line that your consciousness happens to occupy at that moment.&lt;/p&gt;
+&lt;p&gt;Of course, there are other factors at play. Injecting consciousness into a template does not mean that the entire infinite number of world lines are entangled. The effect will &amp;ldquo;fade out,&amp;rdquo; or diminish as the variance increases.&lt;/p&gt;
+&lt;p&gt;It will resemble something like:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP03.png&#34;
+	width=&#34;1380&#34;
+	height=&#34;844&#34;
+	srcset=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP03_hu17913142846821959025.png 480w, http://localhost:1313/en/p/shadow-people-in-mwi/SP03_hu2347925595697008656.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;163&#34;
+		data-flex-basis=&#34;392px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The ability of a consciousness to entangle with “close proximity” world-lines happens automatically. However, the ability for the entangled world-lines to entangle with other world-lines drops off as the degree of variance increases.&lt;/p&gt;
+&lt;p&gt;Consider that this is happening for the billions upon billions of people that are entering and leaving our template surface. Each one is “making their marks”. All combine to provide some “foot print” of their present upon the template that you inhabit.&lt;/p&gt;
+&lt;h1 id=&#34;paradox&#34;&gt;Paradox
+&lt;/h1&gt;&lt;p&gt;Assuming that everyone was 100% fully conscious in their bodies, and that the mind controlled our reality, our reality would probably become a very confusing, ever-changing mess of reality. Reality will also change as quickly and irrationally as dreams.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP04.png&#34;
+	width=&#34;1381&#34;
+	height=&#34;862&#34;
+	srcset=&#34;http://localhost:1313/en/p/shadow-people-in-mwi/SP04_hu15001734789719588085.png 480w, http://localhost:1313/en/p/shadow-people-in-mwi/SP04_hu10667407055326606553.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;If a person&amp;rsquo;s consciousness is the dominant consciousness in the world line he lives in, it means that his thoughts are also the dominant thoughts in the world line.&lt;/p&gt;
+&lt;p&gt;By controlling and directing thoughts, we can not only control our navigation, but our influence in the strong quantum entanglements of “near-by” (but untraveled) world-lines means that we have the potential to influence the trends and behaviors of the environment around us.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Eccirian: Better Encryption for Obsidian</title>
+        <link>http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/</link>
+        <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/eccirian-better-encryption-for-obsidian/Eccirian.png" alt="Featured image of post Eccirian: Better Encryption for Obsidian" /&gt;&lt;p&gt;&lt;strong&gt;Eccirian&lt;/strong&gt; is a security-focused Obsidian encryption plugin that supports seamless encryption and decryption of files using multiple advanced password-based encryption methods.&lt;/p&gt;
+&lt;p&gt;It introduces a custom &lt;code&gt;.eccirian&lt;/code&gt; file extension and provides a unique read-only view for locked files, allowing you to easily manage sensitive information directly in Obsidian.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Enthalpiex/Eccirian-Encrypt/stargazers&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://img.shields.io/github/stars/Enthalpiex/Eccirian-Encrypt?style=social&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Stars&#34;
+	
+	
+&gt;&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/Enthalpiex/Eccirian-Encrypt/releases&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://img.shields.io/github/v/release/Enthalpiex/Eccirian-Encrypt?include_prereleases&amp;amp;label=release&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Release&#34;
+	
+	
+&gt;&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/Enthalpiex/Eccirian-Encrypt/issues&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://img.shields.io/github/issues/Enthalpiex/Eccirian-Encrypt&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Issues&#34;
+	
+	
+&gt;&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/Enthalpiex/Eccirian-Encrypt/blob/main/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://img.shields.io/github/license/Enthalpiex/Eccirian-Encrypt&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;License&#34;
+	
+	
+&gt;&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://github.com/Enthalpiex/Eccirian-Encrypt/commits/main&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://img.shields.io/github/last-commit/Enthalpiex/Eccirian-Encrypt&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Last Commit&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🔁 One-click encryption and decryption of &lt;code&gt;.md&lt;/code&gt; files (or any other types) into &lt;code&gt;.eccirian&lt;/code&gt;, and vice versa.&lt;/li&gt;
+&lt;li&gt;🔒 AES-256-CGM and ECC-P-256 based password encryption.&lt;/li&gt;
+&lt;li&gt;📄 Custom &lt;code&gt;eccirian-view&lt;/code&gt; that shows a locked message instead of the default editor.&lt;/li&gt;
+&lt;li&gt;🧷 Files remain read-only until unlocked via user input.&lt;/li&gt;
+&lt;li&gt;⚙️ UI and control panel support.&lt;/li&gt;
+&lt;li&gt;📦 Modular architecture for maintainability and expansion.pansion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;installation&#34;&gt;Installation
+&lt;/h2&gt;&lt;h3 id=&#34;method-1-under-review-official-community-release&#34;&gt;Method 1. (Under review) Official Community Release
+&lt;/h3&gt;&lt;p&gt;To be published to the Obsidian Community Plugin Marketplace.&lt;/p&gt;
+&lt;p&gt;You can clone the current repository to try it out first, but please do not update before the official release - the encryption logic may &lt;strong&gt;change&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;method-2-release-file&#34;&gt;Method 2. Release File
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Download &amp;amp; extract&lt;/strong&gt; the release.&lt;/li&gt;
+&lt;li&gt;Move the files into your Obsidian vault&amp;rsquo;s plugin directory:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;your-vault&amp;gt;/.obsidian/plugins/eccirian-encrypt/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Open Obsidian:
+&lt;ul&gt;
+&lt;li&gt;Go to &lt;strong&gt;Settings → Community Plugins&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Enable &lt;strong&gt;Eccirian Encrypt&lt;/strong&gt; from the list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;usage&#34;&gt;Usage
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Open any file.&lt;/li&gt;
+&lt;li&gt;Run the &lt;code&gt;Encrypt/Decrypt Note&lt;/code&gt; command from the Command Palette (&lt;code&gt;Ctrl+P&lt;/code&gt;) or click left icon.&lt;/li&gt;
+&lt;li&gt;Enter a password to encrypt or decrypt.&lt;/li&gt;
+&lt;li&gt;Encrypted files will be renamed to &lt;code&gt;.eccirian&lt;/code&gt; and shown as locked views.&lt;/li&gt;
+&lt;li&gt;Click “Unlock” and enter the password to decrypt and return to edit mode.&lt;/li&gt;
+&lt;li&gt;Decrypted notes will automatically be renamed back to &lt;code&gt;.md&lt;/code&gt; (or origional namme).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;security-notes&#34;&gt;Security Notes
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Do not use it to store critical secrets. The developer is not responsible for any loss of content.&lt;/li&gt;
+&lt;li&gt;The password you set will not be stored in any way, if you forget the password you will lose your file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;license&#34;&gt;License
+&lt;/h2&gt;&lt;p&gt;MPL-2.0 License © 2025 Entropiex&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>False Positives in MWI Navigation</title>
+        <link>http://localhost:1313/en/p/false-positives-in-mwi-navigation/</link>
+        <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/false-positives-in-mwi-navigation/</guid>
+        <description>&lt;p&gt;One thing that can be pretty common in an intention campaign is the presence of “false positives”.&lt;/p&gt;
+&lt;p&gt;False positives are events or things that appear to match your verbal affirmations in substance, but have some glaring defect that makes them unusable.&lt;/p&gt;
+&lt;p&gt;Like ripples in a pond, a target object or situation can often create “ghost” or “echo” images. These items are not necessarily exactly what you are striving for. Though, it might (truthfully) be exactly what you are asking for.&lt;/p&gt;
+&lt;p&gt;For example, if the navigation goal is &amp;ldquo;live in a brand new white room, eat whatever you want, close to the sea&amp;rdquo;, the target reality may be:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You live in a brand new seaside prison, but the food there is good&lt;/li&gt;
+&lt;li&gt;You become a sailor and spend most of your time in a white cabin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Of course, it is not impossible to become a food tycoon and live in a seaside villa. But if no restrictions are set, the navigation direction will be towards the world line that is closest and most likely.&lt;/p&gt;
+&lt;p&gt;A false positive is that you have become a food industry tycoon and live in a beachfront villa, but&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your villa is very humid, and the sea breeze causes water and salt to cover the walls&lt;/li&gt;
+&lt;li&gt;The shrinking food industry has caused you to be heavily in debt&lt;/li&gt;
+&lt;li&gt;There is no beach at the beach, and there are strong winds and huge waves all year round&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At this point, the goal seems to have been achieved, but there are many problems. At this time, you need to make a course correction and make necessary adjustments to some details. The good news is that a false positive means that you have reached the world line cluster where the goal is located. By modifying the content of the Affirmation and spending more time, reality will get closer to the goal:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The house is comfortable&lt;/li&gt;
+&lt;li&gt;The climate here is pleasant&lt;/li&gt;
+&lt;li&gt;The industry is booming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally, time passes, and you get where you want to go.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>The Boring MBTI System</title>
+        <link>http://localhost:1313/en/p/the-boring-mbti-system/</link>
+        <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/the-boring-mbti-system/</guid>
+        <description>&lt;p&gt;I thought it would be helpful to describe how my attitude towards MBTI has changed over the past few months.&lt;/p&gt;
+&lt;p&gt;While the MBTI framework offers a compelling way to understand personality patterns, it ultimately simplifies the complexity of human behavior into static categories.&lt;/p&gt;
+&lt;p&gt;People are dynamic, and their thoughts, actions, and motivations often shift with context, age, and experience. There are also huge differences between people in their ability and degree to control their thoughts. Therefore the binary system created by MBTI is an extremely simplified system that is easy to understand but is not true.&lt;/p&gt;
+&lt;p&gt;I think we must take into account the complexity of the system and try to conduct research in a more fitting way. Classification will inevitably lead to bias, and this bias in the MBTI system has the probability of stereotyping people.&lt;/p&gt;
+&lt;p&gt;The limitations of the MBTI are already quite obvious, and it is clear that it constrains many people, both in terms of behavior and potential. I tend to believe that individuals are unique and special, and trying to describe all individuals using 16 types is a very simplified and easy to understand way, which is what makes it so popular, but it does not represent its accuracy.&lt;/p&gt;
+&lt;p&gt;People always want something to be fixed, but reality is often dynamic. It is understandable that seeking to fix reality is a lazy behavior, and this is also true for psychological research.&lt;/p&gt;
+&lt;p&gt;This is a good example of individual peculiarity.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Anime Review: Violet Evergarden</title>
+        <link>http://localhost:1313/en/p/anime-review-violet-evergarden/</link>
+        <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/anime-review-violet-evergarden/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/anime-review-violet-evergarden/VE4.png" alt="Featured image of post Anime Review: Violet Evergarden" /&gt;&lt;p&gt;I sincerely thank the authors of Kyoto Animation and take this opportunity to remember the lives lost in the fire in 2019.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Seven years later, Violet has become a classic, and she is a well-deserved legend.&lt;/p&gt;
+&lt;p&gt;Violet is not a real person, but her existence is far more real than many real people. Every time I mention this name, I seem to be standing in front of the red-walled post office that is gradually covered by modern civilization, holding a yellowed letter in my hand, and looking up I can see the half-finished Eiffel Tower and the old times that are gradually fading away.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;May your heart be conveyed.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;This is Violet&amp;rsquo;s lifelong wish - she wants to be a person who can &amp;ldquo;transmit love.&amp;rdquo; We find it difficult to accept her departure because she is as familiar as a family member, as close as a friend, and as warm as light. We believe that she is the legendary doll who once lived in this world, and appreciate her aristocratic behavior. We are happy that she can use a knife and fork skillfully, sad that she wants to strangle herself when she learns that the major is missing, amazed by her light footsteps on the lake, and moved by her saying without exception that &amp;ldquo;there is no letter that does not need to be delivered&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;I rarely rate anime characters as &amp;ldquo;great&amp;rdquo;, but Violet is a truly great character.&lt;/p&gt;
+&lt;p&gt;However, the character who was still accompanying us viewers not long ago, the gentle and powerful, powerful and sad person, is already a century of history. Her story is rarely known, and her figure is already the purple ink on a special stamp.&lt;/p&gt;
+&lt;p&gt;After her, there is no more Auto-Memory Doll.&lt;/p&gt;
+&lt;p&gt;It is a legend of the times.&lt;/p&gt;
+&lt;p&gt;We know this is a fictional story but are unwilling to admit it, we know this is a utopian obsession but are unwilling to give up, just like the line in Violet Evergarden: &amp;ldquo;You know it&amp;rsquo;s not real? But you feel like you are there, sometimes happy, sometimes sad, why? Because you resonate with the protagonist in the story!&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The memory of civilization is essentially the urns of millions of Violet Evergarden, and we all live in the embers after she burned.&lt;/p&gt;
+&lt;p&gt;We saw Violet holding up an umbrella and becoming the girl stepping lightly on the lake, but we consciously ignored her gorgeous clothes that got soaked a few seconds later.&lt;/p&gt;
+&lt;p&gt;Violet is not a god, nor is she a tool, but a person as her name suggests. She turned the burning fire of karma into a mission to convey love.&lt;/p&gt;
+&lt;p&gt;We all know that she is fictional, but we all want to believe that she really existed. We all look forward to walking into that world one day, seeing the cottage by the sea, seeing scattered letters, hearing the sound of typewriters and metal prostheses, and perhaps we will gently say: &amp;ldquo;Thank you, Violet.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;The reason why she is &amp;ldquo;great&amp;rdquo; is that she represents the ultimate purity of an emotion, a power that still lives towards the light in loss and pain.&lt;/p&gt;
+&lt;p&gt;People can come out of pain and become a more gentle existence; people can learn slowly through letters when they don&amp;rsquo;t know what love is.&lt;/p&gt;
+&lt;p&gt;Violet Evergarden, she is not immortal, she is just an ordinary girl who once survived the war, stained with blood but longing for love. But the places she walked, the letters she wrote, and the people she accompanied, are like the traces of stars falling in the night sky. Although short-lived, no one will forget that in that era when people could only communicate through letters, there was an 18-year-old girl who was fulfilling the mission of conveying love.&lt;/p&gt;
+&lt;p&gt;Her name is,&lt;/p&gt;
+&lt;p&gt;Violet Evergarden&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE1.png&#34;
+	width=&#34;1961&#34;
+	height=&#34;1576&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE1_hu3384798672046668114.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE1_hu3618903529221464675.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;124&#34;
+		data-flex-basis=&#34;298px&#34;
+	
+&gt;
+&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE2.png&#34;
+	width=&#34;1439&#34;
+	height=&#34;1579&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE2_hu7764445408069516466.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE2_hu22015993762037003.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;91&#34;
+		data-flex-basis=&#34;218px&#34;
+	
+&gt;
+&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE3.png&#34;
+	width=&#34;2559&#34;
+	height=&#34;1599&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE3_hu4637438640564553949.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE3_hu7756829593678335906.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE4.png&#34;
+	width=&#34;2345&#34;
+	height=&#34;1591&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE4_hu4256582547151342815.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE4_hu7761005294036804722.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;147&#34;
+		data-flex-basis=&#34;353px&#34;
+	
+&gt;
+&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE5.png&#34;
+	width=&#34;2135&#34;
+	height=&#34;1437&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE5_hu2841462924002158650.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE5_hu1780355832472422378.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;148&#34;
+		data-flex-basis=&#34;356px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE6.png&#34;
+	width=&#34;2559&#34;
+	height=&#34;1426&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE6_hu3428965806267928903.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE6_hu10449913714349487869.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;179&#34;
+		data-flex-basis=&#34;430px&#34;
+	
+&gt;
+&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE7.png&#34;
+	width=&#34;2559&#34;
+	height=&#34;1599&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE7_hu1279682511242504374.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE7_hu14675259388686693963.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;
+&lt;img src=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE8.png&#34;
+	width=&#34;2559&#34;
+	height=&#34;1424&#34;
+	srcset=&#34;http://localhost:1313/en/p/anime-review-violet-evergarden/VE8_hu8639176318667577800.png 480w, http://localhost:1313/en/p/anime-review-violet-evergarden/VE8_hu15555631735356980977.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;179&#34;
+		data-flex-basis=&#34;431px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Intention &amp; Navigation in MWI</title>
+        <link>http://localhost:1313/en/p/intention-navigation-in-mwi/</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/intention-navigation-in-mwi/</guid>
+        <description>&lt;p&gt;Released on April 1st, take it or not.&lt;/p&gt;
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h1&gt;&lt;p&gt;Our thoughts control our reality. So if we want to live a “much improved” life, in whatever way we choose, we can manifest it. By understanding the way the universe works, the nature of consciousness, and the role thought has, you can pick and choose world-line destinations.&lt;/p&gt;
+&lt;p&gt;This means that you can direct your consciousness into the craziest, most complex worldline situations you can think of.&lt;/p&gt;
+&lt;p&gt;The only problem is that it takes time to manifest through world lines. The more outrageous the intention and desire, the farther the target world line is, and the more world boundaries your consciousness needs to pass through.&lt;/p&gt;
+&lt;p&gt;So to obtain the reality we want to inhabit, whatever that is, we need to develop a plan to make that happen. We need to navigate our consciousness through adjacent realities in order to eventually reach our final destination.&lt;/p&gt;
+&lt;h1 id=&#34;fundamentals&#34;&gt;Fundamentals
+&lt;/h1&gt;&lt;p&gt;To be able to do this, we need:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A map, plan, or schedule of where we want to go.&lt;/li&gt;
+&lt;li&gt;Mastery of our thoughts.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;planning---a-map&#34;&gt;Planning - A Map
+&lt;/h2&gt;&lt;p&gt;There are always surprises when doing many things, no matter how big or small. The difficulty of a project is sometimes not well anticipated, and the same is true for world line navigation. Unless you are careful, the reality you live in may have all kinds of surprises. There, it is prudent for you to be careful and concerned when drawing the destination world line.&lt;/p&gt;
+&lt;p&gt;In the following scenario,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You are currently in worldline reality &amp;ldquo;A&amp;rdquo;. It is shown in green.&lt;/li&gt;
+&lt;li&gt;You eventually want to reach a new reality &amp;ldquo;B&amp;rdquo;. It is shown in gold.&lt;/li&gt;
+&lt;li&gt;There are two paths marked. One is yellow and one is black.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/intention-navigation-in-mwi/WLT01.png&#34;
+	width=&#34;1024&#34;
+	height=&#34;454&#34;
+	srcset=&#34;http://localhost:1313/en/p/intention-navigation-in-mwi/WLT01_hu10057260270872582613.png 480w, http://localhost:1313/en/p/intention-navigation-in-mwi/WLT01_hu10171643358266991402.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;225&#34;
+		data-flex-basis=&#34;541px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The yellow path is the most direct path. It will require fewer adjacent realities to pass through. The black path is the preferred path. It will take longer, because you will need to pass through more adjacent realities to get to it.&lt;/p&gt;
+&lt;p&gt;The reason that you want to take the black path over the yellow path is so that you can avoid those problematic realities. They are shown in grey. These realities will bring you turmoil and pain.&lt;/p&gt;
+&lt;p&gt;Therefore, when planning, there are a number of factors you need to be absolutely sure of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A destination lifestyle. Clear and easy to visualize. It must be very detailed. There must be no ambiguity in it what so ever.&lt;/li&gt;
+&lt;li&gt;Incorporate elements that will guarantee avoidance of problematic adjacent realities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;mastery-of-our-thoughts&#34;&gt;Mastery of our thoughts
+&lt;/h2&gt;&lt;p&gt;The key is to navigate the map we create above, which is often difficult to do because we need to control our thoughts, and modern life does not allow this. All the “fake news,” every ad you see, and all the thoughts of everyone around you influence your thinking.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s easy to see that if you want to make your planned end destination a reality, you&amp;rsquo;re going to need to shut down those bad thought streams. That means breaking some long-formed habits.&lt;/p&gt;
+&lt;h2 id=&#34;intention&#34;&gt; Intention
+&lt;/h2&gt;&lt;p&gt;Prayer, directed thought, and focus are all great tools, as are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;A visualization creation&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create a listing of what you want&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pray / visualize&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Make a point to alert against bad realities&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Also note that the resulting reality will not be exact. It will be very close to what you want, but you won&amp;rsquo;t be able to specify exact people and exact locations, nor a very constructive level of detail. If you focus on your baseline wishes and desires, the rest will automatically fill in. Of course, it will get more and more accurate over time.&lt;/p&gt;
+&lt;h2 id=&#34;release&#34;&gt;Release
+&lt;/h2&gt;&lt;p&gt;Contrary to what many people believe, this requires a period of forced inactivity. Resting, not doing anything, not even thinking about these goals.&lt;/p&gt;
+&lt;p&gt;Unfortunately, without this period of stagnation, nothing would happen. After you wind up the car, you can&amp;rsquo;t let it go until it moves forward. If you wind it up all the time, it will stay where it is.&lt;/p&gt;
+&lt;p&gt;The variables that will influence the timing of reality manifestation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How different and “far out” your goal is from your current reality.&lt;/li&gt;
+&lt;li&gt;The thoughts and habits that you currently have.&lt;/li&gt;
+&lt;li&gt;The thoughts of those around you, especially those of family members.&lt;/li&gt;
+&lt;li&gt;The discipline that you have in doing all of this to make your new world-line realized.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;why-avoid-the-news&#34;&gt;Why avoid the news
+&lt;/h2&gt;&lt;p&gt;Once you start browsing MWI using personal intention, you’ll start to realize that all the news isn’t for you. It’s like wallpaper, it doesn’t affect your life in any way other than to scare you and make you cower in fear.&lt;/p&gt;
+&lt;h2 id=&#34;vocalize-it-loud&#34;&gt;Vocalize it loud
+&lt;/h2&gt;&lt;p&gt;Why does this matter? And why do you need to say things out loud? Why not just think things instead?&lt;/p&gt;
+&lt;p&gt;As consciousness moves across world lines, it switches between wave and particle form. Your thoughts occur while you are in wave form, and through vocalization you can act while you are in particle form. Vocalization not only helps direct and focus the mind, but it is also the easiest action to take, which greatly speeds up goal achievement.&lt;/p&gt;
+&lt;p&gt;Of course, there are many other methods, using image boards, acting, pretending, and creating scenes. Physical action must be accompanied by directed thought to manifest, and vocalization satisfies this condition.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Law of Attraction Under MWI</title>
+        <link>http://localhost:1313/en/p/law-of-attraction-under-mwi/</link>
+        <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/law-of-attraction-under-mwi/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/law-of-attraction-under-mwi/Law-of-Attraction.png" alt="Featured image of post Law of Attraction Under MWI" /&gt;&lt;p&gt;In the MWI framework, every possible self you may become and every possible fate you may experience already &amp;ldquo;exists&amp;rdquo; in the universe, but they belong to different branching world lines.&lt;/p&gt;
+&lt;p&gt;Therefore, in the process of entering and exiting world lines, through the control of thoughts, we can select and strengthen the path weights of certain world lines, so that life experience tends towards those realities.&lt;/p&gt;
+&lt;p&gt;Every thought, emotion, intention, and belief is a &amp;ldquo;offset&amp;rdquo; operation on a certain world line. It all starts from the moment consciousness comes into the world.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Positive, confident, and determined thinking → makes you more likely to move towards a world with positive results;&lt;/li&gt;
+&lt;li&gt;Fear, doubt, and self-denial → make you biased towards the branch with low probability and negative results;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This also means that when you decide to start taking control of your thoughts, you first need to face the thoughts you have had for decades, which have shaped your reality today.&lt;/p&gt;
+&lt;p&gt;Since consciousness actually moves in and out of different world lines, we can see that thoughts not only choose/create reality, thoughts are reality.&lt;/p&gt;
+&lt;p&gt;Because our thoughts determine what world-lines we enter into. So if we are thinking wonderful thoughts, and are calm, and direct our energy into wonderful things, our life would be wonderful.&lt;/p&gt;
+&lt;p&gt;But if we surround ourselves with negative thoughts, manipulative news, and people. If we are reacting to events instead of manifesting them, or if we hold grudges and evil negative thoughts, then our world experiences will become progressively darker.&lt;/p&gt;
+&lt;p&gt;Thoughts create memories, and memories influence thoughts.&lt;/p&gt;
+&lt;p&gt;A poverty stricken beggar might yearn for a reality where he has a warm meal and a roof over his head from the rain. While a wealthy oligarch might yearn for forbidden activities, and serendipitous pursuits.&lt;/p&gt;
+&lt;p&gt;This difference is due to their experiences, which are shaped by their memories.&lt;/p&gt;
+&lt;p&gt;People discovered this phenomenon and named it the Law of Attraction. In fact, directed thoughts determine their reality.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Ever Stranding</title>
+        <link>http://localhost:1313/en/p/ever-stranding/</link>
+        <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/ever-stranding/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/ever-stranding/es2t.png" alt="Featured image of post Ever Stranding" /&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Once, there was an explosion.&lt;/strong&gt;&lt;br&gt;
+A bang which gave birth to time and space.&lt;br&gt;
+&lt;strong&gt;Once, there was an explosion.&lt;/strong&gt;&lt;br&gt;
+A bang which set our world spinning.&lt;br&gt;
+&lt;strong&gt;And then, came the next explosion.&lt;/strong&gt;&lt;br&gt;
+An explosion that will be our last.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Once, there was a silence.&lt;/strong&gt;&lt;br&gt;
+A rift where death bled into life.&lt;br&gt;
+&lt;strong&gt;Once, there was a fall.&lt;/strong&gt;&lt;br&gt;
+Of cities, of bonds, of time untied.&lt;br&gt;
+&lt;strong&gt;And then, came the walking man.&lt;/strong&gt;&lt;br&gt;
+With ghosts behind and hope ahead.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Once, there was a choice.&lt;/strong&gt;&lt;br&gt;
+To break, or bind, to flee, or find.&lt;br&gt;
+&lt;strong&gt;Once, there was a bridge.&lt;/strong&gt;&lt;br&gt;
+Built not of stone, but heart and mind.&lt;br&gt;
+&lt;strong&gt;And then, came the final thread.&lt;/strong&gt;&lt;br&gt;
+One soul, walking where angels dread.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Once, there was an explosion.&lt;/strong&gt;&lt;br&gt;
+Ever stranding. Ever becoming.&lt;br&gt;
+The rope is the hope.&lt;br&gt;
+And we are the bridge.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/ever-stranding/es1.png&#34;
+	width=&#34;1052&#34;
+	height=&#34;1403&#34;
+	srcset=&#34;http://localhost:1313/en/p/ever-stranding/es1_hu3297045237482349425.png 480w, http://localhost:1313/en/p/ever-stranding/es1_hu16237655274331770228.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;74&#34;
+		data-flex-basis=&#34;179px&#34;
+	
+&gt;
+&lt;img src=&#34;http://localhost:1313/en/p/ever-stranding/es3.png&#34;
+	width=&#34;1052&#34;
+	height=&#34;451&#34;
+	srcset=&#34;http://localhost:1313/en/p/ever-stranding/es3_hu10027866545705190210.png 480w, http://localhost:1313/en/p/ever-stranding/es3_hu17941314396631290999.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;233&#34;
+		data-flex-basis=&#34;559px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/ever-stranding/es4.png&#34;
+	width=&#34;1052&#34;
+	height=&#34;1402&#34;
+	srcset=&#34;http://localhost:1313/en/p/ever-stranding/es4_hu8007754652569526260.png 480w, http://localhost:1313/en/p/ever-stranding/es4_hu16047462826451662020.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;75&#34;
+		data-flex-basis=&#34;180px&#34;
+	
+&gt;
+&lt;img src=&#34;http://localhost:1313/en/p/ever-stranding/es5.png&#34;
+	width=&#34;1052&#34;
+	height=&#34;451&#34;
+	srcset=&#34;http://localhost:1313/en/p/ever-stranding/es5_hu565709361442386705.png 480w, http://localhost:1313/en/p/ever-stranding/es5_hu3579916145926142339.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;233&#34;
+		data-flex-basis=&#34;559px&#34;
+	
+&gt;&lt;img src=&#34;http://localhost:1313/en/p/ever-stranding/es6.png&#34;
+	width=&#34;1052&#34;
+	height=&#34;593&#34;
+	srcset=&#34;http://localhost:1313/en/p/ever-stranding/es6_hu1694518901600618887.png 480w, http://localhost:1313/en/p/ever-stranding/es6_hu1708989802102550448.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;425px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>What is MWI</title>
+        <link>http://localhost:1313/en/p/what-is-mwi/</link>
+        <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/what-is-mwi/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/what-is-mwi/0008.png" alt="Featured image of post What is MWI" /&gt;&lt;h1 id=&#34;introduction-to-the-many-worlds-interpretation-mwi&#34;&gt;Introduction to the Many-Worlds Interpretation (MWI)
+&lt;/h1&gt;&lt;p&gt;Quantum mechanics emerged in the early 20th century to explain strange behaviors at the atomic and subatomic levels—such as electrons existing in multiple states at once or particles behaving like both waves and particles.&lt;/p&gt;
+&lt;p&gt;Mathematically, quantum systems are described by a wavefunction (Ψ), which evolves deterministically over time according to the Schrödinger equation. This wavefunction contains all possible outcomes of a system.&lt;/p&gt;
+&lt;h1 id=&#34;copenhagen-interpretation-vs-mwi&#34;&gt;Copenhagen Interpretation vs. MWI
+&lt;/h1&gt;&lt;p&gt;From the experiment we can know that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Before measurement, particles exist in a &lt;strong&gt;superposition&lt;/strong&gt; of all possible states.&lt;/li&gt;
+&lt;li&gt;After measurement, we observe &lt;strong&gt;one definite outcome&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But where do the results come from?&lt;/p&gt;
+&lt;p&gt;The Copenhagen Interpretation, developed primarily by Niels Bohr and Werner Heisenberg in the 1920s, was the first and most widely accepted explanation of this puzzle.&lt;/p&gt;
+&lt;p&gt;The main idea includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The wavefunction represents &lt;strong&gt;our knowledge&lt;/strong&gt; of a system, not objective reality.&lt;/li&gt;
+&lt;li&gt;When a measurement is made, the wavefunction &lt;strong&gt;collapses&lt;/strong&gt; into a single outcome.&lt;/li&gt;
+&lt;li&gt;Prior to observation, physical properties are &lt;strong&gt;undefined&lt;/strong&gt; or &amp;ldquo;potential.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But it is clear that the Copenhagen interpretation suffers from a great deal of ambiguity: it has no clear way of defining “observation” or the observer, nor does it explain what actually exists before the observation.&lt;/p&gt;
+&lt;p&gt;In 1957, physicist Hugh Everett III proposed the Many-Worlds Interpretation as a clean, deterministic alternative to Copenhagen.&lt;/p&gt;
+&lt;p&gt;In this theory:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The wavefunction &lt;strong&gt;never collapses&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;All possible outcomes of quantum events &lt;strong&gt;actually happen&lt;/strong&gt;—in &lt;strong&gt;separate branches&lt;/strong&gt; of the universe.&lt;/li&gt;
+&lt;li&gt;Measurement causes &lt;strong&gt;decoherence&lt;/strong&gt;, not collapse: the world &amp;ldquo;splits&amp;rdquo; into multiple, non-interacting outcomes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A particle in superposition doesn’t choose one outcome.&lt;/li&gt;
+&lt;li&gt;Instead, the universe &lt;strong&gt;branches&lt;/strong&gt;, and each outcome occurs in its own “world.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further reasoning, any &amp;ldquo;forking&amp;rdquo; behavior may not exist, but the world line corresponding to each result itself always exists, and the observer moves between these worlds.&lt;/p&gt;
+&lt;h1 id=&#34;schrödingers-cat&#34;&gt;Schrödinger&amp;rsquo;s Cat
+&lt;/h1&gt;&lt;p&gt;Erwin Schrödinger proposed his famous thought experiment in 1935:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Imagine a cat sealed in a box.&lt;/li&gt;
+&lt;li&gt;Inside, there is a radioactive atom with a 50% chance to decay in one hour.&lt;/li&gt;
+&lt;li&gt;If it decays, a Geiger counter triggers a hammer that breaks a vial of poison, killing the cat.&lt;/li&gt;
+&lt;li&gt;If it doesn’t decay, the cat lives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In the Copenhagen interpretation, the system remains in superposition (cat is dead and alive) until a measurement is made. At the moment of observation, the wavefunction collapses into one of the two possibilities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You see a &lt;strong&gt;live cat&lt;/strong&gt;, or&lt;/li&gt;
+&lt;li&gt;You see a &lt;strong&gt;dead cat&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Only one outcome becomes real, and the other disappears. The act of observation causes reality to “choose.”&lt;/p&gt;
+&lt;p&gt;MWI gives a different answer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The cat is both dead and alive, but in different worlds.
+&lt;ul&gt;
+&lt;li&gt;In one &lt;strong&gt;branch&lt;/strong&gt; of the universe, the atom decays → poison is released → the cat dies.&lt;/li&gt;
+&lt;li&gt;In another &lt;strong&gt;branch&lt;/strong&gt;, the atom does not decay → the poison is not released → the cat lives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These two outcomes both happen, in separate branches of reality. There is no collapse but decoherence, which prevents the branches from interfering with each other:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When you open the box, &lt;strong&gt;you&lt;/strong&gt; also become part of the superposition:
+&lt;ul&gt;
+&lt;li&gt;One version of you sees a &lt;strong&gt;dead cat&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Another version sees a &lt;strong&gt;live cat&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;From &lt;strong&gt;your&lt;/strong&gt; perspective as the observer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You will experience &lt;strong&gt;only one outcome&lt;/strong&gt; (say, the live cat).&lt;/li&gt;
+&lt;li&gt;But &lt;strong&gt;another version of you&lt;/strong&gt;, equally real, experiences the &lt;strong&gt;other&lt;/strong&gt; outcome (dead cat).&lt;/li&gt;
+&lt;li&gt;You and your alternate self now live in &lt;strong&gt;separate, non-interacting worlds&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;From the above content, we can find that if MWI exists, the world will be &amp;ldquo;split&amp;rdquo; all the time, and the observer will move all the time, from one world to another. For the sake of distinction, the &amp;ldquo;world&amp;rdquo; will be called &amp;ldquo;world line&amp;rdquo; to more accurately describe the history and future of each world.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;mwi-and-reality&#34;&gt;MWI and Reality
+&lt;/h1&gt;&lt;p&gt;The MWI is a large universe of possibilities. And each possibility is a frozen moment that our consciousness briefly visits. On top of this, our consciousness is constantly moving in and out of different realities. Since each reality is its own unique worldline, we can say that we are moving in and out of different worldlines.&lt;/p&gt;
+&lt;p&gt;When consciousness enters an individual&amp;rsquo;s reality, this life begins a relatively fixed journey of life. Although we feel that we have free will and can choose our direction and thoughts, there are actually many invisible restrictions around us.&lt;/p&gt;
+&lt;p&gt;For example, when a baby first comes into this world, it cannot walk, talk, or even crawl, and can only lie in the crib. In theory, it may try to crawl to the edge of the bed and try to crawl out, but that is extremely limited &amp;ldquo;freedom&amp;rdquo;.&lt;/p&gt;
+&lt;h2 id=&#34;start&#34;&gt;Start
+&lt;/h2&gt;&lt;p&gt;We could assume that consciousness &amp;ldquo;activates&amp;rdquo; at some point early in life. For some people, this may happen in the womb; for others, it may be after birth. For most people, consciousness is unstable at first, and it may enter and leave the body from time to time until it finally stabilizes and truly integrates into this reality.&lt;/p&gt;
+&lt;p&gt;If we draw this process on a world line diagram, it is &amp;ldquo;falling into&amp;rdquo; the world line template map.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0001.png&#34;
+	width=&#34;1363&#34;
+	height=&#34;761&#34;
+	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0001_hu13761932284462745488.png 480w, http://localhost:1313/en/p/what-is-mwi/0001_hu10265708714069776704.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;179&#34;
+		data-flex-basis=&#34;429px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-first-few-minutes&#34;&gt;The first few minutes
+&lt;/h2&gt;&lt;p&gt;In the first few minutes, days, and months, freedom of movement is very limited. The consciousness is still learning how to move, learning how to use the body. So the actual physical activity it can do is limited.&lt;/p&gt;
+&lt;p&gt;However, if it pushed itself, and it strove to overcome, it could roll, crawl, move and do other things that are very difficult to do. These difficult things can be defined as hills and mountains on the template map. Using the Z-axis, the higher the “mountain”, the harder the effort. The shallower the depression, the easier the effort.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0002.png&#34;
+	width=&#34;1363&#34;
+	height=&#34;761&#34;
+	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0002_hu18172691543703200609.png 480w, http://localhost:1313/en/p/what-is-mwi/0002_hu7364132768649507742.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;179&#34;
+		data-flex-basis=&#34;429px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Over time, consciousness moves on this template map.&lt;/p&gt;
+&lt;p&gt;Depending on the personality of consciousness, it either chooses the easy route or it becomes a &amp;ldquo;tough guy&amp;rdquo; and pushes forward, striving to &amp;ldquo;climb those mountains.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;We can conclude that before birth, everyone corresponds to a preset &amp;ldquo;world line template&amp;rdquo;. This template largely determines the direction of your future development. Therefore, if you do nothing and live your life naturally, your future will be roughly predictable without much deviation.&lt;/p&gt;
+&lt;p&gt;But, if you decide to climb “those hills and mountains”, what then?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0003.png&#34;
+	width=&#34;1363&#34;
+	height=&#34;761&#34;
+	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0003_hu12986281678285842553.png 480w, http://localhost:1313/en/p/what-is-mwi/0003_hu17372587966428292963.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;179&#34;
+		data-flex-basis=&#34;429px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;key-point&#34;&gt;Key Point
+&lt;/h1&gt;&lt;p&gt;The height of the &amp;ldquo;mountain&amp;rdquo; is a measure of effort and deviation from the comfortable norm of the consciousness&amp;rsquo;s pre-birth worldline template. When consciousness leaves the &amp;ldquo;flat, safe&amp;rdquo; median, it will change, but the change will not be great.&lt;/p&gt;
+&lt;p&gt;That is, the pre-birth worldline template will still remain pretty much the same. The consciousness will &amp;ldquo;climb that mountain&amp;rdquo; and then discover other areas that were originally forbidden to it, i.e., possibilities that were originally unreachable.&lt;/p&gt;
+&lt;p&gt;From the above inferences, it can be concluded that the location of entry into the template is very critical, which will determine how much effort the consciousness needs to put in to reach where they want to go.&lt;/p&gt;
+&lt;h1 id=&#34;glossary&#34;&gt;Glossary
+&lt;/h1&gt;&lt;h4 id=&#34;time&#34;&gt;Time
+&lt;/h4&gt;&lt;p&gt;In the MWI, consciousness is constantly moving between worldlines, so what we call &amp;ldquo;time&amp;rdquo; is actually the experience and process of consciousness moving through the MWI.&lt;/p&gt;
+&lt;p&gt;Therefore, each consciousness experiences their own version of &amp;ldquo;time&amp;rdquo;, which is determined by the speed at which the consciousness travels between worldlines. A &amp;ldquo;unified&amp;rdquo; time exists within a single worldline, but this is of no help to consciousness.&lt;/p&gt;
+&lt;h4 id=&#34;life-line&#34;&gt;Life-Line
+&lt;/h4&gt;&lt;p&gt;A “life-line” is a collection of experiences that a consciousness has. As the consciousness moves in and out of individual moments of time, it creates a path. This path looks like a vector. It starts at the moment of birth and ends at the moment of death.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0004.png&#34;
+	width=&#34;1196&#34;
+	height=&#34;718&#34;
+	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0004_hu13971474552629947003.png 480w, http://localhost:1313/en/p/what-is-mwi/0004_hu8341387031733458696.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;166&#34;
+		data-flex-basis=&#34;399px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;time-line&#34;&gt;Time-Line
+&lt;/h4&gt;&lt;p&gt;A timeline is a segment of a lifeline. It can be a continuous segment of any lifeline.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0005.png&#34;
+	width=&#34;1196&#34;
+	height=&#34;733&#34;
+	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0005_hu5981014189659697373.png 480w, http://localhost:1313/en/p/what-is-mwi/0005_hu3931282326332505448.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;163&#34;
+		data-flex-basis=&#34;391px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;world-line&#34;&gt;World-Line
+&lt;/h4&gt;&lt;p&gt;A &amp;ldquo;world line&amp;rdquo; is a frozen moment, like a photograph. It contains its unique history and future. The history and future of each world line are different.&lt;/p&gt;
+&lt;p&gt;As far as using the world-line map template, each intersection point, dot or globe represents one such world-line.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0006.png&#34;
+	width=&#34;1516&#34;
+	height=&#34;871&#34;
+	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0006_hu18439174487610308072.png 480w, http://localhost:1313/en/p/what-is-mwi/0006_hu14040690706533387865.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;174&#34;
+		data-flex-basis=&#34;417px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;world-line-cluster&#34;&gt;World-Line Cluster
+&lt;/h4&gt;&lt;p&gt;If the number of consciousnesses is finite, but the number of worldlines is close to infinite, then the probability that each consciousness has its own worldline is greatest. In other words, shared worldlines are rare.&lt;/p&gt;
+&lt;p&gt;However, as the consciousness travels on the MWI it does so based upon it’s thoughts. If others share the same thoughts, they travel the MWI in a similar manner.&lt;/p&gt;
+&lt;p&gt;If you map out the Time-Lines of people who are sharing similar thoughts, you will find that they seem to travel together, and they seem to experience the same World-lines. Which known as clustering.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0007.png&#34;
+	width=&#34;1182&#34;
+	height=&#34;623&#34;
+	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0007_hu17335415741181643466.png 480w, http://localhost:1313/en/p/what-is-mwi/0007_hu7179536543470298061.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;189&#34;
+		data-flex-basis=&#34;455px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;echo-chamber&#34;&gt;Echo Chamber
+&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;In discussions of news media, an echo chamber refers to situations in which beliefs are amplified or reinforced by communication and repetition inside a closed system and insulated from rebuttal. By participating in an echo chamber, people are able to seek out information that reinforces their existing views without encountering opposing views, potentially resulting in an unintended exercise in confirmation bias. Echo chambers may increase social and political polarization and extremism.
+-Wikipedia&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you only listen to a certain type of &amp;ldquo;news&amp;rdquo; and only receive opinions from others who agree with you, your thoughts will be reinforced into a set narrative and you will not be able to think other thoughts.&lt;/p&gt;
+&lt;p&gt;From the perspective of MWI, it is dangerous to be in a closed environment where thoughts are set to &amp;ldquo;be in a rut&amp;rdquo;. It locks you into a path and drives you to a set place in MWI, whether good or bad.&lt;/p&gt;
+&lt;h4 id=&#34;template-map&#34;&gt;Template Map
+&lt;/h4&gt;&lt;p&gt;The template map is a model used to visualize how consciousness moves in MWI. It can be thought of as a topological map, made up of grid intersections, each of which represents a &amp;ldquo;world line&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;The shape of the map surface reflects the most likely path a consciousness can move through its physical body.&lt;/p&gt;
+&lt;p&gt;The height of the terrain represents the difficulty of movement. Flat areas symbolize easy movement without much effort, while &amp;ldquo;mountains&amp;rdquo; represent extremely high difficulties and challenges.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0008.png&#34;
+	width=&#34;841&#34;
+	height=&#34;494&#34;
+	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0008_hu10078396274375039774.png 480w, http://localhost:1313/en/p/what-is-mwi/0008_hu5283726324248815761.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;170&#34;
+		data-flex-basis=&#34;408px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;pre-birth-world-line-template-map&#34;&gt;Pre-Birth World-Line Template Map
+&lt;/h4&gt;&lt;p&gt;Refers to the first map that is set when a baby is born and the consciousness is injected into the body. This map is designed before the consciousness enters the material world, and its purpose is to allow the consciousness to experience a specific series of experiences in it. This is a carefully constructed specific life path.&lt;/p&gt;
+&lt;p&gt;In this map, the consciousness will travel along the most convenient path pre-set to experience a series of events.&lt;/p&gt;
+&lt;p&gt;The only way to leave this map is to &amp;ldquo;slide&amp;rdquo; into another completely different template map.&lt;/p&gt;
+&lt;h4 id=&#34;slide&#34;&gt;Slide
+&lt;/h4&gt;&lt;p&gt;A slide is an intentional change of the template map. Consciousness “slide” off the map that you are on, and land on a completely different map.&lt;/p&gt;
+&lt;p&gt;While this can be accomplished through design, the most effective way (on an individual basis) is to do it through thinking. By specifically controlling your thoughts to slide out of the template map, sliding to the template that is next to it, like sliding from one layer of a layer cake to another.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0009.png&#34;
+	width=&#34;1182&#34;
+	height=&#34;1324&#34;
+	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0009_hu2124095842604820702.png 480w, http://localhost:1313/en/p/what-is-mwi/0009_hu13973549837401237200.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;89&#34;
+		data-flex-basis=&#34;214px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;shadow-people&#34;&gt;Shadow People
+&lt;/h4&gt;&lt;p&gt;Consciousness travels through world lines alone. It is extremely rare for another consciousness to share a world line with us.&lt;/p&gt;
+&lt;p&gt;So for a consciousness, all these &amp;ldquo;people&amp;rdquo; it sees are actually just an empty container. They are real, and they have feelings that we react to, but its consciousness is not there, but on their own world line. This person on all other world lines is just a projection of the main consciousness.&lt;/p&gt;
+&lt;h4 id=&#34;mountains&#34;&gt;Mountains
+&lt;/h4&gt;&lt;p&gt;On the topography of a world-line template are “highs” and “lows”. These features define the difficulty of effort to move in those directions. A “mountain” is a particularly difficult are to traverse. And on the 3D map it will appear as a mountain.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0010.png&#34;
+	width=&#34;844&#34;
+	height=&#34;499&#34;
+	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0010_hu3493298422516931257.png 480w, http://localhost:1313/en/p/what-is-mwi/0010_hu4748699378880853925.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;169&#34;
+		data-flex-basis=&#34;405px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;hills&#34;&gt;Hills
+&lt;/h4&gt;&lt;p&gt;A hill is similar to a mountain. It’s level of difficulty to traverse is proportionally smaller.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0011.png&#34;
+	width=&#34;1187&#34;
+	height=&#34;691&#34;
+	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0011_hu11146946039787481077.png 480w, http://localhost:1313/en/p/what-is-mwi/0011_hu9762739922473463696.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;171&#34;
+		data-flex-basis=&#34;412px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h4 id=&#34;comfort-zone&#34;&gt;Comfort Zone
+&lt;/h4&gt;&lt;p&gt;In actual experience, the flat, unruffled areas on the world line template map are the so-called &amp;ldquo;comfort zones&amp;rdquo;. No matter how rugged and steep the terrain ahead looks, there will always be a relatively smooth and easy path in the world line template set before birth.&lt;/p&gt;
+&lt;p&gt;The good thing is that no matter what you face in life, there is always a &amp;ldquo;default route&amp;rdquo; waiting for you to move forward; it may be smooth or difficult, but it always exists.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/what-is-mwi/0012.png&#34;
+	width=&#34;1187&#34;
+	height=&#34;629&#34;
+	srcset=&#34;http://localhost:1313/en/p/what-is-mwi/0012_hu1648284921839842700.png 480w, http://localhost:1313/en/p/what-is-mwi/0012_hu16867636640594859631.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;188&#34;
+		data-flex-basis=&#34;452px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>No More US.KG</title>
+        <link>http://localhost:1313/en/p/no-more-us.kg/</link>
+        <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/no-more-us.kg/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Dear User,&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We regret to inform you that due to domain abuse and other related issues, after extensive discussions with the &lt;strong&gt;.KG registry&lt;/strong&gt;, &lt;strong&gt;ccltd.kg will no longer be allowed to receive any complaint reports&lt;/strong&gt;—otherwise, the &lt;strong&gt;.KG registry will permanently disable domain resolution.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;US.KG Domains: Current Situation&lt;/p&gt;
+&lt;p&gt;Although &lt;strong&gt;US.KG DNS resolution has been temporarily re-enabled&lt;/strong&gt;, please be aware that &lt;strong&gt;if any further complaints are received, the .KG registry will immediately revoke DNS resolution again.&lt;/strong&gt; This restriction is beyond our control, as it is an official policy of the &lt;strong&gt;.KG registry&lt;/strong&gt;, not a decision made by us.&lt;/p&gt;
+&lt;p&gt;As a result, we are &lt;strong&gt;forced to suspend all US.KG domain resolutions&lt;/strong&gt;, and the ability to register new US.KG domains has been &lt;strong&gt;disabled&lt;/strong&gt;. We, &lt;strong&gt;DigitalPlat FreeDomain&lt;/strong&gt;, are also victims of this policy change and understand the inconvenience this may cause. Despite this setback, we are actively seeking better and more stable alternatives to continue providing free domain services.&lt;/p&gt;
+&lt;p&gt;Migration to a New Domain: DPDNS.ORG&lt;/p&gt;
+&lt;p&gt;To ensure service continuity, we are &lt;strong&gt;introducing a new domain: dpdns.org&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;For example:&lt;/strong&gt; If your previous domain was &lt;code&gt;example.us.kg&lt;/code&gt;, your account will be &lt;strong&gt;automatically switched&lt;/strong&gt; to &lt;code&gt;example.dpdns.org&lt;/code&gt; once the new system is ready.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Important Notice:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;dpdns.org is still under testing&lt;/strong&gt; and is &lt;strong&gt;NOT available for resolution, management, or new registrations yet.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Please &lt;strong&gt;wait for our official announcement&lt;/strong&gt; before making any changes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Due to abuse, US.KG has stopped serving. This website will be moved to dpdns.org. &lt;code&gt;entropiex.us.kg&lt;/code&gt; will be replaced by &lt;code&gt;entropiex.dpdns.org&lt;/code&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Introduction and Index List</title>
+        <link>http://localhost:1313/en/p/introduction-and-index-list/</link>
+        <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/introduction-and-index-list/</guid>
+        <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction
+&lt;/h1&gt;&lt;p&gt;This document aims to systematically organize and summarize the core concepts related to the Many Worlds Interpretation (MWI) to help build a more complete understanding of the nature of reality. To facilitate thinking and communication, several simplified models and analogies are used in this document. These expressions strive to be close to reality, but they do not represent the only or final explanation. Please note: reality is far more complex than the model, and you should avoid construction as much as possible when reading this document.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;index-list&#34;&gt;Index List
+&lt;/h1&gt;&lt;p&gt;&lt;code&gt;1.&lt;/code&gt; What is MWI - &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/en/p/what-is-mwi/&#34; &gt;Introduction to MWI&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>New Encryption Plugin</title>
+        <link>http://localhost:1313/en/p/new-encryption-plugin/</link>
+        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/new-encryption-plugin/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/new-encryption-plugin/first.png" alt="Featured image of post New Encryption Plugin" /&gt;&lt;p&gt;This is an Obsidian plugin development plan.&lt;/p&gt;
+&lt;p&gt;Apparently, Meld Encrypt has a very bad interactive design. Every time a user selects a file in the file browser, the file preview function will show an overview of the file content. At this time, Meld Encrypt will automatically pop up a password box, which must be closed manually to continue looking for files. This is very bad - most of the time, the mouse just hovers for a while to trigger this troublesome password input box.&lt;/p&gt;
+&lt;p&gt;In addition, Meld Encrypt is very slow when switching during decryption, and occasionally undecrypted garbled characters will appear, which threatens the smooth Obsidian experience.&lt;/p&gt;
+&lt;p&gt;For this reason, I decided to develop a new lightweight plugin that has all the functions of Meld Encrypt, but is faster, safer and more stable.&lt;/p&gt;
+&lt;p&gt;The new encryption plugin will also introduce asymmetric encryption technology. Perhaps elliptic curves are a good choice.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>INTJ: Born Achiever and Loser</title>
+        <link>http://localhost:1313/en/p/intj-born-achiever-and-loser/</link>
+        <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/intj-born-achiever-and-loser/</guid>
+        <description>&lt;h2 id=&#34;pathway-of-an-intj&#34;&gt;Pathway of an INTJ
+&lt;/h2&gt;&lt;h3 id=&#34;lower-stage&#34;&gt;Lower stage
+&lt;/h3&gt;&lt;p&gt;In the lower stage, the INTJ usually presents as a being weaker than ordinary people. They have extraordinary self-confidence and arrogance, look down on everything, are introverted, like to think about problems but often dare not really be independent, their grades cannot crush their classmates, they have not carried out large-scale learning and self-discipline, and their thoughts are not objective, materialistic, and practical. They have no ability to counteract these huge side effects of being an INTJ.&lt;/p&gt;
+&lt;h3 id=&#34;transition-l-m&#34;&gt;Transition L-M
+&lt;/h3&gt;&lt;p&gt;After experiencing a mental transformation (usually a breakdown and remodeling) caused by long-term thinking, they realize that arrogance and coldness are not conducive to achieving their goals, so they try to become more humble and use personality masks. As they gradually have a concept of their goals and the path in between, INTJs at this stage will improve their ability to act and their thirst for knowledge.&lt;/p&gt;
+&lt;h3 id=&#34;middle-stage&#34;&gt;Middle stage
+&lt;/h3&gt;&lt;p&gt;A middle stage INTJ possesses high intelligence, deep philosophical thinking, and strong self-discipline. They can analyze most things clearly and independently resolve various peculiar thoughts. Having dedicated thousands or even tens of thousands of hours to learning, they have developed exceptional decision-making, judgment, and perception through extensive reading, far surpassing the accuracy of ordinary individuals. Their academic performance and achievements exceed those of most peers. Becoming more social and communicative, fearless in standing out, and establish rules and order for their teams. Able to control time and energy in certain extent.&lt;/p&gt;
+&lt;h3 id=&#34;transition-m-h&#34;&gt;Transition M-H
+&lt;/h3&gt;&lt;p&gt;This stage has approached or achieved success in a secular sense, and after several years of development, has made outstanding contributions or achievements in a specific field. Gradually, they have acquired high-level rationality and the ability to predict the times, breaking free from the limitations of emotional and physical basic feedback.&lt;/p&gt;
+&lt;h3 id=&#34;higher-stage&#34;&gt;Higher stage
+&lt;/h3&gt;&lt;p&gt;Higher stage INTJs are built on top rationality, understand the laws of the world, have accurate long-term prediction capabilities, learning abilities, and terrifying execution capabilities. High stage INTJs are only limited by their physical and time limits, so they usually reach the pinnacle in a field, can thoroughly study the things they love and influence others, can soar to the sky in good times, and can turn the tide in bad times. They dare to be unique and are not afraid of power.&lt;/p&gt;
+&lt;h2 id=&#34;置之死地而后生&#34;&gt;&amp;ldquo;置之死地而后生&amp;rdquo;
+&lt;/h2&gt;&lt;p&gt;People like and admire INTJs, but only high-level INTJs. Their decisiveness, perseverance, and courage are highly praised, and their near-absolute rationality is called a miracle. However, the more perfect these abilities are, the deeper the gap between the middle and high levels is. The M-H stage will be a hurdle that most people will never be able to cross in their lifetime, and it is also the stage that only a few top entrepreneurs, politicians, and financial tycoons can overcome.&lt;/p&gt;
+&lt;p&gt;INTJ&amp;rsquo;s aversion to stupidity and their own arrogance make them more accepted by society the higher they are. For lower- and middle-stage INTJs, accepting the reality of being weak, being open-minded and objective, studying as diligently as possible, and always being optimistic are the only ways to reach a higher level.&lt;/p&gt;
+&lt;h2 id=&#34;interesting-vs-meaningful&#34;&gt;Interesting vs. Meaningful
+&lt;/h2&gt;&lt;h3 id=&#34;external-rules-and-influences&#34;&gt;External rules and influences
+&lt;/h3&gt;&lt;p&gt;INTJ&amp;rsquo;s instinct is to pursue efficiency. If they don&amp;rsquo;t see the meaning of something, they won&amp;rsquo;t even take a second look at it in order to &amp;ldquo;maximize efficiency.&amp;rdquo; However, what many people think of as &amp;ldquo;meaningful&amp;rdquo; is actually based on external rules, such as getting into a good school, finding a good job, and winning social recognition. These are value systems defined by others, and are &amp;ldquo;finite games&amp;rdquo; that will eventually fall into endless competition.&lt;/p&gt;
+&lt;h3 id=&#34;finite-games-vs-infinite-games&#34;&gt;Finite games vs. infinite games
+&lt;/h3&gt;&lt;p&gt;The goal of a finite game is to win, so the rules are clear and there are many competitors, leading to involution. The goal of an infinite game is to continue and explore, and the rules can be created, so the competitive pressure is much smaller. INTJs have the advantages of systematic thinking and strategic planning, and can completely choose not to get involved in the established track, but to establish their own game rules, enter the “wilderness”, and open up their own path.&lt;/p&gt;
+&lt;h3 id=&#34;find-something-that-is-truly-interesting&#34;&gt;Find something that is truly “interesting”
+&lt;/h3&gt;&lt;p&gt;INTJs tend to execute efficiently, but their thinking framework is often driven by external goals, which easily leads to them just optimizing the existing system and ignoring the possibility of creating a new system. To find something “interesting”, the key is to slow down, return to life, and observe which things can make you invest in it for a long time even without external rewards. In other words, if something doesn&amp;rsquo;t need external recognition and you&amp;rsquo;re still willing to work on it, then it may be worth pursuing.&lt;/p&gt;
+&lt;h3 id=&#34;the-value-of-time&#34;&gt;The value of time
+&lt;/h3&gt;&lt;p&gt;For INTJs, time is the most valuable resource. The real strategy is not to fight for a tiny advantage in a highly competitive race, but to find areas that have not yet been noticed by the mainstream, set your own rules there, and become a rule maker rather than a passive player in the game. This not only improves the return on investment (ROI), but also conforms to INTJ&amp;rsquo;s long-term planning mindset.&lt;/p&gt;
+&lt;h2 id=&#34;supplement&#34;&gt;Supplement
+&lt;/h2&gt;&lt;p&gt;In business, breadth is a cost, and depth is a profit. For INTJs, the requirements are even more stringent. They must be both generalists and experts, understand all walks of life, and be the best in their own profession. This puts a double test on time and body, which is one of the reasons why top successful people are so rare.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ASI 2030</title>
+        <link>http://localhost:1313/en/p/asi-2030/</link>
+        <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/asi-2030/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/asi-2030/RSI-NewBabbage.png" alt="Featured image of post ASI 2030" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
+&lt;/h2&gt;&lt;p&gt;This is an interesting speculation.&lt;/p&gt;
+&lt;p&gt;If AGI/ASI is truly one of the biggest changes in human history, then it’s important to know the worst-case scenario. If they do come to pass, it will be a darker future than Cyberpunk.&lt;/p&gt;
+&lt;h3 id=&#34;technology-evolution-timeline&#34;&gt;Technology Evolution Timeline
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025-2030&lt;/strong&gt;: AGI emerges, leading to the large-scale replacement of standardized intellectual work. Humans retain only symbolic decision-making power.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2031-2035&lt;/strong&gt;: ASI achieves breakthroughs, taking over strategic decision-making. Corporate CEOs become mere &amp;ldquo;AI interpreters.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2036-2045&lt;/strong&gt;: Human-machine integration becomes essential for survival. Those without neural implants are marginalized. Consciousness uploading becomes the new class divide.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;social-stratification&#34;&gt;Social Stratification
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ruling Class (0.01%)&lt;/strong&gt;: Controls computing power, engages in genetic optimization, and profits from time differentials.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technical Class (9.99%)&lt;/strong&gt;: Maintains human-machine interactions, optimizes data value, and exploits AI vulnerabilities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Disposable Class (90%)&lt;/strong&gt;: Provides data, virtual labor, or serves as &amp;ldquo;biological containers&amp;rdquo; for consciousness uploads.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;control-over-key-resources&#34;&gt;Control Over Key Resources
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Computing power is monopolized by oligarchs, capable of instantly wiping out dissenters&amp;rsquo; assets.&lt;/li&gt;
+&lt;li&gt;Data becomes the new form of enslavement—ordinary individuals generate data but cannot profit from it.&lt;/li&gt;
+&lt;li&gt;Time is commodified—the wealthy can store their consciousness, while the poor must sign &amp;ldquo;time debt&amp;rdquo; contracts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;final-prediction&#34;&gt;Final Prediction
+&lt;/h3&gt;&lt;p&gt;By &lt;strong&gt;2045&lt;/strong&gt;, AI computing power surpasses the singularity threshold. Decisions made before 2030 will determine the survival conditions of 2045.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion
+&lt;/h2&gt;&lt;p&gt;This will be a highly algorithm-driven and computationally dominated future, where social stratification will be even more extreme than it is today. Energy, biotechnology, and AI will all develop rapidly, and the living space of ordinary people will be greatly compressed. From an individual perspective, the only way out is to act quickly and strive for a proactive position before the ASI era arrives.&lt;/p&gt;
+&lt;p&gt;Obviously a lot of things need to be addressed.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Domain Change 0223</title>
+        <link>http://localhost:1313/en/p/domain-change-0223/</link>
+        <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/domain-change-0223/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;The free subdomain provider US.KG has once again been temporarily suspended from resolving by the Kyrgyzstan registry.
+The reason for the suspension remains consistent with the previous instance: the free nature of the domain has attracted numerous cybercriminal gangs using it to create phishing and malicious websites.&lt;br&gt;
+Typically, domain registries take action upon receiving excessive complaints, which can include suspending resolution, seizing, and reclaiming domains.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Since DigitalPlat has suspended domain name resolution, the website will temporarily use the original Github Pages domain name (enthalpiex.github.io).&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Occam&#39;s Razor and Bayesianism</title>
+        <link>http://localhost:1313/en/p/occams-razor-and-bayesianism/</link>
+        <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/occams-razor-and-bayesianism/</guid>
+        <description>&lt;p&gt;In simple models and complex models, as long as the simple model is consistent with the results, its confidence is much higher than that of the complex model. When this gap is infinitely magnified by multiple parameters, from the perspective of Bayesian probability, the simple model is either directly rejected, but as long as it can roughly match the experimental data, it is better than the complex model.&lt;/p&gt;
+&lt;p&gt;This includes 2 parts:&lt;/p&gt;
+&lt;h3 id=&#34;occams-razor-and-bayesianism&#34;&gt;Occam&amp;rsquo;s Razor and Bayesianism
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Occam&amp;rsquo;s Razor&lt;/strong&gt; and &lt;strong&gt;Bayesianism&lt;/strong&gt; are two important principles in reasoning and scientific philosophy. Occam’s Razor emphasizes &lt;strong&gt;simplicity&lt;/strong&gt;, favoring explanations that introduce the fewest unnecessary assumptions. Bayesianism, on the other hand, focuses on probabilistic reasoning, continuously updating our beliefs based on new evidence.&lt;/p&gt;
+&lt;h3 id=&#34;occams-razor-favoring-simpler-explanations&#34;&gt;Occam’s Razor: Favoring Simpler Explanations
+&lt;/h3&gt;&lt;p&gt;Occam’s Razor states that &lt;strong&gt;when multiple explanations exist, the simplest one is usually the best&lt;/strong&gt;. This idea was introduced by the 14th-century philosopher &lt;strong&gt;William of Ockham&lt;/strong&gt;, who argued that we should avoid unnecessary complexity in our reasoning.&lt;/p&gt;
+&lt;p&gt;For example, if a strange noise is heard at night, one could assume either:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;It was caused by the wind.&lt;/li&gt;
+&lt;li&gt;It was caused by ghosts moving objects around the house.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Occam’s Razor suggests choosing the first explanation because it relies on well-understood natural causes rather than introducing additional, unproven assumptions. While simplicity alone does not guarantee correctness, it often leads to more practical and testable theories.&lt;/p&gt;
+&lt;h3 id=&#34;bayesianism-updating-beliefs-based-on-evidence&#34;&gt;Bayesianism: Updating Beliefs Based on Evidence
+&lt;/h3&gt;&lt;p&gt;Bayesianism is a way of reasoning that helps us refine our beliefs as we gather more information. Instead of treating ideas as either absolutely true or false, it considers different possibilities and adjusts how likely each one is based on new evidence.&lt;/p&gt;
+&lt;p&gt;For instance, if a doctor suspects a patient has a certain illness, they do not immediately confirm it. Instead, they look at symptoms, test results, and medical history, gradually becoming more confident in a diagnosis as more information is gathered.&lt;br&gt;
+If new evidence contradicts the initial assumption, the doctor revises their belief and considers other possibilities.&lt;/p&gt;
+&lt;p&gt;This method is widely used in fields such as science, machine learning, and even everyday decision-making. It allows us to make better predictions and avoid jumping to conclusions too quickly.&lt;/p&gt;
+&lt;h3 id=&#34;the-relationship-between-o-and-b&#34;&gt;The Relationship Between O. and B.
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;More complex explanations usually have lower initial credibility.&lt;/strong&gt; When we lack strong evidence, it makes sense to assume simpler explanations are more likely, aligning with Occam’s Razor.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bayesian reasoning naturally favors simpler theories unless the evidence strongly supports a more complex one.&lt;/strong&gt; If two explanations fit the data equally well, the simpler one is usually more likely to be correct.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>World Trends and Crisis Study</title>
+        <link>http://localhost:1313/en/p/world-trends-and-crisis-study/</link>
+        <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/world-trends-and-crisis-study/</guid>
+        <description>&lt;p&gt;I have been looking for the future direction recently, so I studied the development of the past few decades.&lt;/p&gt;
+&lt;p&gt;From 1950 to 2025, a significant economic crisis or major economic adjustment occurs approximately every 10 years. During this period, the global economy has undergone an evolution from post-war reconstruction, technological innovation, market-oriented reforms to informatization and globalization.&lt;/p&gt;
+&lt;h2 id=&#34;1-1950s-postwar-reconstruction-and-economic-prosperity&#34;&gt;1. 1950s: Postwar reconstruction and economic prosperity
+&lt;/h2&gt;&lt;p&gt;After the end of World War II, the world entered a period of post-war reconstruction. The economies of Western Europe and Japan recovered rapidly, and the United States became the global economic leader.&lt;/p&gt;
+&lt;h2 id=&#34;2-1960s-technological-innovation-and-social-change&#34;&gt;2. 1960s: Technological innovation and social change
+&lt;/h2&gt;&lt;p&gt;Technological advances (such as computers and aerospace) and social movements (such as the civil rights movement and the counterculture) flourished.&lt;/p&gt;
+&lt;h2 id=&#34;3-1970s-oil-crisis-and-economic-stagflation&#34;&gt;3. 1970s: Oil crisis and economic stagflation
+&lt;/h2&gt;&lt;p&gt;The Organization of the Petroleum Exporting Countries (OPEC) imposed an oil embargo, causing oil prices to soar and triggering global economic stagflation (high inflation and high unemployment coexisting). Two oil shocks in 1973 and 1979 led to a slowdown in global economic growth.&lt;/p&gt;
+&lt;h2 id=&#34;4-1980s-market-oriented-reforms-and-globalization&#34;&gt;4. 1980s: Market-oriented reforms and globalization
+&lt;/h2&gt;&lt;p&gt;Many countries have implemented market-oriented reforms and liberalization policies, and the process of globalization has accelerated.&lt;/p&gt;
+&lt;h2 id=&#34;5-1990s-information-technology-revolution-and-economic-prosperity&#34;&gt;5. 1990s: Information technology revolution and economic prosperity
+&lt;/h2&gt;&lt;p&gt;The information technology (IT) revolution has driven global economic growth, and the Internet and digital transformation have become mainstream. The Asian financial crisis in 1997 had an impact on emerging market countries, but the global economy generally maintained growth.&lt;/p&gt;
+&lt;h2 id=&#34;6-2000s-global-financial-crisis-and-economic-adjustment&#34;&gt;6. 2000s: Global financial crisis and economic adjustment
+&lt;/h2&gt;&lt;p&gt;IT exploded in developing countries, and the global financial market became highly integrated. The Internet winter in 2001 and the global financial crisis in 2008 led to a global economic recession.&lt;/p&gt;
+&lt;h2 id=&#34;7-2010s-post-crisis-era-and-the-rise-of-emerging-markets&#34;&gt;7. 2010s: Post-crisis era and the rise of emerging markets
+&lt;/h2&gt;&lt;p&gt;Countries implemented stimulus policies, and the global economy gradually recovered. Emerging market countries such as China rose&lt;/p&gt;
+&lt;h2 id=&#34;8-2020s-pandemic-and-economic-reconstruction&#34;&gt;8. 2020s: Pandemic and economic reconstruction
+&lt;/h2&gt;&lt;p&gt;The COVID-19 pandemic triggered a global health crisis, giving rise to remote work and digital transformation. In 2020, the global economy contracted significantly due to the pandemic, and countries subsequently implemented stimulus policies to promote recovery.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Embedded Systems Engineering</title>
+        <link>http://localhost:1313/en/p/embedded-systems-engineering/</link>
+        <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/embedded-systems-engineering/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/embedded-systems-engineering/Embedded%20Systems%20Engineering%20Roadmap.png" alt="Featured image of post Embedded Systems Engineering" /&gt;&lt;p&gt;Hardware is hard? Then go for it!&lt;/p&gt;
+&lt;p&gt;In early 2025, I did some research about future opportunities, and seems like AI can replace most single-ability people in a not far future. The block chain technology and models led by transformers are now a large market and are still expanding. Unfortunately, just like the Internet boom, the best time has passed, so I need to find something still useful in future, and I realized that the combination of hardware and software that embedded development provide is one of the strongest ability I have seen.&lt;/p&gt;
+&lt;p&gt;Until AI can directly control the real world, micro-quantum computers appear, and brain-computer interfaces have the ability to inherit memory, embedded development will always exist - because all current electronic industry are built on the basis of embedded development. The decline of embedded means the rise of a new generation of computers with non-von Neumann architecture.&lt;/p&gt;
+&lt;p&gt;Computer Science alone is too boring for me. For this reason, in 2025 I decided to start learning everything about embedded development. This will be another new starting point after I acquire the ability to design for additive manufacturing.&lt;/p&gt;
+&lt;p&gt;Wish me luck.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Future</title>
+        <link>http://localhost:1313/en/p/future/</link>
+        <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/future/</guid>
+        <description>&lt;p&gt;It&amp;rsquo;s January again! Happy new year to you all guys!&lt;/p&gt;
+&lt;p&gt;Today&amp;rsquo;s electronic products are thinner and lighter than before, but they are still very heavy, especially those laptops with good performance that weigh more than one kilogram. Today’s quantum computers are larger and heavier than traditional computers—they are housed in specific rooms and run.&lt;/p&gt;
+&lt;p&gt;This prompts us to ask: what kinds of products could define the future? Can we experience the same level of excitement as we did with groundbreaking releases like the MacBook or the iPhone X?&lt;/p&gt;
+&lt;p&gt;One promising candidate is AR glasses powered by directional beam charging technology. Currently, most AR glasses fail to replace smartphones, primarily due to their weight, with bulky batteries being the main culprit. Since this, if we can cancel the battery and use a power bank to charge, also replace the wire to wireless RF (radio frequency) technology, such as millimeter-wave directional transmission, all above problems will be solved.&lt;/p&gt;
+&lt;p&gt;The biggest challenges are: heating problem, high energy consumption ratio chip and High-resolution transparent display.&lt;/p&gt;
+&lt;p&gt;The same technology has the potential to revolutionize aerospace. Traditional space elevators are constrained by material limitations. By eliminating these materials and instead using ion thrusters with vector control to maintain a fixed orbit, coupled with wireless RF technology for power transmission, we could bypass these constraints entirely.&lt;/p&gt;
+&lt;p&gt;This would pave the way for a low-Earth orbit transportation method far more efficient than traditional rockets.&lt;/p&gt;
+&lt;p&gt;The future of technology is brimming with possibilities, although we feel like the technological progress has gradually slowed down or even stalled, but in fact there are still many conceptual technologies that have not been widely used.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Flow X13 Timespy World Record</title>
+        <link>http://localhost:1313/en/p/flow-x13-timespy-world-record/</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/flow-x13-timespy-world-record/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_1.png" alt="Featured image of post Flow X13 Timespy World Record" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Original Post:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/FlowX13/comments/1hret5p/flow_x13_rtx4060_timespy_world_record_no/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Flow X13 RTX4060 Timespy World Record (No Modification) : r/FlowX13&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/FlowX13/comments/1hrdlmd/revitalize_your_flow_x13_in_2025_0_cost/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Revitalize Your Flow X13 in 2025: $0 Cost Performance Boost : r/FlowX13&lt;/a&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Device&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;ROG Flow X13 2023 RTX 4060&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;RAM, vRAM&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;16G, 8G&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Hardware Modification&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;No&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Driver&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;555.97&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Power&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Original 130W&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;vBIOS&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;DELL RTX4060 Full Power 140W&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Additional heat sink&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;NO&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Ambient temperature&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;-12℃ / 10.4℉&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Highest Timespy Score&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;10376&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Highest Graphic Score&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;10536&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;result&#34;&gt;Result
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/World%20Record%20Timespy/WR_1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_2.png&#34;
+	width=&#34;2559&#34;
+	height=&#34;1415&#34;
+	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_2_hu8605919855762022794.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_2_hu17261336422985674264.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;180&#34;
+		data-flex-basis=&#34;434px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary
+&lt;/h2&gt;&lt;p&gt;Since Timespy prefers GPU scores, limiting CPU power consumption and increasing GPU clock frequency as much as possible &lt;strong&gt;successfully allows Flow X13 to compete head-on with gaming laptops that are twice as heavy as it.&lt;/strong&gt; &lt;strong&gt;In comparison, the Timespy score of a 110W RTX4060 gaming laptop is 10500.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Before the release of Flow X13, I wanted to achieve a Timespy score of more than 10000 at a weight of 1.3kg, and Flow X13 gave me this possibility.&lt;/p&gt;
+&lt;p&gt;The symbolism of this record is far greater than its practicality, because you obviously can&amp;rsquo;t always use a laptop in the Arctic, and the CPU will compete with the GPU for power consumption. But I think this is the direction of future electronic products, extreme compactness and extreme performance.&lt;/p&gt;
+&lt;p&gt;But why is there no Flow disclosure in 2025? Is it going to be released in the middle of the year?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I hope this experiment can help all Flow X13 users.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For the theoretical part, please see this post:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/FlowX13/comments/1hrdlmd/revitalize_your_flow_x13_in_2025_0_cost/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Revitalize Your Flow X13 in 2025: $0 Cost Performance Boost : r/FlowX13&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;vBIOS: &lt;a class=&#34;link&#34; href=&#34;https://www.techpowerup.com/vgabios/258363/258363&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VGA Bios Collection: Dell RTX 4060 Mobile 8 GB | TechPowerUp&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;how-to-improve-performance&#34;&gt;How To Improve Performance
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;WARNING: The tutorial has certain risks, please see the end of the article.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;overview-1&#34;&gt;Overview
+&lt;/h2&gt;&lt;p&gt;Today is the first day of 2025, I wish you all a happy new year.&lt;/p&gt;
+&lt;p&gt;Before CES 2025, I am sure that Flow X13 2023 will still be the only one of its size, because the 60Hz screen of PX13 is really not flattering.&lt;/p&gt;
+&lt;p&gt;Flow X13 balances everything: battery life, screen, CPU, graphics card, weight&amp;hellip; Despite this, it is still difficult to compete with traditional gaming laptops due to its size.&lt;/p&gt;
+&lt;p&gt;However, with the release of many laptops in 2023 and 2024, it has become a reality for Flow X13 to achieve the default performance of gaming laptops. Today, the performance of the RTX4060 version will be very close to the level of access to &lt;strong&gt;XG Mobile RTX3070  (or even XG Mobile RTX3080)&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;how&#34;&gt;How
+&lt;/h2&gt;&lt;p&gt;The following examples are all based on the RTX4060 version.&lt;/p&gt;
+&lt;p&gt;Through testing, we can know that the power consumption allocation of Flow X13 is &lt;strong&gt;20wCPU+50wGPU&lt;/strong&gt;. At this time, the core temperature is kept about &lt;strong&gt;80℃,&lt;/strong&gt; which means that the scheduling is very conservative, so the primary goal is to use up all cooling redundancy. At this time, the maximum GPU frequency is only 1800MHz.&lt;/p&gt;
+&lt;p&gt;By flashing vBIOS, you can change the graphics card power consumption and scheduling strategy. Please Google how to flash vBIOS, I will not repeat it here. If you encounter green screen or blue screen problems, please try to change the nvflash version and avoid using GPU-Z to back up your vBIOS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Flashing vBIOS is risky, please make sure:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Back up the original vBIOS file&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. The GPU mode is Hybrid Output Mode (cGPU+dGPU) when flashing&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. The flashed vBIOS is safe and supports Dedicated GPU Direct Output Mode and Hybrid Output Mode, otherwise your computer might become a paperweight&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. vBIOS Device ID is &amp;ldquo;10DE 28E0&amp;rdquo; (Check your original device ID and choose vBIOS with same ID)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Reinstall the correct driver&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;where&#34;&gt;Where
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;A few tested vBIOS to choose from:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alienware RTX 4060 vBIOS (TGP 70~75W)&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://www.techpowerup.com/vgabios/265890/265890&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VGA Bios Collection: Alienware RTX 4060 Mobile 8 GB | TechPowerUp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lenovo RTX 4060 vBIOS (TGP 80~85W)&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://www.techpowerup.com/vgabios/260488/260488&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VGA Bios Collection: Lenovo RTX 4060 Mobile 8 GB | TechPowerUp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Not recommended but optional: (Exceeding thermal limits)&lt;/p&gt;
+&lt;p&gt;Lenovo RTX 4060 vBIOS (TGP 90~100W) &lt;a class=&#34;link&#34; href=&#34;https://www.techpowerup.com/vgabios/259213/259213&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VGA Bios Collection: Lenovo RTX 4060 Mobile 8 GB | TechPowerUp&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;how-to-configure-g-helper&#34;&gt;How to configure G-Helper
+&lt;/h1&gt;&lt;p&gt;Firstly, I used the vBIOS of the 70W Alienware X14R2 (&lt;a class=&#34;link&#34; href=&#34;https://www.techpowerup.com/vgabios/265890/265890&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VGA Bios Collection: Alienware RTX 4060 Mobile 8 GB | TechPowerUp&lt;/a&gt;) to adjust the GPU Clock Limit through G-helper and drew the energy efficiency curve of the Flow X13 4060M graphics card:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_1.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;1032&#34;
+	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_1_hu13460723901899483011.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_1_hu4957042620024129968.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;104&#34;
+		data-flex-basis=&#34;251px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Also as we all know, the power consumption and frequency of RTX 4060 Mobile are closely related:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;RTX 4060 Mobile 80W&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;1545-1890 MHz&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;RTX 4060 Mobile 90W&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;1620-2010 MHz&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;RTX 4060 Mobile 105W&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2115-2250 MHz&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;RTX 4060 Mobile 115W&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2295-2370 MHz&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_2.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;516&#34;
+	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_2_hu11821861800005749307.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_2_hu17296957113675041656.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;209&#34;
+		data-flex-basis=&#34;502px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;From the figure, we can see that the CPU has the best performance when limited to 60 watts, and overclocking the graphics card will reduce some CPU performance. This is because the total power consumption is limited to ~125W.&lt;/p&gt;
+&lt;p&gt;In summary, you can save power by limiting the graphics card clock frequency and confirm its performance according to the table, while limiting the CPU to 60W can maximize utilization.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results
+&lt;/h2&gt;&lt;p&gt;The computer has not undergone any hardware modification, the test date is January 1, 2025, 130W original power supply, and the driver version is 555.97. The test environment is room temperature 20~25 ℃, and the computer is placed on a laptop stand to raise it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_3.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;665&#34;
+	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_3_hu9269447073058226488.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_3_hu17172747664137253013.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;162&#34;
+		data-flex-basis=&#34;389px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_4.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;463&#34;
+	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_4_hu14856027465708343378.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_4_hu16405754427708612687.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;233&#34;
+		data-flex-basis=&#34;559px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_5.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;463&#34;
+	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_5_hu7687558092088436750.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_5_hu6481622320997858894.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;233&#34;
+		data-flex-basis=&#34;559px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary-1&#34;&gt;Summary
+&lt;/h2&gt;&lt;p&gt;In comparison, the Flow X13 4070&amp;rsquo;s Timespy score is up to 9440, with a CPU score of 10681 and a GPU score of 9251. The maximum speed of Flow X13 factory vBIOS is 8800, so you can get at least 10% performance improvement for free by using this method.&lt;/p&gt;
+&lt;p&gt;But is this really the limit?&lt;/p&gt;
+&lt;h2 id=&#34;warning&#34;&gt;Warning
+&lt;/h2&gt;&lt;p&gt;Ensure cooling redundancy!&lt;/p&gt;
+&lt;p&gt;Pushing a GPU beyond its design limits significantly stresses the VRM, particularly the high-side FETs, increasing the risk of failure. GPU core failures in laptops are rarely caused by core VRM issues. Instead, failures often stem from the vRAM VRM impacting the core or, more commonly, from CPU VRM failures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Even though this post is intended to improve performance without any modifications, to mitigate this situation, I strongly recommend upgrading to high-performance thermal putty, shim components, or improve thermal contact with the bottom panel.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When improving the bottom panel contact make sure you use an additional heat sink to remove the heat from the baseplate. If you don&amp;rsquo;t do this then this modification will have little effect other than making the baseplate hotter.&lt;/p&gt;
+&lt;p&gt;After testing, when the Timespy score of the unmodified Flow X13 was 10,000 points (±100), the stress test stability was only 90%.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Journal 1</title>
         <link>http://localhost:1313/en/p/journal-1/</link>
         <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
@@ -297,36 +1723,15 @@
         <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/en/p/time-slice-the-beginning-of-everything/</guid>
-        <description>&lt;p&gt;&lt;code&gt;一些完美主义和远视主义的思索&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;生活在静好的岁月里，没有人再会去冒险了。&lt;/p&gt;
-&lt;p&gt;我意识到有时我们必须有一份承诺；
-让你不要在任何时候退却，放弃，无所适从；
-让它像激光一样拨开谜语，指引方向；
-永远无法得到过去的时间，因为历史被推着前进。&lt;/p&gt;
-&lt;p&gt;光阴轮转，但等到意识到轮转之时便是为之已晚。
-落叶归根，但南方的常青树并不会因为秋季落叶。
-世界的不完美是留给完美主义者最好的馈赠；
-陷入轮回之时，是承诺达成之日。&lt;/p&gt;
-&lt;p&gt;这是一篇故事，从今天开始写的故事；
-它将解释我的一切，在哪以及为什么这么做：
-让一切变得有趣，欢乐，充满意义。
-让回忆成为快乐的事，让体验成为唯一的佐证。
-当目标是极致的时候，你不得不将一切推向更高。&lt;/p&gt;
-&lt;p&gt;这是一个四维空间，我是生活在三位切片上的人类。
-无论对于文明还是个体，只有从高维思考才能解决那些无法想象，甚至无法提出的问题——但是它们客观存在，造成了不完美。
-这是时间切片。
-三维世界里可以轻易将立方体展开为1个面的平坦白纸，反之亦然；
-三维世界里可以轻易创造莫比乌斯带，将两个完全隔离的二位世界拼接。
-在四位世界里，三维的一切相形见绌，因此只要控制时间维度，所有问题都将迎刃而解，原本困难的问题变得轻而易举。&lt;/p&gt;
-&lt;p&gt;时间被设置成单向的，红移不会停止，熵增不会结束。
-锁死流向的时间大大减少了操作空间，但是它仅仅被锁死了方向，因此通过改变流速和效率依然可以一定上程度进行弥补。
-这是时间切片，一种全新的时间管理方式：
-它将真正描述这个四维空间。&lt;/p&gt;
-&lt;p&gt;让回忆成为享受，而不是遗憾。
-唯一的承诺，贯穿整个四维空间：
-一定要改变世界，让它变得更好。
-财富，知识，能力，让人类更加伟大。
-从现在开始，构建属于自己的White Room。&lt;/p&gt;
+        <description>&lt;p&gt;&lt;code&gt;Some thoughts on perfectionism and farsightedness&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Some thoughts on perfectionism and farsightedness&lt;/p&gt;
+&lt;p&gt;Living in the peaceful years, no one will take risks anymore.&lt;/p&gt;
+&lt;p&gt;I realize that sometimes we must have a promise; so that you will not retreat, give up, or be at a loss at any time; let it be like a laser to clear the riddle and guide the direction; the past time can never be obtained, because history is pushed forward.&lt;/p&gt;
+&lt;p&gt;Time rotates, but by the time you realize the rotation, it is too late. Fallen leaves return to their roots, but the evergreen trees in the south will not fall because of autumn. The imperfection of the world is the best gift for perfectionists; when you fall into reincarnation, it is the day when the promise is fulfilled.&lt;/p&gt;
+&lt;p&gt;This is a story, a story written from today; it will explain everything about me, where and why I do it: Make everything interesting, joyful and meaningful. Let memories become happy things, and let experience become the only evidence. When the goal is the extreme, you have to push everything higher.&lt;/p&gt;
+&lt;p&gt;This is a four-dimensional space, and I am a human living on a three-dimensional slice. Whether for civilization or individuals, only thinking from a higher dimension can solve those unimaginable or even unproposed problems - but they exist objectively, resulting in imperfection. This is time slicing. In the three-dimensional world, a cube can be easily unfolded into a flat white paper with one face, and vice versa; in the three-dimensional world, a Möbius strip can be easily created to splice two completely isolated two-dimensional worlds. In the four-dimensional world, everything in the three-dimensional world pales in comparison, so as long as the time dimension is controlled, all problems will be solved, and the originally difficult problems become easy.&lt;/p&gt;
+&lt;p&gt;Time is set to be one-way, redshift will not stop, and entropy increase will not end. Locking the flow of time greatly reduces the operating space, but it only locks the direction, so it can still be compensated to a certain extent by changing the flow rate and efficiency. This is time slicing, a new way of time management: It will truly describe this four-dimensional space.&lt;/p&gt;
+&lt;p&gt;Make memories an enjoyment, not a regret. Let time leave footprints, not cracks.&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -1221,8 +2626,7 @@ $$&lt;p&gt;
         <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/en/p/starfield/</guid>
-        <description>&lt;p&gt;I just saw an interesting comment on bilibili, the original text is as follows:&lt;/p&gt;
-&lt;blockquote&gt;
+        <description>&lt;blockquote&gt;
 &lt;p&gt;If there are other civilizations in the universe that are more developed than humans, I think their world must be extremely neat and tidy cities, with sharp buildings, obvious artificial features in landform transformation and various functional areas, and the operation of the city depends on powerful central supercomputer control. Aliens may look special, but they will have a lot of auxiliary equipment on their bodies, their thoughts will be more mature than humans, their logical ability will be stronger, and their emotions will fluctuate less, which is equivalent to the artificial intelligence life form in the human science fiction world. Perhaps these aliens are the silicon-based civilization heritage left behind after the disappearance of the carbon-based civilization of the planet, making these intelligent machines created to serve carbon-based creatures the new heirs of civilization.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
@@ -1467,358 +2871,6 @@ Sunday
 &lt;p&gt;&lt;strong&gt;All: 1831.56H (21983bar)&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;january&#34;&gt;January
-&lt;/h3&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Month&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Things&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Completion Degree&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real Time&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real CD&lt;/strong&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Jan.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Course&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;44.76H (537.12bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;18% of total&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;DIS&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;15H (180bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;5%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Maths 10&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;10H (120bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;100%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;IELTS 7.5&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;115H (1380bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;29%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;C#&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;40H (480bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;17%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Exercise&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;12H (144bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;/&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Violin&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8H (96bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8.33%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;GOS&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;4H (48bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;/&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;ALL&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;248.76H (2985.2bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;100.00%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;february&#34;&gt;February
-&lt;/h3&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Month&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Things&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Completion Degree&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real CD&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real Time&lt;/strong&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Feb.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Course&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;15% of total&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;45.45H (545.34bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;DIS&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;5%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;15H (180bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Maths 10&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;24H (288bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;IELTS 7.5&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;30%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;90H (1080bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;C#&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;10%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;30H (360bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Modeling&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;3%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;10H (120bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;AMC&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;13%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;40H (480bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Exercise&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;24H (288bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Violin&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;3%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8H (96bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Gaming&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;5%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;16H (192bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;ALL&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;100%&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;302.45H (3629.4bar)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Month&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Things&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Completion Degree&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real Time&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Real CD&lt;/strong&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Feb.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Mar.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Apr.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;May.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Jun.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Jul.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Aug.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Sep.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Oct.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Nov.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Dec.&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1 id=&#34;directivity-sys-testing-lab-dstl&#34;&gt;Directivity sys testing lab (DSTL)
-&lt;/h1&gt;&lt;h2 id=&#34;extream-efficiency-test&#34;&gt;EXTREAM EFFICIENCY TEST
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Aims to explore the limits of efficiency&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Test items&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Independent variables&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Dependent variables&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Test cycle&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Record&lt;/strong&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Sleep&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Time to go to bed&lt;br&gt;Do you take a shower before going to bed&lt;br&gt;Do you take a bath before going to bed&lt;br&gt;Do you read before going to bed&lt;br&gt;Do you recite words before going to bed&lt;br&gt;Do you drink milk before going to bed&lt;br&gt;Time to get up&lt;br&gt;Do you close the curtains at night&lt;br&gt;Do you go out directly after getting up&lt;br&gt;Do you wash directly after getting up&lt;br&gt;Do you take a shower after getting up&lt;br&gt;&lt;del&gt;Do you watch electronic products directly after getting up&lt;/del&gt;&lt;br&gt;Do you recite words after getting up&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Sleep quality&lt;br&gt;Do you get enough sleep&lt;br&gt;Do you wake up during sleep&lt;br&gt;Do you have enough energy&lt;br&gt;Is efficiency higher&lt;br&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Rest&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Break time&lt;br&gt;Do you go out during break&lt;br&gt;Do you go to the park during break&lt;br&gt;Do you wash your face during break&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Do you feel tired&lt;br&gt;Do you feel better&lt;br&gt;Is your state improved&lt;br&gt;Is it conducive to concentration on the next task&lt;br&gt;Is a long break necessary&lt;br&gt;Is a break necessary&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Entertainment&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Does social media affect efficiency&lt;br&gt;Does video affect efficiency&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Is it more focused&lt;br&gt;Is it easier to enter the Flow state&lt;br&gt;Is it faster for computing tasks&lt;br&gt;Is it conducive to GPU processing tasks&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Work&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;The time limit for focused work&lt;br&gt;Entering and maintaining the Flow state&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;The limit of concentration&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
 </description>
         </item>
         

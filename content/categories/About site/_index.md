@@ -4,6 +4,6 @@ description: BLOG itself
 slug: Absite
 image: avatar.jpg
 style:
-  background: "#2db47bff"
+  background: "#8f47e1"
   color: "#fff"
 ---

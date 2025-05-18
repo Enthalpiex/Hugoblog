@@ -7,6 +7,7 @@ image:
 categories:
   - Efficiency Project
 math: true
+toc: false
 tags:
   - Time_Flip
 ---

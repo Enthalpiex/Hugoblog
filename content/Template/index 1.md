@@ -2,8 +2,9 @@
 title: 
 author: Entropiex
 description: 
-date: 2024-08-26
+date: 
 image: 
+toc: false
 categories: 
 math: false
 tags:

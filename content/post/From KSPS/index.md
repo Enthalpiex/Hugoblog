@@ -4,10 +4,10 @@ author: Entropiex
 description: Post destroyed
 date: 2024-08-26
 image: KSPS_on_Internet_Achieve.png
-categories: 
+categories:
+  - About site
 math: true
 tags:
-  - KSPS
 ---
 
 We can never know when an accident will happen.

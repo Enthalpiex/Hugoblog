@@ -9,7 +9,6 @@ categories:
 math: true
 tags:
 ---
-I just saw an interesting comment on bilibili, the original text is as follows:
 
 > If there are other civilizations in the universe that are more developed than humans, I think their world must be extremely neat and tidy cities, with sharp buildings, obvious artificial features in landform transformation and various functional areas, and the operation of the city depends on powerful central supercomputer control. Aliens may look special, but they will have a lot of auxiliary equipment on their bodies, their thoughts will be more mature than humans, their logical ability will be stronger, and their emotions will fluctuate less, which is equivalent to the artificial intelligence life form in the human science fiction world. Perhaps these aliens are the silicon-based civilization heritage left behind after the disappearance of the carbon-based civilization of the planet, making these intelligent machines created to serve carbon-based creatures the new heirs of civilization.
 

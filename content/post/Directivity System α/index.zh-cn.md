@@ -7,6 +7,7 @@ image:
 categories:
   - Efficiency Project
 math: true
+toc: flase
 tags:
   - DSα
 ---
@@ -15,6 +16,7 @@ tags:
 我计划将2022，2023总结和实验的方法以及最新的理论成果结合成可以推动效率提升的系统，所见即是Directivity system。
 
 它将基于Obsidian构建，与完整的知识库结合成有效的工作流。
+
 ## 概述
 
 Annual plan for 2024 基于[[Directivity system α]] 创建，将致力于为全年提供目标指向。
@@ -107,56 +109,3 @@ Annual plan for 2024 基于[[Directivity system α]] 创建，将致力于为全
 	*AvailableTime: 248.4H (2981bar)*
 
 - **All: 1831.56H (21983bar)**
-### January
-| **Month** | **Things** | **Time** | **Completion Degree** | **Real Time** | **Real CD** |
-| :--- | :--- | ---- | :--- | :--- | :--- |
-| **Jan.** | Course | 44.76H (537.12bar) | 18% of total |  |  |
-|  | DIS | 15H (180bar) | 5% |  |  |
-|  | Maths 10 | 10H (120bar) | 100% |  |  |
-|  | IELTS 7.5 | 115H (1380bar) | 29% |  |  |
-|  | C# | 40H (480bar) | 17% |  |  |
-|  | Exercise | 12H (144bar) | / |  |  |
-|  | Violin | 8H (96bar) | 8.33% |  |  |
-|  | GOS | 4H (48bar) | / |  |  |
-|  | ALL | 248.76H (2985.2bar) | 100.00% |  |  |
-### February
-
-| **Month** | **Things** | **Completion Degree** | **Time** | **Real CD** | **Real Time** |
-| :--- | :--- | :--- | ---- | :--- | :--- |
-| **Feb.** | Course | 15% of total | 45.45H (545.34bar) |  |  |
-|  | DIS | 5% | 15H (180bar) |  |  |
-|  | Maths 10 | 8% | 24H (288bar) |  |  |
-|  | IELTS 7.5 | 30% | 90H (1080bar) |  |  |
-|  | C# | 10% | 30H (360bar) |  |  |
-|  | Modeling | 3% | 10H (120bar) |  |  |
-|  | AMC | 13% | 40H (480bar) |  |  |
-|  | Exercise | 8% | 24H (288bar) |  |  |
-|  | Violin | 3% | 8H (96bar) |  |  |
-|  | Gaming | 5% | 16H (192bar) |  |  |
-|  | ALL | 100% | 302.45H (3629.4bar) |  |  |
-
-| **Month** | **Things** | **Time** | **Completion Degree** | **Real Time** | **Real CD** |
-| :--- | :--- | ---- | :--- | :--- | :--- |
-| **Feb.** |  |  |  |  |  |
-| **Mar.** |  |  |  |  |  |
-| **Apr.** |  |  |  |  |  |
-| **May.** |  |  |  |  |  |
-| **Jun.** |  |  |  |  |  |
-| **Jul.** |  |  |  |  |  |
-| **Aug.** |  |  |  |  |  |
-| **Sep.** |  |  |  |  |  |
-| **Oct.** |  |  |  |  |  |
-| **Nov.** |  |  |  |  |  |
-| **Dec.** |  |  |  |  |  |
-|  |  |  |  |  |  |
-# Directivity sys testing lab (DSTL)
-## EXTREAM EFFICIENCY TEST
-
-**旨在探索效率的极限**
-
-| **测试项目** | **自变量** | **因变量** | **测试周期** | **记录** |
-| :--- | :--- | :--- | :--- | :--- |
-| **睡眠** | 入睡时间<br>入睡是否洗澡<br>入睡是否泡澡<br>入睡是否看书<br>入睡是否背单词<br>入睡是否喝牛奶<br>起床时间<br>晚上是否关闭窗帘<br>起床是否直接外出<br>起床是否直接洗漱<br>起床是否洗澡<br>~~起床是否直接看电子产品~~<br>起床是否背单词 | 睡眠质量<br>睡眠是否充足<br>睡眠期间是否苏醒<br>精力是否充沛<br>效率是否更高<br> |  |  |
-| **休息** | 休息时间<br>休息是否外出<br>休息是否去公园<br>休息是否洗脸 | 是否感到疲劳<br>状态是否有所提升<br>是否有利于下一工作的专注<br>长休息是否是必要的<br>间隙休息是否是必要的 |  |  |
-| **娱乐** | 社交媒体是否对效率产生影响<br>视频是否对效率产生影响 | 是否更加专注<br>是否更容易进入Flow状态<br>对于计算类任务是否更快速<br>是否有利于GPU处理任务 |  |  |
-| **工作** | 专注工作的时间极限<br>Flow状态的进入和保持 | 专注的极限 |  |  |

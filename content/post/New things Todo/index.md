@@ -4,6 +4,7 @@ author: Entropiex
 description: stuffs
 date: 2024-09-15
 image: 
+toc: false
 categories:
   - Daily
 math: true

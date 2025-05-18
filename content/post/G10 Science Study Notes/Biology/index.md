@@ -6,6 +6,7 @@ date: 2024-08-03
 image: 
 categories:
   - Study Notes
+toc: false
 math: true
 tags:
   - StudyNotes

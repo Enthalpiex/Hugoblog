@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Game_KSP on Entropiex</title>
+        <link>http://localhost:1313/zh-cn/tags/game_ksp/</link>
+        <description>Recent content in Game_KSP on Entropiex</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Entropiex</copyright>
+        <lastBuildDate>Sun, 04 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/game_ksp/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>KSP坎巴拉 死亡搁浅风TUFX配置</title>
+        <link>http://localhost:1313/zh-cn/p/ksp%E5%9D%8E%E5%B7%B4%E6%8B%89-%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E9%A3%8Etufx%E9%85%8D%E7%BD%AE/</link>
+        <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/zh-cn/p/ksp%E5%9D%8E%E5%B7%B4%E6%8B%89-%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E9%A3%8Etufx%E9%85%8D%E7%BD%AE/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS_Profile.png" alt="Featured image of post KSP坎巴拉 死亡搁浅风TUFX配置" /&gt;&lt;p&gt;&lt;strong&gt;为坎巴拉太空计划定制的 TUFX 配置文件，灵感源自《死亡搁浅》的独特氛围和电影般的视觉效果。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Death Stranding TUFX v1 对比 v3。v1倾向于还原暗处氛围，v3为正常使用进行了优化。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;v1--v3&#34;&gt;v1 &amp;amp; v3
+&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001.png&#34;
+	width=&#34;1280&#34;
+	height=&#34;799&#34;
+	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001_hu8508771763504871352.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS001_hu11699194655116227802.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002.png&#34;
+	width=&#34;1280&#34;
+	height=&#34;799&#34;
+	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002_hu8488390804714595004.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS002_hu11971083799966411472.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003.png&#34;
+	width=&#34;1280&#34;
+	height=&#34;799&#34;
+	srcset=&#34;http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003_hu17024580859531002336.png 480w, http://localhost:1313/en/p/death-stranding-style-tufx-profiles/DS003_hu8703308419899811116.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;160&#34;
+		data-flex-basis=&#34;384px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video
+&lt;/h1&gt;&lt;div style=&#34;position:relative;height:0;overflow:hidden;padding-bottom:56.25%;border-style:none&#34;&gt;&lt;iframe style=&#34;position:absolute;top:0;left:0;width:100%;height:100%&#34; src=&#34;https://www.youtube.com/embed/d49b_XRJzfc?modestbranding=1&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;简短的视频&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;安装&#34;&gt;安装
+&lt;/h1&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/Enthalpiex/DeathStranding-TUFX-KSP&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Download: Enthalpiex/DeathStranding-TUFX-KSP&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;下载“release”下的文件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;解压缩至Gamedata&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

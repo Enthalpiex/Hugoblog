@@ -5,7 +5,7 @@ description: The Highest Timespy score for Flow X13 RTX 4060
 date: 2025-01-01
 image: WR_1.png
 categories:
-  - About site
+  - Plugin & Software
 math: true
 tags:
   - electronics
@@ -32,7 +32,7 @@ tags:
 
 ## Result
 
-![](WR_1.png)
+![](post/World%20Record%20Timespy/WR_1.png)
 
 ![](WR_2.png)
 ## Summary
@@ -143,3 +143,4 @@ Pushing a GPU beyond its design limits significantly stresses the VRM, particula
 When improving the bottom panel contact make sure you use an additional heat sink to remove the heat from the baseplate. If you don't do this then this modification will have little effect other than making the baseplate hotter.
 
 After testing, when the Timespy score of the unmodified Flow X13 was 10,000 points (±100), the stress test stability was only 90%.
+

@@ -9,40 +9,21 @@ categories:
 math: true
 tags:
 ---
-`一些完美主义和远视主义的思索`
 
-生活在静好的岁月里，没有人再会去冒险了。
+`Some thoughts on perfectionism and farsightedness`
 
-我意识到有时我们必须有一份承诺；
-让你不要在任何时候退却，放弃，无所适从；
-让它像激光一样拨开谜语，指引方向；
-永远无法得到过去的时间，因为历史被推着前进。
+Some thoughts on perfectionism and farsightedness
 
-光阴轮转，但等到意识到轮转之时便是为之已晚。
-落叶归根，但南方的常青树并不会因为秋季落叶。
-世界的不完美是留给完美主义者最好的馈赠；
-陷入轮回之时，是承诺达成之日。
+Living in the peaceful years, no one will take risks anymore.
 
-这是一篇故事，从今天开始写的故事；
-它将解释我的一切，在哪以及为什么这么做：
-让一切变得有趣，欢乐，充满意义。
-让回忆成为快乐的事，让体验成为唯一的佐证。
-当目标是极致的时候，你不得不将一切推向更高。
+I realize that sometimes we must have a promise; so that you will not retreat, give up, or be at a loss at any time; let it be like a laser to clear the riddle and guide the direction; the past time can never be obtained, because history is pushed forward.
 
-这是一个四维空间，我是生活在三位切片上的人类。
-无论对于文明还是个体，只有从高维思考才能解决那些无法想象，甚至无法提出的问题——但是它们客观存在，造成了不完美。
-这是时间切片。
-三维世界里可以轻易将立方体展开为1个面的平坦白纸，反之亦然；
-三维世界里可以轻易创造莫比乌斯带，将两个完全隔离的二位世界拼接。
-在四位世界里，三维的一切相形见绌，因此只要控制时间维度，所有问题都将迎刃而解，原本困难的问题变得轻而易举。
+Time rotates, but by the time you realize the rotation, it is too late. Fallen leaves return to their roots, but the evergreen trees in the south will not fall because of autumn. The imperfection of the world is the best gift for perfectionists; when you fall into reincarnation, it is the day when the promise is fulfilled.
 
-时间被设置成单向的，红移不会停止，熵增不会结束。
-锁死流向的时间大大减少了操作空间，但是它仅仅被锁死了方向，因此通过改变流速和效率依然可以一定上程度进行弥补。
-这是时间切片，一种全新的时间管理方式：
-它将真正描述这个四维空间。
+This is a story, a story written from today; it will explain everything about me, where and why I do it: Make everything interesting, joyful and meaningful. Let memories become happy things, and let experience become the only evidence. When the goal is the extreme, you have to push everything higher.
 
-让回忆成为享受，而不是遗憾。
-唯一的承诺，贯穿整个四维空间：
-一定要改变世界，让它变得更好。
-财富，知识，能力，让人类更加伟大。
-从现在开始，构建属于自己的White Room。
+This is a four-dimensional space, and I am a human living on a three-dimensional slice. Whether for civilization or individuals, only thinking from a higher dimension can solve those unimaginable or even unproposed problems - but they exist objectively, resulting in imperfection. This is time slicing. In the three-dimensional world, a cube can be easily unfolded into a flat white paper with one face, and vice versa; in the three-dimensional world, a Möbius strip can be easily created to splice two completely isolated two-dimensional worlds. In the four-dimensional world, everything in the three-dimensional world pales in comparison, so as long as the time dimension is controlled, all problems will be solved, and the originally difficult problems become easy.
+
+Time is set to be one-way, redshift will not stop, and entropy increase will not end. Locking the flow of time greatly reduces the operating space, but it only locks the direction, so it can still be compensated to a certain extent by changing the flow rate and efficiency. This is time slicing, a new way of time management: It will truly describe this four-dimensional space.
+
+Make memories an enjoyment, not a regret. Let time leave footprints, not cracks.

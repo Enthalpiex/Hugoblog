@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Electronics on Entropiex</title>
+        <link>http://localhost:1313/en/tags/electronics/</link>
+        <description>Recent content in Electronics on Entropiex</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Entropiex</copyright>
+        <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/electronics/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Embedded Systems Engineering</title>
+        <link>http://localhost:1313/en/p/embedded-systems-engineering/</link>
+        <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/embedded-systems-engineering/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/embedded-systems-engineering/Embedded%20Systems%20Engineering%20Roadmap.png" alt="Featured image of post Embedded Systems Engineering" /&gt;&lt;p&gt;Hardware is hard? Then go for it!&lt;/p&gt;
+&lt;p&gt;In early 2025, I did some research about future opportunities, and seems like AI can replace most single-ability people in a not far future. The block chain technology and models led by transformers are now a large market and are still expanding. Unfortunately, just like the Internet boom, the best time has passed, so I need to find something still useful in future, and I realized that the combination of hardware and software that embedded development provide is one of the strongest ability I have seen.&lt;/p&gt;
+&lt;p&gt;Until AI can directly control the real world, micro-quantum computers appear, and brain-computer interfaces have the ability to inherit memory, embedded development will always exist - because all current electronic industry are built on the basis of embedded development. The decline of embedded means the rise of a new generation of computers with non-von Neumann architecture.&lt;/p&gt;
+&lt;p&gt;Computer Science alone is too boring for me. For this reason, in 2025 I decided to start learning everything about embedded development. This will be another new starting point after I acquire the ability to design for additive manufacturing.&lt;/p&gt;
+&lt;p&gt;Wish me luck.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Flow X13 Timespy World Record</title>
+        <link>http://localhost:1313/en/p/flow-x13-timespy-world-record/</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/flow-x13-timespy-world-record/</guid>
+        <description>&lt;img src="http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_1.png" alt="Featured image of post Flow X13 Timespy World Record" /&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Original Post:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/FlowX13/comments/1hret5p/flow_x13_rtx4060_timespy_world_record_no/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Flow X13 RTX4060 Timespy World Record (No Modification) : r/FlowX13&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/FlowX13/comments/1hrdlmd/revitalize_your_flow_x13_in_2025_0_cost/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Revitalize Your Flow X13 in 2025: $0 Cost Performance Boost : r/FlowX13&lt;/a&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Device&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;ROG Flow X13 2023 RTX 4060&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;RAM, vRAM&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;16G, 8G&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Hardware Modification&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;No&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Driver&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;555.97&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Power&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Original 130W&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;vBIOS&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;DELL RTX4060 Full Power 140W&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Additional heat sink&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;NO&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Ambient temperature&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;-12℃ / 10.4℉&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Highest Timespy Score&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;10376&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Highest Graphic Score&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;10536&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;result&#34;&gt;Result
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/World%20Record%20Timespy/WR_1.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_2.png&#34;
+	width=&#34;2559&#34;
+	height=&#34;1415&#34;
+	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_2_hu8605919855762022794.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/WR_2_hu17261336422985674264.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;180&#34;
+		data-flex-basis=&#34;434px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary
+&lt;/h2&gt;&lt;p&gt;Since Timespy prefers GPU scores, limiting CPU power consumption and increasing GPU clock frequency as much as possible &lt;strong&gt;successfully allows Flow X13 to compete head-on with gaming laptops that are twice as heavy as it.&lt;/strong&gt; &lt;strong&gt;In comparison, the Timespy score of a 110W RTX4060 gaming laptop is 10500.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Before the release of Flow X13, I wanted to achieve a Timespy score of more than 10000 at a weight of 1.3kg, and Flow X13 gave me this possibility.&lt;/p&gt;
+&lt;p&gt;The symbolism of this record is far greater than its practicality, because you obviously can&amp;rsquo;t always use a laptop in the Arctic, and the CPU will compete with the GPU for power consumption. But I think this is the direction of future electronic products, extreme compactness and extreme performance.&lt;/p&gt;
+&lt;p&gt;But why is there no Flow disclosure in 2025? Is it going to be released in the middle of the year?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I hope this experiment can help all Flow X13 users.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For the theoretical part, please see this post:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/FlowX13/comments/1hrdlmd/revitalize_your_flow_x13_in_2025_0_cost/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Revitalize Your Flow X13 in 2025: $0 Cost Performance Boost : r/FlowX13&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;vBIOS: &lt;a class=&#34;link&#34; href=&#34;https://www.techpowerup.com/vgabios/258363/258363&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VGA Bios Collection: Dell RTX 4060 Mobile 8 GB | TechPowerUp&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;how-to-improve-performance&#34;&gt;How To Improve Performance
+&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;WARNING: The tutorial has certain risks, please see the end of the article.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;overview-1&#34;&gt;Overview
+&lt;/h2&gt;&lt;p&gt;Today is the first day of 2025, I wish you all a happy new year.&lt;/p&gt;
+&lt;p&gt;Before CES 2025, I am sure that Flow X13 2023 will still be the only one of its size, because the 60Hz screen of PX13 is really not flattering.&lt;/p&gt;
+&lt;p&gt;Flow X13 balances everything: battery life, screen, CPU, graphics card, weight&amp;hellip; Despite this, it is still difficult to compete with traditional gaming laptops due to its size.&lt;/p&gt;
+&lt;p&gt;However, with the release of many laptops in 2023 and 2024, it has become a reality for Flow X13 to achieve the default performance of gaming laptops. Today, the performance of the RTX4060 version will be very close to the level of access to &lt;strong&gt;XG Mobile RTX3070  (or even XG Mobile RTX3080)&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;how&#34;&gt;How
+&lt;/h2&gt;&lt;p&gt;The following examples are all based on the RTX4060 version.&lt;/p&gt;
+&lt;p&gt;Through testing, we can know that the power consumption allocation of Flow X13 is &lt;strong&gt;20wCPU+50wGPU&lt;/strong&gt;. At this time, the core temperature is kept about &lt;strong&gt;80℃,&lt;/strong&gt; which means that the scheduling is very conservative, so the primary goal is to use up all cooling redundancy. At this time, the maximum GPU frequency is only 1800MHz.&lt;/p&gt;
+&lt;p&gt;By flashing vBIOS, you can change the graphics card power consumption and scheduling strategy. Please Google how to flash vBIOS, I will not repeat it here. If you encounter green screen or blue screen problems, please try to change the nvflash version and avoid using GPU-Z to back up your vBIOS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Flashing vBIOS is risky, please make sure:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Back up the original vBIOS file&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. The GPU mode is Hybrid Output Mode (cGPU+dGPU) when flashing&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. The flashed vBIOS is safe and supports Dedicated GPU Direct Output Mode and Hybrid Output Mode, otherwise your computer might become a paperweight&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. vBIOS Device ID is &amp;ldquo;10DE 28E0&amp;rdquo; (Check your original device ID and choose vBIOS with same ID)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. Reinstall the correct driver&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;where&#34;&gt;Where
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;A few tested vBIOS to choose from:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alienware RTX 4060 vBIOS (TGP 70~75W)&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://www.techpowerup.com/vgabios/265890/265890&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VGA Bios Collection: Alienware RTX 4060 Mobile 8 GB | TechPowerUp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lenovo RTX 4060 vBIOS (TGP 80~85W)&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;https://www.techpowerup.com/vgabios/260488/260488&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VGA Bios Collection: Lenovo RTX 4060 Mobile 8 GB | TechPowerUp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Not recommended but optional: (Exceeding thermal limits)&lt;/p&gt;
+&lt;p&gt;Lenovo RTX 4060 vBIOS (TGP 90~100W) &lt;a class=&#34;link&#34; href=&#34;https://www.techpowerup.com/vgabios/259213/259213&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VGA Bios Collection: Lenovo RTX 4060 Mobile 8 GB | TechPowerUp&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;how-to-configure-g-helper&#34;&gt;How to configure G-Helper
+&lt;/h1&gt;&lt;p&gt;Firstly, I used the vBIOS of the 70W Alienware X14R2 (&lt;a class=&#34;link&#34; href=&#34;https://www.techpowerup.com/vgabios/265890/265890&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;VGA Bios Collection: Alienware RTX 4060 Mobile 8 GB | TechPowerUp&lt;/a&gt;) to adjust the GPU Clock Limit through G-helper and drew the energy efficiency curve of the Flow X13 4060M graphics card:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_1.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;1032&#34;
+	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_1_hu13460723901899483011.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_1_hu4957042620024129968.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;104&#34;
+		data-flex-basis=&#34;251px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Also as we all know, the power consumption and frequency of RTX 4060 Mobile are closely related:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;RTX 4060 Mobile 80W&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;1545-1890 MHz&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;RTX 4060 Mobile 90W&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;1620-2010 MHz&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;RTX 4060 Mobile 105W&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2115-2250 MHz&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;RTX 4060 Mobile 115W&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2295-2370 MHz&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_2.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;516&#34;
+	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_2_hu11821861800005749307.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_2_hu17296957113675041656.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;209&#34;
+		data-flex-basis=&#34;502px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;From the figure, we can see that the CPU has the best performance when limited to 60 watts, and overclocking the graphics card will reduce some CPU performance. This is because the total power consumption is limited to ~125W.&lt;/p&gt;
+&lt;p&gt;In summary, you can save power by limiting the graphics card clock frequency and confirm its performance according to the table, while limiting the CPU to 60W can maximize utilization.&lt;/p&gt;
+&lt;h2 id=&#34;results&#34;&gt;Results
+&lt;/h2&gt;&lt;p&gt;The computer has not undergone any hardware modification, the test date is January 1, 2025, 130W original power supply, and the driver version is 555.97. The test environment is room temperature 20~25 ℃, and the computer is placed on a laptop stand to raise it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_3.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;665&#34;
+	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_3_hu9269447073058226488.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_3_hu17172747664137253013.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;162&#34;
+		data-flex-basis=&#34;389px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_4.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;463&#34;
+	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_4_hu14856027465708343378.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_4_hu16405754427708612687.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;233&#34;
+		data-flex-basis=&#34;559px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_5.png&#34;
+	width=&#34;1080&#34;
+	height=&#34;463&#34;
+	srcset=&#34;http://localhost:1313/en/p/flow-x13-timespy-world-record/T_5_hu7687558092088436750.png 480w, http://localhost:1313/en/p/flow-x13-timespy-world-record/T_5_hu6481622320997858894.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;233&#34;
+		data-flex-basis=&#34;559px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary-1&#34;&gt;Summary
+&lt;/h2&gt;&lt;p&gt;In comparison, the Flow X13 4070&amp;rsquo;s Timespy score is up to 9440, with a CPU score of 10681 and a GPU score of 9251. The maximum speed of Flow X13 factory vBIOS is 8800, so you can get at least 10% performance improvement for free by using this method.&lt;/p&gt;
+&lt;p&gt;But is this really the limit?&lt;/p&gt;
+&lt;h2 id=&#34;warning&#34;&gt;Warning
+&lt;/h2&gt;&lt;p&gt;Ensure cooling redundancy!&lt;/p&gt;
+&lt;p&gt;Pushing a GPU beyond its design limits significantly stresses the VRM, particularly the high-side FETs, increasing the risk of failure. GPU core failures in laptops are rarely caused by core VRM issues. Instead, failures often stem from the vRAM VRM impacting the core or, more commonly, from CPU VRM failures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Even though this post is intended to improve performance without any modifications, to mitigate this situation, I strongly recommend upgrading to high-performance thermal putty, shim components, or improve thermal contact with the bottom panel.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When improving the bottom panel contact make sure you use an additional heat sink to remove the heat from the baseplate. If you don&amp;rsquo;t do this then this modification will have little effect other than making the baseplate hotter.&lt;/p&gt;
+&lt;p&gt;After testing, when the Timespy score of the unmodified Flow X13 was 10,000 points (±100), the stress test stability was only 90%.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -7,6 +7,7 @@ image:
 categories:
   - Efficiency Project
 math: true
+toc: false
 tags:
   - DSα
 ---
@@ -109,57 +110,3 @@ Annual plan for 2024 is created based on [[Directivity system α]] and will be c
 	*AvailableTime: 248.4H (2981bar)*
 
 - **All: 1831.56H (21983bar)**
-### January
-| **Month** | **Things** | **Time** | **Completion Degree** | **Real Time** | **Real CD** |
-| :--- | :--- | ---- | :--- | :--- | :--- |
-| **Jan.** | Course | 44.76H (537.12bar) | 18% of total |  |  |
-|  | DIS | 15H (180bar) | 5% |  |  |
-|  | Maths 10 | 10H (120bar) | 100% |  |  |
-|  | IELTS 7.5 | 115H (1380bar) | 29% |  |  |
-|  | C# | 40H (480bar) | 17% |  |  |
-|  | Exercise | 12H (144bar) | / |  |  |
-|  | Violin | 8H (96bar) | 8.33% |  |  |
-|  | GOS | 4H (48bar) | / |  |  |
-|  | ALL | 248.76H (2985.2bar) | 100.00% |  |  |
-### February
-
-| **Month** | **Things** | **Completion Degree** | **Time** | **Real CD** | **Real Time** |
-| :--- | :--- | :--- | ---- | :--- | :--- |
-| **Feb.** | Course | 15% of total | 45.45H (545.34bar) |  |  |
-|  | DIS | 5% | 15H (180bar) |  |  |
-|  | Maths 10 | 8% | 24H (288bar) |  |  |
-|  | IELTS 7.5 | 30% | 90H (1080bar) |  |  |
-|  | C# | 10% | 30H (360bar) |  |  |
-|  | Modeling | 3% | 10H (120bar) |  |  |
-|  | AMC | 13% | 40H (480bar) |  |  |
-|  | Exercise | 8% | 24H (288bar) |  |  |
-|  | Violin | 3% | 8H (96bar) |  |  |
-|  | Gaming | 5% | 16H (192bar) |  |  |
-|  | ALL | 100% | 302.45H (3629.4bar) |  |  |
-
-| **Month** | **Things** | **Time** | **Completion Degree** | **Real Time** | **Real CD** |
-| :-------- | :--------- | -------- | :-------------------- | :------------ | :---------- |
-| **Feb.**  |            |          |                       |               |             |
-| **Mar.**  |            |          |                       |               |             |
-| **Apr.**  |            |          |                       |               |             |
-| **May.**  |            |          |                       |               |             |
-| **Jun.**  |            |          |                       |               |             |
-| **Jul.**  |            |          |                       |               |             |
-| **Aug.**  |            |          |                       |               |             |
-| **Sep.**  |            |          |                       |               |             |
-| **Oct.**  |            |          |                       |               |             |
-| **Nov.**  |            |          |                       |               |             |
-| **Dec.**  |            |          |                       |               |             |
-|           |            |          |                       |               |             |
-|           |            |          |                       |               |             |
-# Directivity sys testing lab (DSTL)
-## EXTREAM EFFICIENCY TEST
-
-**Aims to explore the limits of efficiency**
-
-| **Test items** | **Independent variables** | **Dependent variables** | **Test cycle** | **Record** |
-| :--- | :--- | :--- | :--- | :--- |
-| **Sleep** | Time to go to bed<br>Do you take a shower before going to bed<br>Do you take a bath before going to bed<br>Do you read before going to bed<br>Do you recite words before going to bed<br>Do you drink milk before going to bed<br>Time to get up<br>Do you close the curtains at night<br>Do you go out directly after getting up<br>Do you wash directly after getting up<br>Do you take a shower after getting up<br>~~Do you watch electronic products directly after getting up~~<br>Do you recite words after getting up | Sleep quality<br>Do you get enough sleep<br>Do you wake up during sleep<br>Do you have enough energy<br>Is efficiency higher<br> | | |
-| **Rest** | Break time<br>Do you go out during break<br>Do you go to the park during break<br>Do you wash your face during break | Do you feel tired<br>Do you feel better<br>Is your state improved<br>Is it conducive to concentration on the next task<br>Is a long break necessary<br>Is a break necessary | | |
-| **Entertainment** | Does social media affect efficiency<br>Does video affect efficiency | Is it more focused<br>Is it easier to enter the Flow state<br>Is it faster for computing tasks<br>Is it conducive to GPU processing tasks | | |
-| **Work** | The time limit for focused work<br>Entering and maintaining the Flow state | The limit of concentration | | |

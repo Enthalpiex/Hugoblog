@@ -1,35 +1,21 @@
 {
   "main": {
-    "id": "fc4cfbb4c1648fa7",
+    "id": "d3277d5c1a65dfa9",
     "type": "split",
     "children": [
       {
-        "id": "b631eef5b8d417ce",
+        "id": "cd830d29971b163a",
         "type": "tabs",
         "children": [
           {
-            "id": "1482c19aeca87ba3",
+            "id": "c85b8f15d82f0826",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/ASI 2030/index.md",
+                "file": "post/New things Todo/index.md",
                 "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "129fb9b5bcd2a99b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "post/INTJ Born Achiever and Loser/index.md",
-                "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
@@ -41,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d90063d283155535",
+    "id": "13f45d1fba022138",
     "type": "split",
     "children": [
       {
-        "id": "3ca73733ee6839e7",
+        "id": "efa0ad34cc596d9f",
         "type": "tabs",
         "children": [
           {
-            "id": "84e3e3d4b465d4b7",
+            "id": "d515bc5d764cef53",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +48,7 @@
             }
           },
           {
-            "id": "58a7f1d9d8d7e897",
+            "id": "27bc4de6eb33bfac",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,74 +65,35 @@
             }
           },
           {
-            "id": "628d9e299678c666",
+            "id": "7a5157d716656cb3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
-            }
-          },
-          {
-            "id": "b6aa456cf0b34852",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 300
   },
   "right": {
-    "id": "0c5e03b1f08f189e",
+    "id": "3ec9bb4e27d772ec",
     "type": "split",
     "children": [
       {
-        "id": "937b415b9d6fd966",
+        "id": "c86a22023a49874d",
         "type": "tabs",
-        "dimension": 74.02597402597402,
         "children": [
           {
-            "id": "eb1745085fadb91c",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
-            "id": "134662897b5d98cd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "ca9b594a1aa2fdc9",
+            "id": "7986c3696f366672",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/G10 Science Study Notes/Physics/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,53 +103,46 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "71d26b79cacb9f1d",
+            "id": "412e31d1a21bf6d2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post/G10 Science Study Notes/Physics/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "index 的出链列表"
+              "title": "Outgoing links"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "982b514330d66ec0",
-        "type": "tabs",
-        "dimension": 25.97402597402597,
-        "children": [
+          },
           {
-            "id": "2f5e300a0fc72a3d",
+            "id": "ab2f100e9242f436",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -215,61 +155,52 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1482c19aeca87ba3",
+  "active": "c85b8f15d82f0826",
   "lastOpenFiles": [
-    "post/INTJ Born Achiever and Loser/index.md",
-    "post/Occam's Razor and Bayesianism/index.md",
-    "post/World Trends and Crisis Study/index.md",
-    "post/ASI 2030/index.md",
-    "post/ASI 2030",
-    "post/From KSPS/index.md",
-    "post/World Trends and Crisis Study",
-    "Template/index 1.md",
-    "post/Occam's Razor and Bayesianism",
-    "post/DSα-update-0108/index.zh-cn.md",
-    "post/What Makes Action Hard/index.md",
+    "post/100_Many-Worlds Interpretation/006_Time travel in MWI/index.md",
+    "post/100_Many-Worlds Interpretation/006_Time travel in MWI/TVL.png",
+    "post/100_Many-Worlds Interpretation/006_Time travel in MWI/TVL.png.crdownload",
+    "post/HTTrack_Cyotek_WebCopy/index.md",
+    "post/100_Many-Worlds Interpretation/006_Time travel in MWI",
+    "post/100_Many-Worlds Interpretation/005_Shadow People/index.md",
     "post/Time Slice, The beginning of everything/index.md",
-    "post/Training and inference/index.md",
+    "post/100_Many-Worlds Interpretation/未命名.md",
+    "post/HTTrack_Cyotek_WebCopy",
     "post/Time Slice, The beginning of everything/index.zh-cn.md",
-    "post/New things Todo/index.md",
-    "page/links/index.md",
-    "post/INTJ Born Achiever and Loser",
-    "page/links/index.zh-cn.md",
-    "page/links/ts-logo-128.jpg",
-    "page/about/index.md",
-    "categories/About site/_index.md",
-    "_index.md",
-    "page/search/index.md",
-    "page/archives/index.md",
-    "categories/Study Notes/_index.md",
-    "未命名.md",
-    "post/Embedded Systems Engineering/index.md",
-    "post/Training and inference",
-    "post/World Record Timespy/index.md",
-    "post/Embedded Systems Engineering/Embedded Systems Engineering Roadmap.png",
-    "post/Embedded Systems Engineering",
-    "post/World Record Timespy/T_1.png",
-    "post/World Record Timespy/T_0.png",
-    "post/Prior Probability of Life/index.md",
-    "post/Obsidian is Not Enough/index.zh-cn.md",
-    "post/World Record Timespy/T_5.png",
-    "post/World Record Timespy/T_4.png",
-    "post/World Record Timespy/T_3.png",
-    "post/World Record Timespy/T_2.png",
-    "post/World Record Timespy/WR_2.png",
-    "post/World Record Timespy/WR_1.png",
-    "post/Future/index.md",
-    "post/Future",
-    "post/World Record Timespy",
-    "post/Daily Journal 1/Journal 1",
-    "post/Daily Journal 1",
-    "未命名 3.canvas",
-    "未命名 2.canvas",
-    "未命名 1.canvas",
-    "未命名.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "未命名 4.canvas"
+    "post/Starfield/index.zh-cn.md",
+    "post/Starfield/index.md",
+    "post/Brand New - Time Flip/index.md",
+    "post/Brand New - Time Flip/index.zh-cn.md",
+    "post/Directivity System α/index.zh-cn.md",
+    "post/Directivity System α/index.md",
+    "post/New Encryption Plugin/index.md",
+    "post/100_Many-Worlds Interpretation/001_What is MWI/index.md",
+    "post/Applying and Learning/index.md",
+    "post/ASI 2030/index.md",
+    "post/DSα-update-0104/index.zh-cn.md",
+    "post/100_Many-Worlds Interpretation/005_Shadow People/SP02.png",
+    "post/100_Many-Worlds Interpretation/005_Shadow People/SP01.png",
+    "post/100_Many-Worlds Interpretation/005_Shadow People/SP04.png",
+    "post/100_Many-Worlds Interpretation/005_Shadow People/SP03.png",
+    "post/Violet Evergarden/index.md",
+    "post/100_Many-Worlds Interpretation/005_Shadow People",
+    "post/The Boring MBTI System/index.md",
+    "post/Violet Evergarden/VE8.png",
+    "post/Violet Evergarden/VE7.png",
+    "post/Violet Evergarden/VE6.png",
+    "post/Violet Evergarden/VE5.png",
+    "post/Violet Evergarden/VE4.png",
+    "post/100_Many-Worlds Interpretation/004_False Positives in MWI Navigation/index.md",
+    "post/Violet Evergarden",
+    "post/100_Many-Worlds Interpretation/003_Intention & Navigation in MWI/index.md",
+    "post/100_Many-Worlds Interpretation/004_False Positives in MWI Navigation",
+    "post/100_Many-Worlds Interpretation/002_Law of Attraction Under MWI/index.md",
+    "post/021_New Encryption Plugin/未命名",
+    "post/Eccirian/index.md",
+    "post/New Encryption Plugin",
+    "post/New folder",
+    "post/Eccirian/index.zh-cn.md",
+    "post/Death Stranding Style TUFX Profiles/index.zh-cn.md",
+    "post/100_Many-Worlds Interpretation/003_Intention & Navigation in MWI"
   ]
 }

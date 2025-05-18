@@ -4,6 +4,6 @@ description: "Push to limit"
 slug: "Effp"
 image: "CDZ.png"
 style:
-    background: "#2a9d8f"
+    background: "#2C384E"
     color: "#fff"
 ---

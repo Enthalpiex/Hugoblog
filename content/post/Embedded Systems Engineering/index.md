@@ -5,7 +5,7 @@ description: About Irreplaceability
 date: 2025-01-10
 image: Embedded Systems Engineering Roadmap.png
 categories:
-  - Future
+  - Daily
 math: false
 tags:
   - electronics

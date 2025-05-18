@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Software on Entropiex</title>
+        <link>http://localhost:1313/en/tags/software/</link>
+        <description>Recent content in Software on Entropiex</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Entropiex</copyright>
+        <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/software/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>HTTrack  vs Cyotek WebCopy</title>
+        <link>http://localhost:1313/en/p/httrack-vs-cyotek-webcopy/</link>
+        <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/p/httrack-vs-cyotek-webcopy/</guid>
+        <description>&lt;p&gt;When it comes to downloading entire websites for offline browsing, HTTrack and Cyotek WebCopy are two of the most well-known tools. They have both been out of update for many years.&lt;/p&gt;
+&lt;p&gt;Unfortunately, we don&amp;rsquo;t have a replacement.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Feature&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;HTTrack&lt;/strong&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Cyotek WebCopy&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;First Released&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1998&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2013&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Last Update&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2017&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2023&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Open Source&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Yes (GPL licensed)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;No&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Platform&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Windows, Linux, macOS (via Wine)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Windows only&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;User Interface&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Outdated, functional&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Clean&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Custom URL Include/Exclude&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Powerful (wildcards, filters)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Available, but harder to configure&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Login Form Support&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Manual cookie handling required&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Basic form-based login supported&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Speed &amp;amp; Connection Control&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Highly customizable&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Minimal options&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Command Line Support&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Full command-line interface&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;GUI only&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Export/Import Configurations&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Supports &lt;code&gt;.opt&lt;/code&gt; files&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;No configuration export&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Speed&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Faster (configurable parallelism)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Slower (fewer threads)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;However, neither tool supports JavaScript-rendered sites very well. We really need new website downloading tools - not these two decades-old antiques that continue to work.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
