@@ -66,7 +66,7 @@ Annual plan for 2024 is created based on [[Directivity system α]] and will be c
 - Wash10min
 - Breakfirst15min
 - Lunch20min
-- dinner30min
+- Dinner30min
 - Wash10min
 
 	**600-730 (1.50H (18bar))**
@@ -79,7 +79,7 @@ Annual plan for 2024 is created based on [[Directivity system α]] and will be c
 	**1510-1800 (2.83H (34bar))**
 	**1830-2200 (3.50H (42bar))**
 	**7.83H (94bar)**
-
+%%
 ## Progress plan
 
 - January 
@@ -110,3 +110,4 @@ Annual plan for 2024 is created based on [[Directivity system α]] and will be c
 	*AvailableTime: 248.4H (2981bar)*
 
 - **All: 1831.56H (21983bar)**
+%%

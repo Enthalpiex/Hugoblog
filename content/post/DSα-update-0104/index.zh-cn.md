@@ -11,6 +11,6 @@ tags:
   - DSα
 ---
 - [x] 表格数据计算麻烦
-- Jan.4 通过DirectivityHelper解决
+- Jan.4 DirectivityHelper 更新
 
 [Enthalpiex/DirectivitySystem: Something interesting...... (github.com)](https://github.com/Enthalpiex/DirectivitySystem)
